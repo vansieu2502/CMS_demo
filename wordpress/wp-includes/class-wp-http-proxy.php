@@ -1,1 +1,227 @@
-�� ਵਰਤੋਂ ਕਰਕੇ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇਗਾ।ਬ੍ਰਾਊਜ਼ਿੰਗ ਡੇਟਾ ਸਿੰਕ ਕੰਮ ਜਾਂ ਸਕੂਲ ਦੇ ਖਾਤਿਆਂ ਲਈ ਅਜੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।ਸ਼ੌਰਟਕੱਟਇਸ ਤੋਂ ਆਯਾਤ ਕਰਨ ਲਈ ਇੱਕ ਪ੍ਰੋਫਾਈਲ ਦੀ ਚੋਣ ਕਰੋਜਾਣਕਾਰੀਦਿਨ ਦਾ ਪਿਛੋਕੜ ਪ੍ਰਤੀਬਿੰਬ, ਪੰਨੇ ਦੇ ਹੇਠਾਂ ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਦਿਖਾਈ ਦੇਣ ਵਾਲੇ ਤੇਜ਼ ਲਿੰਕ ਅਤੇ ਫੀਡ ਸਮੱਗਰੀ ਦੇ ਨਾਲ ਸ਼ੁਰੂਆਤੀ ਪੰਨਾ ਲੇਆਉਟ 'ਪ੍ਰੇਰਨਾਦਾਇਕ' 'ਤੇ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈਦਿਨ ਦਾ ਪਿਛੋਕੜ ਪ੍ਰਤੀਬਿੰਬ, ਪੰਨੇ ਦੇ ਹੇਠਾਂ ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਦਿਖਾਈ ਦੇਣ ਵਾਲੇ ਤੇਜ਼ ਲਿੰਕ ਅਤੇ ਫੀਡ ਸਮੱਗਰੀ ਦੇ ਨਾਲ ਸ਼ੁਰੂਆਤੀ ਪੰਨਾ ਲੇਆਉਟ 'ਫੋਕਸਡ' 'ਤੇ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈਦਿਨ ਦਾ ਪਿਛੋਕੜ ਪ੍ਰਤੀਬਿੰਬ, ਪੰਨੇ ਦੇ ਹੇਠਾਂ ਅੰਸ਼ਕ ਤੌਰ 'ਤੇ ਦਿਖਾਈ ਦੇਣ ਵਾਲੇ ਤੇਜ਼ ਲਿੰਕ ਅਤੇ ਫੀਡ ਸਮੱਗਰੀ ਦੇ ਨਾਲ ਸ਼ੁਰੂਆਤੀ ਪੰਨਾ ਲੇਆਉਟ 'ਜਾਣਕਾਰੀ' 'ਤੇ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ’’Google Chrome ਤੋਂ ਆਯਾਤ ਕਰੋਆਪਣਾ ਡੇਟਾ ਆਯਾਤ ਕਰੋMozilla Firefox ਤੋਂ ਆਯਾਤ ਕਰੋਬਿਨਾਂ ਆਯਾਤ ਕੀਤੇ ਜਾਰੀ ਰੱਖੋਡਿਫੌਲਟ Chrome ਪ੍ਰੋਫਾਈਲ -ਆਪਣੇ ਸਫਾ-ਚਿੰਨਾਂ, ਫਾਰਮਾਂ ਨੂੰ ਆਪ ਭਰ ਅਤੇ Google Chrome ਤੋਂ ਹੋਰ ਬ੍ਰਾਉਜ਼ਿੰਗ ਡੇਟਾ ਦੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋਆਯਾਤ ਨਾ ਕਰੋਆਪਣੇ ਮਨਪਸੰਦ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਤੇ ਦੇਖੋਕਿਸੇ ਵੀ ਡਿਵਾਇਸ ‘ਤੇ ਆਪਣੇ ਇਤਿਹਾਸ, ਮਨਪਸੰਦ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਦੇਖੋਜਦੋਂ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਪਣੀਆਂ ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰ ਸਕਦੇ ਹੋਤੁਹਾਡੀਆਂ ਦੁਆਰਾ ਇਸਤੇਮਾਲ ਕੀਤੀਆਂ ਸਾਰੀਆਂ ਸਾਈਨ-ਇਨ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਬ੍ਰਾਊਜ਼ਰ ਡੇਟਾ ਸਿੰਕ ਕਰੋ$1 ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸਾਈਨ-ਇਨ ਕੀਤੇ ਗਏ ਤੁਹਾਡੇ ਸਾਰੇ ਡਿਵਾਇਸਾਂ ‘ਤੇ ਬ੍ਰਾਊਜ਼ਰ ਡੇਟਾ ਸਿੰਕ ਕਰੋਸਿੰਕ ਨੂੰ $1 ਲਈ ਤੁਹਾਡੇ ਸੰਸਥਾਨ ਵਿੱਚ ਪ੍ਰਬੰਧਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਿੱਚ $1 ਲਈ ਸਿੰਕ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈਸਿੰਕ ਸੈਟਿੰਗਾਂ ਅਨੁਕੂਲਿਤ ਕਰੋ।Microsoft ਤਜ਼ਰਬੇ ਨੂੰ ਤੁਹਾਡੀ ਲਈ ਵਧੇਰੇ ਲਾਭਦਾਇਕ ਬਣਾਉਣ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋਵੈਬ ਨੂੰ ਤੁਹਾਡੇ ਕੰਮ ਕਰਨ ਲਾਇਕ ਬਣਾਈਏMicrosoft ਨੂੰ ਇਸ ਖਾਤੇ ਤੋਂ ਆਪਣੇ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣ ਦੁਆਰਾ ਇਸ਼ਤਿਹਾਰ, ਖੋਜ, ਖ਼ਬਰਾਂ ਅਤੇ ਹੋਰ Microsoft ਸੇਵਾਵਾਂ ਦੇ ਨਿੱਜੀਕਰਨ ਵਿੱਚ ਸੁਧਾਰ ਕਰਦਾ ਹੈ।Microsoft Edge ਅਤੇ ਵਿਗਿਆਪਨ, ਖੋਜ, ਖ਼ਰੀਦਦਾਰੀ ਅਤੇ ਖ਼ਬਰਾਂ ਵਰਗੀ Microsoft ਸੇਵਾਵਾਂ ਨੂੰ ਵਿਅਕਤੀਗਤ ਬਣਾਉਣ ਦੇ ਲਈ Microsoft ਨੂੰ ਆਪਣੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਕਿਰਿਆ ਨੂੰ ਵਰਤਣ ਦੀ ਆਗਿਆ ਦਿਓ ਜਿਵੇਂ ਕਿ ਇਤਿਹਾਸ, ਮਨਪਸੰਦਾਂ, ਵਰਤੋਂ, ਅਤੇ ਹੋਰ ਬ੍ਰਾਊਜ਼ਿੰਗ ਡੇਟਾਆਪਣੀ ਗੋਪਨੀਯਤਾ ਸੈਟਿੰਗਾਂ ਨੂੰ ਕੰਨਫਿਗਰ ਕਰੋ ਤਾਂ ਜੋ ਉਹ ਤੁਹਾਡੇ ਲਈ ਸਹੀ ਹੋਣ - Microsoft Edge Insider ਸਹਾਇਤਾMicrosoft ਖਾਤਾ | ਗੋਪਨੀਯਤਾGoogle Chrome ਤੋਂ ਕੀ ਆਯਾਤ ਕੀਤਾ ਗਿਆ ਹੈ?Mozilla Firefox ਤੋਂ ਕੀ ਆਯਾਤ ਕੀਤਾ ਗਿਆ ਹੈ?Internet Explorer ਤੋਂ ਕੀ ਆਯਾਤ ਕੀਤਾ ਗਿਆ ਹੈ?ਪਸੰਦੀਦਾ ਵਿੱਚ ਉਹ ਕੋਈ ਵੀ ਟੈਬਾਂ ਸ਼ਾਮਲ ਹੁੰਦੀਆਂ ਹਨ ਜੋ ਤੁਸੀਂ ਪਹਿਲਾਂ ਸੈੱਟ ਕੀਤੀਆਂ ਸੀ।https://go.microsoft.com/fwlink/?linkid=2107360&clcid=0x409ਹਾਇ, $1ਇੱਕ ਤੇਜ਼, ਸੁਰੱਖਿਅਤ, ਅਤੇ ਲਾਭਦਾਇਕ ਵੈੱਬ ਬ੍ਰਾਊਜ਼ਰ ਜੋ ਤੁਹਾਡੇ ਲਈ ਕੰਮ ਕਰਦਾ ਹੈਨਵੇਂ Microsoft Edge ਵਿੱਚ ਸਵਾਗਤ ਹੈ।ਤੁਹਾਡੇ ਬ੍ਰਾਉਜ਼ ਕਰਦੇ ਸਮੇਂ ਤੁਹਾਡੇ ਲਈ ਹੋਰ ਜਿਆਦਾ ਨਿਯੰਤਰਣ ਅਤੇ ਗੋਪਨੀਯਤਾ ਉਪਲਬਧ ਕਰਾਉਣ ਲਈ ਬਿਲਟ-ਇਨ ਸਾਧਨਾਂ ਨੂੰ ਐਕਸਪਲੋਰ ਕਰੋ।ਸੰਗ੍ਰਹਿਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋਰਚਨਾਕਾਰ ਅਪਡੇਟਾਂ ਨੂੰ ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਉਤੁਹਾਡੇ �
+<?php
+/**
+ * HTTP API: WP_HTTP_Proxy class
+ *
+ * @package WordPress
+ * @subpackage HTTP
+ * @since 4.4.0
+ */
+
+/**
+ * Core class used to implement HTTP API proxy support.
+ *
+ * There are caveats to proxy support. It requires that defines be made in the wp-config.php file to
+ * enable proxy support. There are also a few filters that plugins can hook into for some of the
+ * constants.
+ *
+ * Please note that only BASIC authentication is supported by most transports.
+ * cURL MAY support more methods (such as NTLM authentication) depending on your environment.
+ *
+ * The constants are as follows:
+ * <ol>
+ * <li>WP_PROXY_HOST - Enable proxy support and host for connecting.</li>
+ * <li>WP_PROXY_PORT - Proxy port for connection. No default, must be defined.</li>
+ * <li>WP_PROXY_USERNAME - Proxy username, if it requires authentication.</li>
+ * <li>WP_PROXY_PASSWORD - Proxy password, if it requires authentication.</li>
+ * <li>WP_PROXY_BYPASS_HOSTS - Will prevent the hosts in this list from going through the proxy.
+ * You do not need to have localhost and the site host in this list, because they will not be passed
+ * through the proxy. The list should be presented in a comma separated list, wildcards using * are supported. Example: *.wordpress.org</li>
+ * </ol>
+ *
+ * An example can be as seen below.
+ *
+ *     define('WP_PROXY_HOST', '192.168.84.101');
+ *     define('WP_PROXY_PORT', '8080');
+ *     define('WP_PROXY_BYPASS_HOSTS', 'localhost, www.example.com, *.wordpress.org');
+ *
+ * @link https://core.trac.wordpress.org/ticket/4011 Proxy support ticket in WordPress.
+ * @link https://core.trac.wordpress.org/ticket/14636 Allow wildcard domains in WP_PROXY_BYPASS_HOSTS
+ *
+ * @since 2.8.0
+ */
+#[AllowDynamicProperties]
+class WP_HTTP_Proxy {
+
+	/**
+	 * Whether proxy connection should be used.
+	 *
+	 * Constants which control this behavior:
+	 *
+	 * - `WP_PROXY_HOST`
+	 * - `WP_PROXY_PORT`
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return bool
+	 */
+	public function is_enabled() {
+		return defined( 'WP_PROXY_HOST' ) && defined( 'WP_PROXY_PORT' );
+	}
+
+	/**
+	 * Whether authentication should be used.
+	 *
+	 * Constants which control this behavior:
+	 *
+	 * - `WP_PROXY_USERNAME`
+	 * - `WP_PROXY_PASSWORD`
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return bool
+	 */
+	public function use_authentication() {
+		return defined( 'WP_PROXY_USERNAME' ) && defined( 'WP_PROXY_PASSWORD' );
+	}
+
+	/**
+	 * Retrieve the host for the proxy server.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return string
+	 */
+	public function host() {
+		if ( defined( 'WP_PROXY_HOST' ) ) {
+			return WP_PROXY_HOST;
+		}
+
+		return '';
+	}
+
+	/**
+	 * Retrieve the port for the proxy server.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return string
+	 */
+	public function port() {
+		if ( defined( 'WP_PROXY_PORT' ) ) {
+			return WP_PROXY_PORT;
+		}
+
+		return '';
+	}
+
+	/**
+	 * Retrieve the username for proxy authentication.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return string
+	 */
+	public function username() {
+		if ( defined( 'WP_PROXY_USERNAME' ) ) {
+			return WP_PROXY_USERNAME;
+		}
+
+		return '';
+	}
+
+	/**
+	 * Retrieve the password for proxy authentication.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return string
+	 */
+	public function password() {
+		if ( defined( 'WP_PROXY_PASSWORD' ) ) {
+			return WP_PROXY_PASSWORD;
+		}
+
+		return '';
+	}
+
+	/**
+	 * Retrieve authentication string for proxy authentication.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return string
+	 */
+	public function authentication() {
+		return $this->username() . ':' . $this->password();
+	}
+
+	/**
+	 * Retrieve header string for proxy authentication.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @return string
+	 */
+	public function authentication_header() {
+		return 'Proxy-Authorization: Basic ' . base64_encode( $this->authentication() );
+	}
+
+	/**
+	 * Determines whether the request should be sent through a proxy.
+	 *
+	 * We want to keep localhost and the site URL from being sent through the proxy, because
+	 * some proxies can not handle this. We also have the constant available for defining other
+	 * hosts that won't be sent through the proxy.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @param string $uri URL of the request.
+	 * @return bool Whether to send the request through the proxy.
+	 */
+	public function send_through_proxy( $uri ) {
+		$check = parse_url( $uri );
+
+		// Malformed URL, can not process, but this could mean ssl, so let through anyway.
+		if ( false === $check ) {
+			return true;
+		}
+
+		$home = parse_url( get_option( 'siteurl' ) );
+
+		/**
+		 * Filters whether to preempt sending the request through the proxy.
+		 *
+		 * Returning false will bypass the proxy; returning true will send
+		 * the request through the proxy. Returning null bypasses the filter.
+		 *
+		 * @since 3.5.0
+		 *
+		 * @param bool|null $override Whether to send the request through the proxy. Default null.
+		 * @param string    $uri      URL of the request.
+		 * @param array     $check    Associative array result of parsing the request URL with `parse_url()`.
+		 * @param array     $home     Associative array result of parsing the site URL with `parse_url()`.
+		 */
+		$result = apply_filters( 'pre_http_send_through_proxy', null, $uri, $check, $home );
+		if ( ! is_null( $result ) ) {
+			return $result;
+		}
+
+		if ( 'localhost' === $check['host'] || ( isset( $home['host'] ) && $home['host'] === $check['host'] ) ) {
+			return false;
+		}
+
+		if ( ! defined( 'WP_PROXY_BYPASS_HOSTS' ) ) {
+			return true;
+		}
+
+		static $bypass_hosts   = null;
+		static $wildcard_regex = array();
+		if ( null === $bypass_hosts ) {
+			$bypass_hosts = preg_split( '|,\s*|', WP_PROXY_BYPASS_HOSTS );
+
+			if ( str_contains( WP_PROXY_BYPASS_HOSTS, '*' ) ) {
+				$wildcard_regex = array();
+				foreach ( $bypass_hosts as $host ) {
+					$wildcard_regex[] = str_replace( '\*', '.+', preg_quote( $host, '/' ) );
+				}
+				$wildcard_regex = '/^(' . implode( '|', $wildcard_regex ) . ')$/i';
+			}
+		}
+
+		if ( ! empty( $wildcard_regex ) ) {
+			return ! preg_match( $wildcard_regex, $check['host'] );
+		} else {
+			return ! in_array( $check['host'], $bypass_hosts, true );
+		}
+	}
+}

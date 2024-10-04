@@ -1,1 +1,113 @@
-�ं आयात करूंक सोदतात तें तुमी बदलूंक शकतातप्रोफायल आयात करचोआयात करपाक आयटम्स वेंचचेआयात प्रोफायल बदलचोलागू करचेंतुमचो आयात प्रोफायल बदल्ल्यार, नव्या आयात प्रोफायलाचो ब्रावजर डेटा हो विद्यमान आयात प्रोफायलाच्या ब्रावजर डेटा कडेन विलीन जातलो.हें वेळार आयात करूंक आयटम्स वेंच्चेआयात केल्लो प्रोफायल ऍक्सॅस करूंक शकना, देखून दरेकी लॉन्चाचेर आयात थांबयलांप्रोफायल घडये अवैध आसा वा ऍक्सॅस करूंक शकना. ब्रावजर डेटा आयात पुनर्आरंभ करूंक तुमचो आयात प्रोफायल बदलचो.प्रोफायल घडये अवैध आसतलो वा ऍक्सॅस करूंक मेळचो ना. आमकां जरी आनीक थोड्या प्रयत्ना उपरांत प्रोफायल ऍक्सॅस करूंक मेळ्ळो ना जाल्यार आमी दरेकी लॉन्चाचेर आयात बंद करतले.ह्यो मांडावळी खंयचे दुसरे सुवातेर वापरांत आसा. तुमी ह्यो मांडावळी हांगा वापरूंक, थंयसर बंद करपाची गरज आसा.उगडिल्ले टॅब्स आयात करचेतुमचे सगळे क्रॅडॅन्शियल्स Microsoft Edge त सांबाळचेहेर ब्रावजर्स आनी पासवर्ड वेवस्थापकां कडल्यान तुमचो ब्रावजर डेटा आयात करचोGoogle Chrome तल्यान डेटा आयात करचोGoogle Chrome तल्यान बूकमार्क्स, पासवर्ड्स, इतिहास, आनी हेर ब्रावजर डेटा आयात करचोFirefox तल्यान डेटा आयात करचोFirefox तल्यान बूकमार्क्स, पासवर्ड्स, इतिहास, आनी हेर ब्रावजर डेटा आयात करचोIE11 तल्यान डेटा आयात करचोIE11 तल्यान बूकमार्क्स, पासवर्ड्स, इतिहास, आनी हेर ब्रावजर डेटा आयात करचोदरेकी ब्रावजर लाँचांतल्यान ब्रावजींग डेटा आयात करचोतुमी दरेकी वेळार Microsoft Edge त ब्रावजींग करतात तेन्ना तुमच्या हालींच्या ब्�
+<?php
+/**
+ * SimplePie
+ *
+ * A PHP-Based RSS and Atom Feed Framework.
+ * Takes the hard work out of managing a complete RSS/Atom solution.
+ *
+ * Copyright (c) 2004-2016, Ryan Parman, Sam Sneddon, Ryan McCue, and contributors
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without modification, are
+ * permitted provided that the following conditions are met:
+ *
+ * 	* Redistributions of source code must retain the above copyright notice, this list of
+ * 	  conditions and the following disclaimer.
+ *
+ * 	* Redistributions in binary form must reproduce the above copyright notice, this list
+ * 	  of conditions and the following disclaimer in the documentation and/or other materials
+ * 	  provided with the distribution.
+ *
+ * 	* Neither the name of the SimplePie Team nor the names of its contributors may be used
+ * 	  to endorse or promote products derived from this software without specific prior
+ * 	  written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS
+ * OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+ * AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS
+ * AND CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ * THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+ * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+ * POSSIBILITY OF SUCH DAMAGE.
+ *
+ * @package SimplePie
+ * @copyright 2004-2016 Ryan Parman, Sam Sneddon, Ryan McCue
+ * @author Ryan Parman
+ * @author Sam Sneddon
+ * @author Ryan McCue
+ * @link http://simplepie.org/ SimplePie
+ * @license http://www.opensource.org/licenses/bsd-license.php BSD License
+ */
+
+/**
+ * Base for cache objects
+ *
+ * Classes to be used with {@see SimplePie_Cache::register()} are expected
+ * to implement this interface.
+ *
+ * @package SimplePie
+ * @subpackage Caching
+ */
+interface SimplePie_Cache_Base
+{
+	/**
+	 * Feed cache type
+	 *
+	 * @var string
+	 */
+	const TYPE_FEED = 'spc';
+
+	/**
+	 * Image cache type
+	 *
+	 * @var string
+	 */
+	const TYPE_IMAGE = 'spi';
+
+	/**
+	 * Create a new cache object
+	 *
+	 * @param string $location Location string (from SimplePie::$cache_location)
+	 * @param string $name Unique ID for the cache
+	 * @param string $type Either TYPE_FEED for SimplePie data, or TYPE_IMAGE for image data
+	 */
+	public function __construct($location, $name, $type);
+
+	/**
+	 * Save data to the cache
+	 *
+	 * @param array|SimplePie $data Data to store in the cache. If passed a SimplePie object, only cache the $data property
+	 * @return bool Successfulness
+	 */
+	public function save($data);
+
+	/**
+	 * Retrieve the data saved to the cache
+	 *
+	 * @return array Data for SimplePie::$data
+	 */
+	public function load();
+
+	/**
+	 * Retrieve the last modified time for the cache
+	 *
+	 * @return int Timestamp
+	 */
+	public function mtime();
+
+	/**
+	 * Set the last modified time to the current time
+	 *
+	 * @return bool Success status
+	 */
+	public function touch();
+
+	/**
+	 * Remove the cache
+	 *
+	 * @return bool Success status
+	 */
+	public function unlink();
+}

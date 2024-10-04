@@ -737,4 +737,332 @@
 			}
 
 			/*
-		��<b>ਅਸੀਂ ਇਸ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕਰਦੇ ਹਾਂ:</b> ਜਿਵੇਂ ਤੁਸੀਂ ਬ੍ਰਾਊਜ਼ ਕਰਦੇ ਹੋ, Edge ਤੁਹਾਡੀ ਦਿਲਚਸਪੀ ਦੇ ਵਿਸ਼ਿਆਂ ਨੂੰ ਨੋਟ ਕਰਦਾ ਹੈ। ਵਿਸ਼ੇ ਦੇ ਲੇਬਲ ਪਹਿਲਾਂ ਤੋਂ ਪਰਿਭਾਸ਼ਿਤ ਹੁੰਦੇ ਹਨ ਅਤੇ ਇਸ ਵਿੱਚ ਕਲਾ ਅਤੇ ਮਨੋਰੰਜਨ, ਖਰੀਦਦਾਰੀ ਅਤੇ ਖੇਡਾਂ ਸ਼ਾਮਲ ਹਨ। ਬਾਅਦ ਵਿੱਚ, ਜੋ ਸਾਈਟ ਤੁਸੀਂ ਵੇਖਦੇ ਹੋ, ਉਹ ਤੁਹਾਡੇ ਦੁਆਰਾ ਵੇਖੇ ਜਾਣ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਨੂੰ ਵਿਅਕਤੀਗਤ ਬਣਾਉਣ ਲਈ Edge ਨੂੰ ਤੁਹਾਡੇ ਕੁਝ ਵਿਸ਼ਿਆਂ (ਪਰ ਤੁਹਾਡਾ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਨਹੀਂ) ਲਈ ਪੁੱਛ ਸਕਦਾ ਹੈ।<b>ਤੁਸੀਂ ਆਪਣੇ ਡੇਟਾ ਨੂੰ ਕਿਵੇਂ ਪ੍ਰਬੰਧਿਤ ਕਰ ਸਕਦੇ ਹੋ: </b> Edge 4 ਹਫਤੇ ਤੋਂ ਪੁਰਾਣੇ ਵਿਸ਼ਿਆਂ ਨੂੰ ਆਪਣੇ ਆਪ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਬ੍ਰਾਉਜ਼ਿੰਗ ਕਰਦੇ ਰਹਿੰਦੇ ਹੋ, ਤਾਂ ਕੋਈ ਵਿਸ਼ਾ ਸੂਚੀ ਵਿੱਚ ਮੁੜ ਦਿਖਾਈ ਦੇ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਉਹਨਾਂ ਵਿਸ਼ਿਆਂ ਨੂੰ ਬਲੌਕ ਵੀ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਤੁਸੀਂ ਨਹੀਂ ਚਾਹੁੰਦੇ ਕਿ Edge ਸਾਈਟਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੇ ਅਤੇ Edge ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੀ ਸਮੇਂ ਵਿਗਿਆਪਨ ਦੇ ਵਿਸ਼ਿਆਂ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦਾ ਹੈ।ਇਸ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ਕਿ Microsoft ਸਾਡੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿੱਚ ਤੁਹਾਡੇ ਡੇਟਾ ਦੀ ਰੱਖਿਆ ਕਿਵੇਂ ਕਰਦਾ ਹੈ।ਹੋਰ ਵਿਗਿਆਪਨ ਗੋਪਨੀਯਤਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਹੁਣ ਉਪਲਬਧ ਹਨਅਸੀਂ ਇਹ ਸੀਮਤ ਕਰਨ ਲਈ ਨਵੇਂ ਤਰੀਕੇ ਲਾਂਚ ਕਰ ਰਹੇ ਹਾਂ ਕਿ ਜਦੋਂ ਸਾਈਟਾਂ ਤੁਹਾਨੂੰ ਵਿਅਕਤੀਗਤ ਵਿਗਿਆਪਨ ਦਿਖਾਉਂਦੀਆਂ ਹਨ ਤਾਂ ਉਹ ਤੁਹਾਡੇ ਬਾਰੇ ਕੀ ਸਿੱਖ ਸਕਦੀਆਂ ਹਨ, ਉਦਾਹਰਨ ਲਈ:ਸਾਈਟ ਦੁਆਰਾ ਸੁਝਾਏ ਗਏ ਵਿਗਿਆਪਨ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਪ੍ਰਸੰਗਿਕ ਵਿਗਿਆਪਨ ਦਿਖਾਉਣਾ ਸਮਰੱਥ ਬਣਾਉਂਦੇ ਹੋਏ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਅਤੇ ਪਛਾਣ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ। ਤੁਹਾਡੀ ਗਤੀਵਿਧੀ ਦੇ ਆਧਾਰ 'ਤੇ, ਤੁਹਾਡੇ ਦੁਆਰਾ ਵਿਜ਼ਿਟ ਕੀਤੀ ਗਈ ਸਾਈਟ ਤੁਹਾਡੀ ਬ੍ਰਾਊਜ਼ਿੰਗ ਨਾਲ ਸੰਬੰਧਿਤ ਵਿਗਿਆਪਨਾਂ ਦਾ ਸੁਝਾਅ ਦੇ ਸਕਦੀ ਹੈ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਹਨਾਂ ਸਾਈਟਾਂ ਦੀ ਸੂਚੀ ਦੇਖ ਸਕਦੇ ਹੋ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਬਲੌਕ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਤੁਸੀਂ ਨਹੀਂ ਚਾਹੁੰਦੇ ਹੋ।।ਵਿਗਿਆਪਨ ਮਾਪ ਦੇ ਨਾਲ, ਸਾਈਟਾਂ ਦੇ ਵਿਚਕਾਰ ਉਹਨਾਂ ਦੇ ਵਿਗਿਆਪਨਾਂ ਦੇ ਪ੍ਰਦਰਸ਼ਨ ਨੂੰ ਮਾਪਣ ਲਈ ਸੀਮਤ ਕਿਸਮਾਂ ਦੇ ਡੇਟਾ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਸਾਈਟ 'ਤੇ ਜਾਣ ਤੋਂ ਬਾਅਦ ਖਰੀਦਦਾਰੀ ਕੀਤੀ ਹੈ।ਸਾਈਟ ਦੇ ਸੁਝਾਏ ਗਏ ਵਿਗਿਆਪਨ ਅਤੇ ਵਿਗਿਆਪਨ ਦੇ ਮਾਪ ਬਾਰੇ ਹੋਰ ਬਹੁਤ ਕੁਝਤੁਸੀਂ Edge ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕਰ ਸਕਦੇ ਹੋ।ਸਾਈਟ ਦੁਆਰਾ ਸੁਝਾਏ ਗਏ ਵਿਗਿਆਪਨ<b>ਕਿਹੜਾ ਡੇਟਾ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ:</b>ਇਸ ਡਿਵਾਇਸ 'ਤੇ Edge ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਵੱਲੋਂ ਵਿਜ਼ਿਟ ਕੀਤੀ ਸਾਈਟ 'ਤੇ ਤੁਹਾਡੀ ਗਤੀਵਿਧੀ।<b>ਸਾਈਟਾਂ ਇਸ ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕਰਦੀਆਂ ਹਨ:</b> ਸਾਈਟਾਂ ਤੁਹਾਡੀ ਪਸੰਦ ਦੀਆਂ ਚੀਜ਼ਾਂ ਬਾਰੇ Edge ਨਾਲ ਜਾਣਕਾਰੀ ਸਟੋਰ ਕਰ ਸਕਦੀਆਂ ਹਨ। ਉਦਾਹਰਨ ਲਈ, ਜੇਕਰ ਤੁਸੀਂ ਮੈਰਾਥਨ ਸਿਖਲਾਈ ਬਾਰੇ ਕਿਸੇ ਸਾਈਟ 'ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਸਾਈਟ ਇਹ ਫੈਸਲਾ ਕਰ ਸਕਦੀ ਹੈ ਕਿ ਤੁਸੀਂ ਜੁੱਤੇ ਚਲਾਉਣ ਵਿੱਚ ਦਿਲਚਸਪੀ ਰੱਖਦੇ ਹੋ। ਬਾਅਦ ਵਿੱਚ, ਜੇਕਰ ਤੁਸੀਂ ਕਿਸੇ ਵੱਖਰੀ ਸਾਈਟ 'ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਉਹ ਸਾਈਟ ਤੁਹਾਨੂੰ ਪਹਿਲੀ ਸਾਈਟ ਦੁਆਰਾ ਸੁਝਾਏ ਗਏ ਜੁੱਤੇ ਦਿਖਾਉਣ ਲਈ ਵਿਗਿਆਪਨ ਦਿਖਾ ਸਕਦੀ ਹੈ।<b>ਤੁਸੀਂ ਆਪਣੇ ਡੇਟਾ ਨੂੰ ਕਿਵੇਂ ਪ੍ਰਬੰਧਿਤ ਕਰ ਸਕਦੇ ਹੋ: </b> Edge 30 ਦਿਨਾਂ ਤੋਂ ਵੱਧ ਪੁਰਾਣੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਆਪਣੇ ਆਪ ਮਿਟਾ ਦਿੰਦਾ ਹੈ। ਕੋਈ ਸਾਈਟ ਜੋ ਤੁਸੀਂ ਦੁਬਾਰਾ ਵਿਜ਼ਿਟ ਕਰਦੇ ਹੋ, ਉਹ ਸੂਚੀ ਵਿੱਚ ਮੁੜ ਦਿਖਾਈ ਦੇ ਸਕਦੀ ਹੈ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਵਿਗਿਆਪਨਾਂ ਦਾ ਸੁਝਾਅ ਦੇਣ ਤੋਂ ਬਲੌਕ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ Edge ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸਾਈਟ ਦੁਆਰਾ ਸੁਝਾਏ ਗਏ ਵਿਗਿਆਪਨਾਂ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।ਇਸ਼ਤਿਹਾਰ ਮਾਪਤੁਹਾਡੇ ਵੱਲੋਂ ਵਿਜਿਟ ਕੀਤੀਆਂ ਸਾਈਟਾਂ Edge ਤੋਂ ਜਾਣਕਾਰੀ ਮੰਗ ਸਕਦੀਆਂ ਹਨ ਜੋ ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਵਿਗਿਆਪਨਾਂ ਦੇ ਪ੍ਰਦਰਸ਼ਨ ਨੂੰ ਮਾਪਣ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ। ਸਾਈਟਾਂ ਇੱਕ ਦੂਜੇ ਨਾਲ ਸਾਂਝੀਆਂ ਕਰ ਸਕਦੀਆਂ ਹਨ, ਇਸ ਜਾਣਕਾਰੀ ਨੂੰ ਸੀਮਿਤ ਕਰਕੇ Edge ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ।ਨਵੀਂ ਵਿਗਿਆਪਨ ਗੋਪਨੀਯਤਾ ਵਿਸ਼ੇਸ਼ਤਾ ਹੁਣ ਉਪਲਬਧ ਹੈਅਸੀਂ ਵਿਗਿਆਪਨ ਮਾਪ ਨਾਮ ਦੀ ਇੱਕ ਨਵੀਂ ਵਿਗਿਆਪਨ ਗੋਪਨੀਯਤਾ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰ ਰਹੇ ਹਾਂ। Chrome ਸਿਰਫ਼ ਸਾਈਟਾਂ ਦੇ ਵਿੱਚਕਾਰ ਬਹੁਤ ਸੀਮਿਤ ਜਾਣਕਾਰੀ ਨੂੰ ਸਾਂਝਾ ਕਰਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਇੱਕ ਵਿਗਿਆਪਨ ਤੁਹਾਨੂੰ ਦਿਖਾਇਆ ਗਿਆ ਸੀ, ਤਾਂ ਜੋ ਸਾਈਟਾਂ ਨੂੰ ਵਿਗਿਆਪਨਾਂ ਦੇ ਕੰਮਪ੍ਰਦਰਸ਼ਨ ਨੂੰ ਮਾਪਣ ਵਿੱਚ ਮਦਦ ਮਿਲੇ।ਇਸ ਬਾਰੇ ਹੋਰ ਜਾਣੋ ਕਿ Google ਸਾਡੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿੱਚ ਤੁਹਾਡੇ ਡੇਟਾ ਦੀ ਰੱਖਿਆ ਕਿਵੇਂ ਕਰਦਾ ਹੈ।ਤੁਸੀਂ Chrome ਵਿਗਿਆਪਨ ਗੋਪਨੀਯਤਾ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕਰ ਸਕਦੇ ਹੋEdge ਤੁਹਾਡੇ ਹਾਲ ਹੀ ਦੇ ਬ੍ਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਦੇ ਆਧਾਰ ‘ਤੇ ਤੁਹਾਡ�
+			 * Delegate to the global `send_to_editor` if it exists.
+			 * This attempts to play nice with any themes/plugins
+			 * that have overridden the insert functionality.
+			 */
+			if ( window.send_to_editor ) {
+				return window.send_to_editor.apply( this, arguments );
+			}
+
+			if ( ! wpActiveEditor ) {
+				if ( hasTinymce && tinymce.activeEditor ) {
+					editor = tinymce.activeEditor;
+					wpActiveEditor = window.wpActiveEditor = editor.id;
+				} else if ( ! hasQuicktags ) {
+					return false;
+				}
+			} else if ( hasTinymce ) {
+				editor = tinymce.get( wpActiveEditor );
+			}
+
+			if ( editor && ! editor.isHidden() ) {
+				editor.execCommand( 'mceInsertContent', false, html );
+			} else if ( hasQuicktags ) {
+				QTags.insertContent( html );
+			} else {
+				document.getElementById( wpActiveEditor ).value += html;
+			}
+
+			// If the old thickbox remove function exists, call it in case
+			// a theme/plugin overloaded it.
+			if ( window.tb_remove ) {
+				try { window.tb_remove(); } catch( e ) {}
+			}
+		},
+
+		/**
+		 * Setup 'workflow' and add to the 'workflows' cache. 'open' can
+		 *  subsequently be called upon it.
+		 *
+		 * @param {string} id A slug used to identify the workflow.
+		 * @param {Object} [options={}]
+		 *
+		 * @this wp.media.editor
+		 *
+		 * @return {wp.media.view.MediaFrame.Select} A media workflow.
+		 */
+		add: function( id, options ) {
+			var workflow = this.get( id );
+
+			// Only add once: if exists return existing.
+			if ( workflow ) {
+				return workflow;
+			}
+
+			workflow = workflows[ id ] = wp.media( _.defaults( options || {}, {
+				frame:    'post',
+				state:    'insert',
+				title:    wp.media.view.l10n.addMedia,
+				multiple: true
+			} ) );
+
+			workflow.on( 'insert', function( selection ) {
+				var state = workflow.state();
+
+				selection = selection || state.get('selection');
+
+				if ( ! selection ) {
+					return;
+				}
+
+				$.when.apply( $, selection.map( function( attachment ) {
+					var display = state.display( attachment ).toJSON();
+					/**
+					 * @this wp.media.editor
+					 */
+					return this.send.attachment( display, attachment.toJSON() );
+				}, this ) ).done( function() {
+					wp.media.editor.insert( _.toArray( arguments ).join('\n\n') );
+				});
+			}, this );
+
+			workflow.state('gallery-edit').on( 'update', function( selection ) {
+				/**
+				 * @this wp.media.editor
+				 */
+				this.insert( wp.media.gallery.shortcode( selection ).string() );
+			}, this );
+
+			workflow.state('playlist-edit').on( 'update', function( selection ) {
+				/**
+				 * @this wp.media.editor
+				 */
+				this.insert( wp.media.playlist.shortcode( selection ).string() );
+			}, this );
+
+			workflow.state('video-playlist-edit').on( 'update', function( selection ) {
+				/**
+				 * @this wp.media.editor
+				 */
+				this.insert( wp.media.playlist.shortcode( selection ).string() );
+			}, this );
+
+			workflow.state('embed').on( 'select', function() {
+				/**
+				 * @this wp.media.editor
+				 */
+				var state = workflow.state(),
+					type = state.get('type'),
+					embed = state.props.toJSON();
+
+				embed.url = embed.url || '';
+
+				if ( 'link' === type ) {
+					_.defaults( embed, {
+						linkText: embed.url,
+						linkUrl: embed.url
+					});
+
+					this.send.link( embed ).done( function( resp ) {
+						wp.media.editor.insert( resp );
+					});
+
+				} else if ( 'image' === type ) {
+					_.defaults( embed, {
+						title:   embed.url,
+						linkUrl: '',
+						align:   'none',
+						link:    'none'
+					});
+
+					if ( 'none' === embed.link ) {
+						embed.linkUrl = '';
+					} else if ( 'file' === embed.link ) {
+						embed.linkUrl = embed.url;
+					}
+
+					this.insert( wp.media.string.image( embed ) );
+				}
+			}, this );
+
+			workflow.state('featured-image').on( 'select', wp.media.featuredImage.select );
+			workflow.setState( workflow.options.state );
+			return workflow;
+		},
+		/**
+		 * Determines the proper current workflow id
+		 *
+		 * @param {string} [id=''] A slug used to identify the workflow.
+		 *
+		 * @return {wpActiveEditor|string|tinymce.activeEditor.id}
+		 */
+		id: function( id ) {
+			if ( id ) {
+				return id;
+			}
+
+			// If an empty `id` is provided, default to `wpActiveEditor`.
+			id = window.wpActiveEditor;
+
+			// If that doesn't work, fall back to `tinymce.activeEditor.id`.
+			if ( ! id && ! _.isUndefined( window.tinymce ) && tinymce.activeEditor ) {
+				id = tinymce.activeEditor.id;
+			}
+
+			// Last but not least, fall back to the empty string.
+			id = id || '';
+			return id;
+		},
+		/**
+		 * Return the workflow specified by id
+		 *
+		 * @param {string} id A slug used to identify the workflow.
+		 *
+		 * @this wp.media.editor
+		 *
+		 * @return {wp.media.view.MediaFrame} A media workflow.
+		 */
+		get: function( id ) {
+			id = this.id( id );
+			return workflows[ id ];
+		},
+		/**
+		 * Remove the workflow represented by id from the workflow cache
+		 *
+		 * @param {string} id A slug used to identify the workflow.
+		 *
+		 * @this wp.media.editor
+		 */
+		remove: function( id ) {
+			id = this.id( id );
+			delete workflows[ id ];
+		},
+		/** @namespace wp.media.editor.send */
+		send: {
+			/**
+			 * Called when sending an attachment to the editor
+			 *   from the medial modal.
+			 *
+			 * @param {Object} props Attachment details (align, link, size, etc).
+			 * @param {Object} attachment The attachment object, media version of Post.
+			 * @return {Promise}
+			 */
+			attachment: function( props, attachment ) {
+				var caption = attachment.caption,
+					options, html;
+
+				// If captions are disabled, clear the caption.
+				if ( ! wp.media.view.settings.captions ) {
+					delete attachment.caption;
+				}
+
+				props = wp.media.string.props( props, attachment );
+
+				options = {
+					id:           attachment.id,
+					post_content: attachment.description,
+					post_excerpt: caption
+				};
+
+				if ( props.linkUrl ) {
+					options.url = props.linkUrl;
+				}
+
+				if ( 'image' === attachment.type ) {
+					html = wp.media.string.image( props );
+
+					_.each({
+						align: 'align',
+						size:  'image-size',
+						alt:   'image_alt'
+					}, function( option, prop ) {
+						if ( props[ prop ] ) {
+							options[ option ] = props[ prop ];
+						}
+					});
+				} else if ( 'video' === attachment.type ) {
+					html = wp.media.string.video( props, attachment );
+				} else if ( 'audio' === attachment.type ) {
+					html = wp.media.string.audio( props, attachment );
+				} else {
+					html = wp.media.string.link( props );
+					options.post_title = props.title;
+				}
+
+				return wp.media.post( 'send-attachment-to-editor', {
+					nonce:      wp.media.view.settings.nonce.sendToEditor,
+					attachment: options,
+					html:       html,
+					post_id:    wp.media.view.settings.post.id
+				});
+			},
+			/**
+			 * Called when 'Insert From URL' source is not an image. Example: YouTube url.
+			 *
+			 * @param {Object} embed
+			 * @return {Promise}
+			 */
+			link: function( embed ) {
+				return wp.media.post( 'send-link-to-editor', {
+					nonce:     wp.media.view.settings.nonce.sendToEditor,
+					src:       embed.linkUrl,
+					link_text: embed.linkText,
+					html:      wp.media.string.link( embed ),
+					post_id:   wp.media.view.settings.post.id
+				});
+			}
+		},
+		/**
+		 * Open a workflow
+		 *
+		 * @param {string} [id=undefined] Optional. A slug used to identify the workflow.
+		 * @param {Object} [options={}]
+		 *
+		 * @this wp.media.editor
+		 *
+		 * @return {wp.media.view.MediaFrame}
+		 */
+		open: function( id, options ) {
+			var workflow;
+
+			options = options || {};
+
+			id = this.id( id );
+			this.activeEditor = id;
+
+			workflow = this.get( id );
+
+			// Redo workflow if state has changed.
+			if ( ! workflow || ( workflow.options && options.state !== workflow.options.state ) ) {
+				workflow = this.add( id, options );
+			}
+
+			wp.media.frame = workflow;
+
+			return workflow.open();
+		},
+
+		/**
+		 * Bind click event for .insert-media using event delegation
+		 */
+		init: function() {
+			$(document.body)
+				.on( 'click.add-media-button', '.insert-media', function( event ) {
+					var elem = $( event.currentTarget ),
+						editor = elem.data('editor'),
+						options = {
+							frame:    'post',
+							state:    'insert',
+							title:    wp.media.view.l10n.addMedia,
+							multiple: true
+						};
+
+					event.preventDefault();
+
+					if ( elem.hasClass( 'gallery' ) ) {
+						options.state = 'gallery';
+						options.title = wp.media.view.l10n.createGalleryTitle;
+					}
+
+					wp.media.editor.open( editor, options );
+				});
+
+			// Initialize and render the Editor drag-and-drop uploader.
+			new wp.media.view.EditorUploader().render();
+		}
+	};
+
+	_.bindAll( wp.media.editor, 'open' );
+	$( wp.media.editor.init );
+}(jQuery, _));

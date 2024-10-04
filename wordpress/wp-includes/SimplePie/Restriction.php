@@ -1,5 +1,148 @@
-��ूंक दिताहें Microsoft Edge त सायट आपसूक उगडपा पासून प्रतिबंधीत करतले. Internet Explorer चेर विसंगत सायटी घडये थांबोवचें काम करतले.कांय सायटी Internet Explorer वांगडा अनुरूप ना आनी कार्य करूंक आधुनीक ब्रावजराची गरज आसता. जर तुमी हो पर्याय वेंचलो, तर ह्यो सायटी Microsoft Edge त आपसूक रितीन उगडटलें.जर तुमी हो पर्याय निवडलो, तर सायटी सदांच Internet Explorer चे बदला Microsoft Edge त उगडटलें.सायटीक जरी अनुकूलतायेक लागून Internet Explorer ची गरज आसल्यार, ह्यो मांडावळी, सायटींक Internet Explorer चेर परतून लोड करूंक मेकळीक दितात.तुमच्या हालींच्या Internet Explorer वापराचेर आदारीत, आमी $1 करपाचे तुमकां पर्याय दाखयतले.तुमकां$1 त वेंचणी करून पान परतून लोड करूंक मेकळीक दितले. तुमी जेन्ना टॅबाचेर उजवें क्लिक करतात, तेन्ना तुमी $2 वेंचतात, वा तुमी लिंकाचेर उजवें क्लिक करतात, तेन्ना $3 निवडचें.तुमचे कडेन $1 करूंक पर्याय आसचो ना.मांडावळी आनी खूब किदें > Internet Explorer मोडांत परतून लोड करचेंInternet Explorer मोडांत परतून लोड करचेंनव्या Internet Explorer मोड टॅबांत लिंक उगडचेंhttps://microsoftedgetips.microsoft.com/en-us/माजाळें पर्यायउपकार करून माजाळ्याच्या पर्यायांचेर क्लिक करच्या आदीं IE मोडाक मान्यताय दिवची.IE मोडInternet Explorer मोड पानांक, पानाचें संयोजन करचेंएक URL नोंद करचो:http://example.com/पानाचें संयोजन करचेंतारीख जोडल्या'$1' जोडलां'$1' काडलांवेळ सोंपतापान काडचें{COUNT, plural,
-       =1 {ही पानां तुमी पानाचें संयोजन केल्ल्या तारखे सावंन 1 दिसां खातीर Internet Explorer मोडांत उगडटलीं}
-       one {ही पानां तुमी पानाचें संयोजन केल्ल्या तारखे सावंन {COUNT} दिसां खातीर Internet Explorer मोडांत उगडटलीं}
-       other {ही पानां तुमी पानाचें संयोजन केल्ल्या तारखे सावंन {COUNT} दिसां खातीर Internet Explorer मोडांत उगडटलीं}}{COUNT, plural,
-       =0 {आजून मेरेन Internet Explorer मोड सुचये�
+<?php
+/**
+ * SimplePie
+ *
+ * A PHP-Based RSS and Atom Feed Framework.
+ * Takes the hard work out of managing a complete RSS/Atom solution.
+ *
+ * Copyright (c) 2004-2016, Ryan Parman, Sam Sneddon, Ryan McCue, and contributors
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without modification, are
+ * permitted provided that the following conditions are met:
+ *
+ * 	* Redistributions of source code must retain the above copyright notice, this list of
+ * 	  conditions and the following disclaimer.
+ *
+ * 	* Redistributions in binary form must reproduce the above copyright notice, this list
+ * 	  of conditions and the following disclaimer in the documentation and/or other materials
+ * 	  provided with the distribution.
+ *
+ * 	* Neither the name of the SimplePie Team nor the names of its contributors may be used
+ * 	  to endorse or promote products derived from this software without specific prior
+ * 	  written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS
+ * OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+ * AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS
+ * AND CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+ * THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+ * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+ * POSSIBILITY OF SUCH DAMAGE.
+ *
+ * @package SimplePie
+ * @copyright 2004-2016 Ryan Parman, Sam Sneddon, Ryan McCue
+ * @author Ryan Parman
+ * @author Sam Sneddon
+ * @author Ryan McCue
+ * @link http://simplepie.org/ SimplePie
+ * @license http://www.opensource.org/licenses/bsd-license.php BSD License
+ */
+
+/**
+ * Handles `<media:restriction>` as defined in Media RSS
+ *
+ * Used by {@see SimplePie_Enclosure::get_restriction()} and {@see SimplePie_Enclosure::get_restrictions()}
+ *
+ * This class can be overloaded with {@see SimplePie::set_restriction_class()}
+ *
+ * @package SimplePie
+ * @subpackage API
+ */
+class SimplePie_Restriction
+{
+	/**
+	 * Relationship ('allow'/'deny')
+	 *
+	 * @var string
+	 * @see get_relationship()
+	 */
+	var $relationship;
+
+	/**
+	 * Type of restriction
+	 *
+	 * @var string
+	 * @see get_type()
+	 */
+	var $type;
+
+	/**
+	 * Restricted values
+	 *
+	 * @var string
+	 * @see get_value()
+	 */
+	var $value;
+
+	/**
+	 * Constructor, used to input the data
+	 *
+	 * For documentation on all the parameters, see the corresponding
+	 * properties and their accessors
+	 */
+	public function __construct($relationship = null, $type = null, $value = null)
+	{
+		$this->relationship = $relationship;
+		$this->type = $type;
+		$this->value = $value;
+	}
+
+	/**
+	 * String-ified version
+	 *
+	 * @return string
+	 */
+	public function __toString()
+	{
+		// There is no $this->data here
+		return md5(serialize($this));
+	}
+
+	/**
+	 * Get the relationship
+	 *
+	 * @return string|null Either 'allow' or 'deny'
+	 */
+	public function get_relationship()
+	{
+		if ($this->relationship !== null)
+		{
+			return $this->relationship;
+		}
+
+		return null;
+	}
+
+	/**
+	 * Get the type
+	 *
+	 * @return string|null
+	 */
+	public function get_type()
+	{
+		if ($this->type !== null)
+		{
+			return $this->type;
+		}
+
+		return null;
+	}
+
+	/**
+	 * Get the list of restricted things
+	 *
+	 * @return string|null
+	 */
+	public function get_value()
+	{
+		if ($this->value !== null)
+		{
+			return $this->value;
+		}
+
+		return null;
+	}
+}

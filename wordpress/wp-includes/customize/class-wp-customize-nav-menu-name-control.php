@@ -1,6 +1,56 @@
-ab
-[17e4:0019][2024-08-13T08:50:32] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\aa9c58552bdb82dae4ed48ece081cfe3.cab' succeeded. Hash: 2D0C9D0F8F2BFF82540FABED023ED6EBAB6771C85A8C9B0A1C0410D92BBE99EE
-[17e4:0019][2024-08-13T08:50:32] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\ac4ddfcf1101c483559a5f6e36f1ef2d.cab
-[17e4:0019][2024-08-13T08:50:32] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\ac4ddfcf1101c483559a5f6e36f1ef2d.cab' succeeded. Hash: 34C5AD41778E397D16CD9FFB3E9F897CE82ADD51F4CD89048A73476D708D02ED
-[17e4:0019][2024-08-13T08:50:32] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm External Package (DesktopEditions)-arm_en-us.msi
-[17e4:0019][2024-08-13T08:50:32] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.226
+<?php
+/**
+ * Customize API: WP_Customize_Nav_Menu_Name_Control class
+ *
+ * @package WordPress
+ * @subpackage Customize
+ * @since 4.4.0
+ */
+
+/**
+ * Customize control to represent the name field for a given menu.
+ *
+ * @since 4.3.0
+ *
+ * @see WP_Customize_Control
+ */
+class WP_Customize_Nav_Menu_Name_Control extends WP_Customize_Control {
+
+	/**
+	 * Type of control, used by JS.
+	 *
+	 * @since 4.3.0
+	 * @var string
+	 */
+	public $type = 'nav_menu_name';
+
+	/**
+	 * No-op since we're using JS template.
+	 *
+	 * @since 4.3.0
+	 */
+	protected function render_content() {}
+
+	/**
+	 * Render the Underscore template for this control.
+	 *
+	 * @since 4.3.0
+	 */
+	protected function content_template() {
+		?>
+		<label>
+			<# if ( data.label ) { #>
+				<span class="customize-control-title">{{ data.label }}</span>
+			<# } #>
+			<input type="text" class="menu-name-field live-update-section-title"
+				<# if ( data.description ) { #>
+					aria-describedby="{{ data.section }}-description"
+				<# } #>
+				/>
+		</label>
+		<# if ( data.description ) { #>
+			<p id="{{ data.section }}-description">{{ data.description }}</p>
+		<# } #>
+		<?php
+	}
+}

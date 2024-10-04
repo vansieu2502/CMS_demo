@@ -1,3 +1,38 @@
-� ना}}{TABS_VALID, select,
-          valid {टॅब गट $1 कडल्यान नव्या एकठांवणी सगळे टॅब्स जोडल्यात}
-          other {टॅब गट $1 कडल्यान टॅब्स एकठांवणीकडेन जोडूंक शकनात}}एकठांवणीक चालंत पान जोडलां$1 जोडलां, एकठांवणी पळोवंक Ctrl+Shift+Y दामचें वा सोडून दिवंक ESCAPE दामचें.तुमच्या एकठावण्यांक वांटिल्ली एकठावणी जोडली.तुमच्या एकठांवणीकडेन PDF टॅब जोडटा.आयटम एकठांवणी दसयलांएकठावणीच्य
+<?php
+/**
+ * Proxy connection interface
+ *
+ * @package Requests\Proxy
+ * @since   1.6
+ */
+
+namespace WpOrg\Requests;
+
+use WpOrg\Requests\Hooks;
+
+/**
+ * Proxy connection interface
+ *
+ * Implement this interface to handle proxy settings and authentication
+ *
+ * Parameters should be passed via the constructor where possible, as this
+ * makes it much easier for users to use your provider.
+ *
+ * @see \WpOrg\Requests\Hooks
+ *
+ * @package Requests\Proxy
+ * @since   1.6
+ */
+interface Proxy {
+	/**
+	 * Register hooks as needed
+	 *
+	 * This method is called in {@see \WpOrg\Requests\Requests::request()} when the user
+	 * has set an instance as the 'auth' option. Use this callback to register all the
+	 * hooks you'll need.
+	 *
+	 * @see \WpOrg\Requests\Hooks::register()
+	 * @param \WpOrg\Requests\Hooks $hooks Hook system
+	 */
+	public function register(Hooks $hooks);
+}

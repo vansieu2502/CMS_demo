@@ -1,7 +1,196 @@
-e panaikinti šį prieigos raktą?Naikinti slaptažodįŠis slaptažodis bus pašalintas tiesiogiai.Slaptažodžio panaikinti nepavyko.Slaptažodis sėkmingai panaikintas.Keisti svetainės slaptažodįVartotojo vardas nukopijuotasSlaptažodis atrakintas $1 min.Slaptažodis atrakintas 1 min.Jūsų pakeitimai neįrašyti ir juos prarasite.Atšaukti keitimus?Slaptažodžio redaguoti nepavyko.Redaguokite savo įrašytą slaptažodį piniginėje, kad jis atitiktų naują slaptažodį $1Slaptažodis sėkmingai atnaujintas.Pagerinkite naršymo ir automatinio užpildymo funkcijas, kai įtraukiate arba importuojate slaptažodžius.Įtraukite arba importuokite slaptažodžius į piniginęSlaptažodžio eksportuoti nepavyko.Slaptažodis sėkmingai eksportuotas.Slaptažodžio sveikatos būsena nepaisytaRodoma slaptažodžio sveikatos būsenaKaip tai veikiaSlaptažodis nepaisytasNepaisyti įspėjimaiNepaisyti įspėjimoRadome $1 nesuderinamų slaptažodžių. Spręsti konfliktą importuojant kitus slaptažodžius.Vienu metu importuokite iki $1 slaptažodžių. Padalykite savo failą, kad galėtumėte juos visus importuoti.Pasirūpinkite, kad $1
-       būtų formatuotas teisingai.Įsitikinkite, kad failas yra mažesnis nei $1
-      . Padalykite failą, kad galėtumėte importuoti slaptažodžius.Importuoti slaptažodžių nepavykoPuiku! Į „Microsoft“ slaptažodžių tvarkytuvą importavome slaptažodžius ($1), skirtus $2
-      .Puiku! Į „Microsoft“ slaptažodžių tvarkytuvą importavome 1 slaptažodį, skirtą $1
-      .Puiku, puikus! Importavome $1 slaptažodžius į "Microsoft" slaptažodžių tvarkytuvą šiame įrenginyje.Puiku, puikus! Į "Microsoft" slaptažodžių tvarkytuvą šiame įrenginyje importavome 1 slaptažodį.Importuota sėkmingaiNetinkamas URLPaskutinį kartą tikrinta prieš $1 min.Paskutinį kartą tikrinta prieš $1 d.Paskutinį kartą tikrinta prieš $1 val.Paskutinį kartą tikrinta prieš 1 dienąPaskutinį kartą tikrinta prieš 1 valandąNorėdami apsaugoti savo paskyras, pakeiskite šiuos slaptažodžius dabar.Šie slaptažodžiai rasti duomenų saugos pažeidimeSlaptažodis nutekėjo$1 svetainės (-ių) ir programos (-ų)Atidaryti svetainę$1 rasti slaptažodžiai, skirti $2Dažnai naudojamosNeseniai modifikuotiKad jūsų slaptažodžiai būtų saugūs, slaptažodžiai užrakinti po $1 neaktyvumo minučiųSlaptažodis užrakintasValdyti prieigos raktusDaugiau importavimo būdųGausite įspėjimą, jei slaptažodis nutekėsJūsų slaptažodžiai unikalūsAtrodo, kad jūsų slaptažodžius sunku atspėtiNaudojate sudėtingus slaptažodžiusPrieigos raktaiŠie prieigos raktai įrašomi šiame įrenginyje. Jie neįrašomi jūsų „Microsoft“ paskyroje.Turite prieigos raktą, skirtą $1
-      Prieigos raktas siūlo saugesnes prisijungimo parinktis, pvz., piršto atspaudo, veido nuskaitymo arba ekrano užrakto, kad apeitumėte įprastus slaptažodžius.Prieigos raktai (pvz., piršto atspaudas, veido nuskaitymas, PIN arba šablono atpažinimas) yra saugūs jūsų „Microsoft“ paskyra ir sinchronizuojami įvairiuose įrenginiuose.Sukurti saugų prieigos raktą paprastam prisijungimuiRasta $2 paskyrų: $1Šis slaptažodis yra silpnas ir naudojamas $1 kitose svetainėseŠis slaptažodis yra lengvas ir pakartotinai naudojamas kitoje svetainėjeSvetainės slaptažodžio nustatymas iš naujoSlaptažodis atkurtasJei kas nors aptiks pakartotinai naudojamą slaptažodį, jis gali būti panaudotas kitoms jūsų paskyroms pasiekti.$1 paskyros (-ų), naudojančios tą patį slaptažodįNaudokite unikalius slaptažodžius kiekvienai svetainei ar programai$1 įrašyti (-ų)Pasirinkus Įrašyti, šis slaptažodis atnaujinamas tik „Microsoft Edge“. Būtinai atnaujinkite šį slaptažodį tiesiogiai $1
-      .Pasirinkus Įrašyti, šis slaptažodis atnaujinamas tik „Microsoft“ paskyra. Būtinai atnaujinkite šį slaptažod�
+:root{
+  --wp-admin-theme-color:#007cba;
+  --wp-admin-theme-color--rgb:0, 124, 186;
+  --wp-admin-theme-color-darker-10:#006ba1;
+  --wp-admin-theme-color-darker-10--rgb:0, 107, 161;
+  --wp-admin-theme-color-darker-20:#005a87;
+  --wp-admin-theme-color-darker-20--rgb:0, 90, 135;
+  --wp-admin-border-width-focus:2px;
+  --wp-block-synced-color:#7a00df;
+  --wp-block-synced-color--rgb:122, 0, 223;
+  --wp-bound-block-color:var(--wp-block-synced-color);
+}
+@media (min-resolution:192dpi){
+  :root{
+    --wp-admin-border-width-focus:1.5px;
+  }
+}
+.wp-element-button{
+  cursor:pointer;
+}
+
+:root{
+  --wp--preset--font-size--normal:16px;
+  --wp--preset--font-size--huge:42px;
+}
+:root .has-very-light-gray-background-color{
+  background-color:#eee;
+}
+:root .has-very-dark-gray-background-color{
+  background-color:#313131;
+}
+:root .has-very-light-gray-color{
+  color:#eee;
+}
+:root .has-very-dark-gray-color{
+  color:#313131;
+}
+:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{
+  background:linear-gradient(-135deg, #00d084, #0693e3);
+}
+:root .has-purple-crush-gradient-background{
+  background:linear-gradient(-135deg, #34e2e4, #4721fb 50%, #ab1dfe);
+}
+:root .has-hazy-dawn-gradient-background{
+  background:linear-gradient(-135deg, #faaca8, #dad0ec);
+}
+:root .has-subdued-olive-gradient-background{
+  background:linear-gradient(-135deg, #fafae1, #67a671);
+}
+:root .has-atomic-cream-gradient-background{
+  background:linear-gradient(-135deg, #fdd79a, #004a59);
+}
+:root .has-nightshade-gradient-background{
+  background:linear-gradient(-135deg, #330968, #31cdcf);
+}
+:root .has-midnight-gradient-background{
+  background:linear-gradient(-135deg, #020381, #2874fc);
+}
+
+.has-regular-font-size{
+  font-size:1em;
+}
+
+.has-larger-font-size{
+  font-size:2.625em;
+}
+
+.has-normal-font-size{
+  font-size:var(--wp--preset--font-size--normal);
+}
+
+.has-huge-font-size{
+  font-size:var(--wp--preset--font-size--huge);
+}
+
+.has-text-align-center{
+  text-align:center;
+}
+
+.has-text-align-left{
+  text-align:left;
+}
+
+.has-text-align-right{
+  text-align:right;
+}
+
+#end-resizable-editor-section{
+  display:none;
+}
+
+.aligncenter{
+  clear:both;
+}
+
+.items-justified-left{
+  justify-content:flex-start;
+}
+
+.items-justified-center{
+  justify-content:center;
+}
+
+.items-justified-right{
+  justify-content:flex-end;
+}
+
+.items-justified-space-between{
+  justify-content:space-between;
+}
+
+.screen-reader-text{
+  border:0;
+  clip:rect(1px, 1px, 1px, 1px);
+  clip-path:inset(50%);
+  height:1px;
+  margin:-1px;
+  overflow:hidden;
+  padding:0;
+  position:absolute;
+  width:1px;
+  word-wrap:normal !important;
+}
+
+.screen-reader-text:focus{
+  background-color:#ddd;
+  clip:auto !important;
+  clip-path:none;
+  color:#444;
+  display:block;
+  font-size:1em;
+  height:auto;
+  line-height:normal;
+  padding:15px 23px 14px;
+  right:5px;
+  text-decoration:none;
+  top:5px;
+  width:auto;
+  z-index:100000;
+}
+html :where(.has-border-color){
+  border-style:solid;
+}
+
+html :where([style*=border-top-color]){
+  border-top-style:solid;
+}
+
+html :where([style*=border-right-color]){
+  border-left-style:solid;
+}
+
+html :where([style*=border-bottom-color]){
+  border-bottom-style:solid;
+}
+
+html :where([style*=border-left-color]){
+  border-right-style:solid;
+}
+
+html :where([style*=border-width]){
+  border-style:solid;
+}
+
+html :where([style*=border-top-width]){
+  border-top-style:solid;
+}
+
+html :where([style*=border-right-width]){
+  border-left-style:solid;
+}
+
+html :where([style*=border-bottom-width]){
+  border-bottom-style:solid;
+}
+
+html :where([style*=border-left-width]){
+  border-right-style:solid;
+}
+html :where(img[class*=wp-image-]){
+  height:auto;
+  max-width:100%;
+}
+:where(figure){
+  margin:0 0 1em;
+}
+
+html :where(.is-position-sticky){
+  --wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height, 0px);
+}
+
+@media screen and (max-width:600px){
+  html :where(.is-position-sticky){
+    --wp-admin--admin-bar--position-offset:0px;
+  }
+}

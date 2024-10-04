@@ -1,12 +1,140 @@
-s x64-x86_en-us.msi' succeeded. Hash: 7AAD7519DB694718DC2A1C738804E763F9764EB98D529EBCC736117FADFEB0AD
-[17e4:0019][2024-08-13T08:50:33] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK Desktop Tools x86-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:33] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK Desktop Tools x86-x86_en-us.msi' succeeded. Hash: 9B9D5B5EE0652E9C44F488AB9D285CF2D2A5C3CE70D79FC89D0AFB26514EB32A
-[17e4:0019][2024-08-13T08:50:33] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK DirectX ARM Remote-arm_en-us.msi
-[17e4:0019][2024-08-13T08:50:33] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK DirectX ARM Remote-arm_en-us.msi' succeeded. Hash: C19567FB42A5B637D63764CBAA39FA231BCD74B6EA5A28C598FD13C0DDABD0B0
-[17e4:0019][2024-08-13T08:50:33] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK DirectX x64 Remote-x64_en-us.msi
-[17e4:0019][2024-08-13T08:50:33] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK DirectX x64 Remote-x64_en-us.msi' succeeded. Hash: 43280B126F7497C176654B3329AF3762D7F863AD57BC3EBB697E3F503361549D
-[17e4:0019][2024-08-13T08:50:33] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK DirectX x86 Remote-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:33] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK DirectX x86 Remote-x86_en-us.msi' succeeded. Hash: 80D628094792BA00FA4EBDF6A92B6FC24A7F1F1C14DE23441D9199B5E72E57FA
-[17e4:0019][2024-08-13T08:50:33] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK EULA-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:33] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows SDK EULA-x86_en-us.msi' succeeded. Hash: 90C2233D10C8728257AE4F589306D18411E1A2A0D130758F07DFE80970453DF0
-[17e4:0019][2024-08-13T08:50:33] Checking SHA256 for path: C:\Users\Administrator\
+<?php
+/**
+ * Customize API: WP_Widget_Form_Customize_Control class
+ *
+ * @package WordPress
+ * @subpackage Customize
+ * @since 4.4.0
+ */
+
+/**
+ * Widget Form Customize Control class.
+ *
+ * @since 3.9.0
+ *
+ * @see WP_Customize_Control
+ */
+class WP_Widget_Form_Customize_Control extends WP_Customize_Control {
+	/**
+	 * Customize control type.
+	 *
+	 * @since 3.9.0
+	 * @var string
+	 */
+	public $type = 'widget_form';
+
+	/**
+	 * Widget ID.
+	 *
+	 * @since 3.9.0
+	 * @var string
+	 */
+	public $widget_id;
+
+	/**
+	 * Widget ID base.
+	 *
+	 * @since 3.9.0
+	 * @var string
+	 */
+	public $widget_id_base;
+
+	/**
+	 * Sidebar ID.
+	 *
+	 * @since 3.9.0
+	 * @var string
+	 */
+	public $sidebar_id;
+
+	/**
+	 * Widget status.
+	 *
+	 * @since 3.9.0
+	 * @var bool True if new, false otherwise. Default false.
+	 */
+	public $is_new = false;
+
+	/**
+	 * Widget width.
+	 *
+	 * @since 3.9.0
+	 * @var int
+	 */
+	public $width;
+
+	/**
+	 * Widget height.
+	 *
+	 * @since 3.9.0
+	 * @var int
+	 */
+	public $height;
+
+	/**
+	 * Widget mode.
+	 *
+	 * @since 3.9.0
+	 * @var bool True if wide, false otherwise. Default false.
+	 */
+	public $is_wide = false;
+
+	/**
+	 * Gather control params for exporting to JavaScript.
+	 *
+	 * @since 3.9.0
+	 *
+	 * @global array $wp_registered_widgets
+	 */
+	public function to_json() {
+		global $wp_registered_widgets;
+
+		parent::to_json();
+		$exported_properties = array( 'widget_id', 'widget_id_base', 'sidebar_id', 'width', 'height', 'is_wide' );
+		foreach ( $exported_properties as $key ) {
+			$this->json[ $key ] = $this->$key;
+		}
+
+		// Get the widget_control and widget_content.
+		require_once ABSPATH . 'wp-admin/includes/widgets.php';
+
+		$widget = $wp_registered_widgets[ $this->widget_id ];
+		if ( ! isset( $widget['params'][0] ) ) {
+			$widget['params'][0] = array();
+		}
+
+		$args = array(
+			'widget_id'   => $widget['id'],
+			'widget_name' => $widget['name'],
+		);
+
+		$args                 = wp_list_widget_controls_dynamic_sidebar(
+			array(
+				0 => $args,
+				1 => $widget['params'][0],
+			)
+		);
+		$widget_control_parts = $this->manager->widgets->get_widget_control_parts( $args );
+
+		$this->json['widget_control'] = $widget_control_parts['control'];
+		$this->json['widget_content'] = $widget_control_parts['content'];
+	}
+
+	/**
+	 * Override render_content to be no-op since content is exported via to_json for deferred embedding.
+	 *
+	 * @since 3.9.0
+	 */
+	public function render_content() {}
+
+	/**
+	 * Whether the current widget is rendered on the page.
+	 *
+	 * @since 4.0.0
+	 *
+	 * @return bool Whether the widget is rendered.
+	 */
+	public function active_callback() {
+		return $this->manager->widgets->is_widget_rendered( $this->widget_id );
+	}
+}

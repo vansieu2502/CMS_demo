@@ -1,1 +1,353 @@
-��ତିରିକ୍ତ ଷ୍ଟେପ୍ ନିଆଯାଏ. ଆପଣ ବ୍ରାଉଜ୍ କରିବା ସମୟରେ କିଛି ଦୃଶ୍ୟମାନ ମନ୍ଥରତା ଅନୁଭବ କରିପାରନ୍ତି.​ଏକ ବିସ୍ତାରିତ ଅବଧି ପାଇଁ ଆପଣ ପାୱାର୍ ସହ ସଂଯୋଜିତ ନ ହୋଇପାରିବା ଏବଂ ଅଧିକ ବ୍ୟାଟେରୀ ଜୀବନ ସଂରକ୍ଷଣ କରିବା ଆବଶ୍ୟକ ହେଉଥିବା ବେଳେ ସର୍ବାଧିକ ସଂରକ୍ଷଣ ବ୍ୟବହାର କରନ୍ତୁ.(ସୁପାରିଶ କରାଯାଇଛି)କମ୍ପ୍ୟୁଟର ଉତ୍ସଗୁଡ଼ିକ ସଂରକ୍ଷଣ କରି ଶକ୍ତି ବ୍ୟବହାର ହ୍ରାସ କରିବାରେ ସାହାଯ୍ୟ କରେ। ଆପଣଙ୍କର ଡିଭାଇସ୍, ଆପ୍ଲିକେସନ୍, ଏବଂ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜର୍ ଅଭ୍ୟାସ ଆଧାରରେ ଲାଭଗୁଡ଼ିକ ଭିନ୍ନ ହୋଇପାରେ ।କମ୍ପ୍ୟୁଟର ଉତ୍ସଗୁଡ଼ିକ ସଂରକ୍ଷଣ କରି ବ୍ୟାଟେରୀ ଆୟୁ ବୃଦ୍ଧି କରିବାରେ ସାହାଯ୍ୟ କରେ। ଆପଣଙ୍କର ଡିଭାଇସ୍, ଆପ୍ଲିକେସନ୍, ଏବଂ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜର୍ ଅଭ୍ୟାସ ଆଧାରରେ ଲାଭଗୁଡ଼ିକ ଭିନ୍ନ ହୋଇପାରେ ।Microsoft Edge ରେ ଦକ୍ଷତା ମୋଡ୍‌ ଟର୍ନ୍‌ ଅଫ୍‌ ଥିବା ବେଳେ ଏହା ସମ୍ଭବ ଯେ Windows ଦକ୍ଷତା ମୋଡ୍‌ ଏବେ ବି ସକ୍ରିୟ ଅଛି ଏବଂ ଟାସ୍କ ପରିଚାଳକରେ ଭାବରେ ଦର୍ଶାଯାଇଥିବା ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ସମ୍ବଳଗୁଡ଼ିକ ସଂରକ୍ଷଣ କରିବାକୁ କାର୍ଯ୍ୟ କରୁଛି |କାର୍ଯ୍ୟଦକ୍ଷତା ମୋଡ୍ କ'ଣ?କାର୍ଯ୍ୟଦକ୍ଷତା ମୋଡ୍କାର୍ଯ୍ୟଦକ୍ଷତା ମୋଡ୍‌ $1ଆପଣ Microsoft Edge ରେ ବ୍ରାଉଜିଂ କରିବା ସମୟରେ ଦକ୍ଷତା ମୋଡ୍ ଡିଭାଇସ୍ ବ୍ୟାଟେରୀ ସଂରକ୍ଷଣ କରିବାରେ ଏବଂ ପାୱାର୍ ବ୍ୟବହାର ହ୍ରାସ କରିବାରେ ସହାୟତା କରେ.କଣ ଆଶା କରିବେ?ପୃଷ୍ଠପଟ ଟ୍ୟାବ୍ କାର୍ଯ୍ୟକଳାପ ଏବଂ କିଛି ଅଗ୍ରଭାଗ କାର୍ଯ୍ୟକଳାପ ହ୍ରାସ କରେବ୍ୟାଟେରୀ ସଂରକ୍ଷଣ କରିବାକୁ ଅତିରିକ୍ତ ଷ୍ଟେପ୍‍‌ ନିଆଗଲେ, ଦକ୍ଷତା ମୋଡ୍ ଭିଡିଓଗୁଡିକ କମ୍ ସହଜ କରିପାରେଯଦି ସ୍ଲିପିଂ ଟ୍ୟାବଗୁଡିକ ଅନ୍ ଅଛି, ତେବେ 30 ମିନିଟ୍ ନିଷ୍କ୍ରିୟତା ପରେ ପୃଷ୍ଠଭୂମି ଟ୍ୟାବଗୁଡିକୁ ସ୍ଲିପିଂ ସ୍ଥିତିରେ ରଖେ.ଏହା କେବେ କାମ କରେ?ଯେତେବେଳେ ଆପଣଙ୍କ ଲାପଟପ୍ ଏହାର ବ୍ୟାଟେରୀ ସଞ୍ଚୟକାରୀ ମୋଡ୍‌ ରେ ପ୍ରବେଶ କରେ, ସେତେବେଳେ କାର୍ଯ୍ୟଦକ୍ଷତା ମୋଡ୍ ସକ୍ରିୟ ହୋଇଯାଏ, ଆପଣଙ୍କ ବ୍ରାଉଜର୍ ର ଉପକରଣଦଣ୍ଡିକାରେ ଏକ କଳା "ହାର୍ଟ ପଲ୍ସ" ଆଇକନ୍ ଦ୍ୱାରା ସୂଚିତ ହୋଇଛି.ମୋଡ୍ ର ସମ୍ପ୍ରତି ସ୍ଥିତି ଦେଖିବାକୁ ଆଇକନ୍ ଚୟନ କରନ୍ତୁ.କାର୍ଯ୍ୟଦକ୍ଷତା ମୋଡ୍ ସକ୍ରିୟ ଅଛି ଏବଂ ଏହି ସେଟିଂ ନିୟନ୍ତ୍ରଣ କରୁଛିଦକ୍ଷତା ମୋଡ୍ ଅନ୍ ଥିବା ବେଳେ ଭିଡିଓଗୁଡିକ ସୁଗମ ନୁହେଁଦକ୍ଷତା ମୋଡ୍ ଅନ୍ ଥିବା ବେଳେ ଆନିମେସନ୍ ବହୁତ ଧୀର ହୋଇଥାଏଦକ୍ଷତା ମୋଡ୍ ଅନ୍ ଥିବା ବେଳେ ସାଇଟ୍ କାର୍ଯ୍ୟ କରୁନାହିଁମୁଁ ଉପକରଣ ଦଣ୍ଡିକାରେ ଥିବା ବ୍ଲାକ୍ ହାର୍ଟ ପଲ୍ସ ଆଇକନ୍ ପସନ୍ଦ କରେ ନାହିଁଦକ୍ଷତା ମୋଡ୍ ଅନ୍ ଥିବା ବେଳେ ବ୍ୟାଟେରୀର ସମୟସୀମା ବିସ୍ତାର କରେ ନାହିଁଦକ୍ଷତା ମୋଡ୍ ଅନ୍ ଥିବା ବେଳେ ପାୱାର୍ ବ୍ୟବହାର ଉନ୍ନତ କରେ ନାହିଁଆପଣ ଦକ୍ଷତା ମୋଡ୍‍‌ରେ ସନ୍ତୁଷ୍ଟ କି?ପାୱାର୍ ସଂଯୋଜିତ ଥିବା ବେଳେ ଦକ୍ଷତା ମୋଡ୍ ଟର୍ନ୍ ଅନ୍ କରନ୍ତୁଆପଣଙ୍କ ଡିଭାଇସ୍ ପାୱାର୍ ସଂଯୋଜିତ ଥିବା ବେଳେ, ଆମେ ଆପଣଙ୍କ ଡିଭାଇସ୍‍‌ର ପାୱାର୍ ବ୍ୟବହାର ଉନ୍ନତ କରିବାରେ ସହାୟତା କରିବାକୁ ଦକ୍ଷତା ମୋଡ୍ ଟର୍ନ୍ ଅନ୍ କରିବୁ. ଆପଣ ବ୍ରାଉଜ୍ କରିବା ସମୟରେ ନୁହେଁ କିମ୍ୱା କିଛି ମନ୍ଥରତା ଅନୁଭବ କରିପାରନ୍ତି.ସକ୍ରିୟ ହୁଏ ଯେତେବେଳେ ଉତ୍ସ ବ୍ୟବହାର କମ୍ କରିବାକୁ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଚାର୍ଜ କରେ.ଦକ୍ଷତା ମୋଡ୍ ସହ ଆପଣଙ୍କ PC ଗେମିଂ ଅଭିଜ୍ଞତାକୁ ଉନ୍ନତ କରନ୍ତୁଯେତେବେଳେ ଆପଣ ଏକ PC ଖେଳ ଖେଳୁଛନ୍ତି, Microsoft Edge ଏକ ଉତ୍ତମ ଗେମିଂ ଅଭିଜ୍ଞତା ସୃଷ୍ଟି କରିବାକୁ ଏହାର କମ୍ପ୍ୟୁଟରଉତ୍ସ (CPU) ବ୍ୟବହାର ହ୍ରାସ କରେ.ସୀମାନ୍ତ ଲୁଚାନ୍ତୁଆପଣଙ୍କର ବିଷୟବସ୍ତୁ ଦେଖିବା ପାଇଁ ସମ୍ପୁର୍ଣ୍ଣ TV ସ୍କ୍ରିନ୍ ବ୍ୟବହାର କରିବାକୁ, ସେଟିଂସମୂହରେ “ଆପ୍ସ ଏକ ସୀମା ଯୋଡିପାରେ” ଚେକ୍ ବକ୍ସକୁ ଖାଲି କରନ୍ତୁ.କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ଅପ୍ଟିମାଇଜ୍ କରନ୍ତୁସ୍ଲିପିଂ ଟ୍ୟାବ୍ସ ସହିତ ଉତ୍ସ ସଂରକ୍ଷଣ୍ କରନ୍ତୁଫେଡ୍ ସ୍ଲିପିଂ ଟ୍ୟାବଗୁଡିକକାର୍ଯ୍ୟଦକ୍ଷତାକୁ ଉନ୍ନତ କରିବା ପାଇଁ ମେମୋରୀ ଏବଂ CPU ସଂରକ୍ଷଣ କରିବା ସମୟରେ ଟ୍ୟାବଗୁଡ଼ିକ ଝାପସା ହୋଇ ଦେଖାଯିବ.ଏହା ଚାଲୁ ଥିଲେ, ସିଷ୍ଟମ୍ ରିସୋ�
+<?php
+/**
+ * Site API: WP_Site class
+ *
+ * @package WordPress
+ * @subpackage Multisite
+ * @since 4.5.0
+ */
+
+/**
+ * Core class used for interacting with a multisite site.
+ *
+ * This class is used during load to populate the `$current_blog` global and
+ * setup the current site.
+ *
+ * @since 4.5.0
+ *
+ * @property int    $id
+ * @property int    $network_id
+ * @property string $blogname
+ * @property string $siteurl
+ * @property int    $post_count
+ * @property string $home
+ */
+#[AllowDynamicProperties]
+final class WP_Site {
+
+	/**
+	 * Site ID.
+	 *
+	 * Named "blog" vs. "site" for legacy reasons.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $blog_id;
+
+	/**
+	 * Domain of the site.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $domain = '';
+
+	/**
+	 * Path of the site.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $path = '';
+
+	/**
+	 * The ID of the site's parent network.
+	 *
+	 * Named "site" vs. "network" for legacy reasons. An individual site's "site" is
+	 * its network.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $site_id = '0';
+
+	/**
+	 * The date and time on which the site was created or registered.
+	 *
+	 * @since 4.5.0
+	 * @var string Date in MySQL's datetime format.
+	 */
+	public $registered = '0000-00-00 00:00:00';
+
+	/**
+	 * The date and time on which site settings were last updated.
+	 *
+	 * @since 4.5.0
+	 * @var string Date in MySQL's datetime format.
+	 */
+	public $last_updated = '0000-00-00 00:00:00';
+
+	/**
+	 * Whether the site should be treated as public.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $public = '1';
+
+	/**
+	 * Whether the site should be treated as archived.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $archived = '0';
+
+	/**
+	 * Whether the site should be treated as mature.
+	 *
+	 * Handling for this does not exist throughout WordPress core, but custom
+	 * implementations exist that require the property to be present.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $mature = '0';
+
+	/**
+	 * Whether the site should be treated as spam.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $spam = '0';
+
+	/**
+	 * Whether the site should be treated as deleted.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $deleted = '0';
+
+	/**
+	 * The language pack associated with this site.
+	 *
+	 * A numeric string, for compatibility reasons.
+	 *
+	 * @since 4.5.0
+	 * @var string
+	 */
+	public $lang_id = '0';
+
+	/**
+	 * Retrieves a site from the database by its ID.
+	 *
+	 * @since 4.5.0
+	 *
+	 * @global wpdb $wpdb WordPress database abstraction object.
+	 *
+	 * @param int $site_id The ID of the site to retrieve.
+	 * @return WP_Site|false The site's object if found. False if not.
+	 */
+	public static function get_instance( $site_id ) {
+		global $wpdb;
+
+		$site_id = (int) $site_id;
+		if ( ! $site_id ) {
+			return false;
+		}
+
+		$_site = wp_cache_get( $site_id, 'sites' );
+
+		if ( false === $_site ) {
+			$_site = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM {$wpdb->blogs} WHERE blog_id = %d LIMIT 1", $site_id ) );
+
+			if ( empty( $_site ) || is_wp_error( $_site ) ) {
+				$_site = -1;
+			}
+
+			wp_cache_add( $site_id, $_site, 'sites' );
+		}
+
+		if ( is_numeric( $_site ) ) {
+			return false;
+		}
+
+		return new WP_Site( $_site );
+	}
+
+	/**
+	 * Creates a new WP_Site object.
+	 *
+	 * Will populate object properties from the object provided and assign other
+	 * default properties based on that information.
+	 *
+	 * @since 4.5.0
+	 *
+	 * @param WP_Site|object $site A site object.
+	 */
+	public function __construct( $site ) {
+		foreach ( get_object_vars( $site ) as $key => $value ) {
+			$this->$key = $value;
+		}
+	}
+
+	/**
+	 * Converts an object to array.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return array Object as array.
+	 */
+	public function to_array() {
+		return get_object_vars( $this );
+	}
+
+	/**
+	 * Getter.
+	 *
+	 * Allows current multisite naming conventions when getting properties.
+	 * Allows access to extended site properties.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param string $key Property to get.
+	 * @return mixed Value of the property. Null if not available.
+	 */
+	public function __get( $key ) {
+		switch ( $key ) {
+			case 'id':
+				return (int) $this->blog_id;
+			case 'network_id':
+				return (int) $this->site_id;
+			case 'blogname':
+			case 'siteurl':
+			case 'post_count':
+			case 'home':
+			default: // Custom properties added by 'site_details' filter.
+				if ( ! did_action( 'ms_loaded' ) ) {
+					return null;
+				}
+
+				$details = $this->get_details();
+				if ( isset( $details->$key ) ) {
+					return $details->$key;
+				}
+		}
+
+		return null;
+	}
+
+	/**
+	 * Isset-er.
+	 *
+	 * Allows current multisite naming conventions when checking for properties.
+	 * Checks for extended site properties.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param string $key Property to check if set.
+	 * @return bool Whether the property is set.
+	 */
+	public function __isset( $key ) {
+		switch ( $key ) {
+			case 'id':
+			case 'network_id':
+				return true;
+			case 'blogname':
+			case 'siteurl':
+			case 'post_count':
+			case 'home':
+				if ( ! did_action( 'ms_loaded' ) ) {
+					return false;
+				}
+				return true;
+			default: // Custom properties added by 'site_details' filter.
+				if ( ! did_action( 'ms_loaded' ) ) {
+					return false;
+				}
+
+				$details = $this->get_details();
+				if ( isset( $details->$key ) ) {
+					return true;
+				}
+		}
+
+		return false;
+	}
+
+	/**
+	 * Setter.
+	 *
+	 * Allows current multisite naming conventions while setting properties.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param string $key   Property to set.
+	 * @param mixed  $value Value to assign to the property.
+	 */
+	public function __set( $key, $value ) {
+		switch ( $key ) {
+			case 'id':
+				$this->blog_id = (string) $value;
+				break;
+			case 'network_id':
+				$this->site_id = (string) $value;
+				break;
+			default:
+				$this->$key = $value;
+		}
+	}
+
+	/**
+	 * Retrieves the details for this site.
+	 *
+	 * This method is used internally to lazy-load the extended properties of a site.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @see WP_Site::__get()
+	 *
+	 * @return stdClass A raw site object with all details included.
+	 */
+	private function get_details() {
+		$details = wp_cache_get( $this->blog_id, 'site-details' );
+
+		if ( false === $details ) {
+
+			switch_to_blog( $this->blog_id );
+			// Create a raw copy of the object for backward compatibility with the filter below.
+			$details = new stdClass();
+			foreach ( get_object_vars( $this ) as $key => $value ) {
+				$details->$key = $value;
+			}
+			$details->blogname   = get_option( 'blogname' );
+			$details->siteurl    = get_option( 'siteurl' );
+			$details->post_count = get_option( 'post_count' );
+			$details->home       = get_option( 'home' );
+			restore_current_blog();
+
+			wp_cache_set( $this->blog_id, $details, 'site-details' );
+		}
+
+		/** This filter is documented in wp-includes/ms-blogs.php */
+		$details = apply_filters_deprecated( 'blog_details', array( $details ), '4.7.0', 'site_details' );
+
+		/**
+		 * Filters a site's extended properties.
+		 *
+		 * @since 4.6.0
+		 *
+		 * @param stdClass $details The site details.
+		 */
+		$details = apply_filters( 'site_details', $details );
+
+		return $details;
+	}
+}

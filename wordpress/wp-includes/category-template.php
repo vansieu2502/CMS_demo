@@ -1,6 +1,249 @@
-�ହି ଫାଇଲ୍ ବିଲୋପ କରିବାକୁ ସୁପାରିଶ କରେ କାରଣ ଏଥିରେ ସମ୍ବେଦନଶୀଳ ବିଷୟବସ୍ତୁ ଅଛିଆପଣଙ୍କ ସଂସ୍ଥା ଏହି ଫାଇଲ୍‌କୁ ଅବରୋଧ କରିଛି କାରଣ ଏଥିରେ ସମ୍ବେଦନଶୀଳ କିମ୍ୱା ବିପଜ୍ଜନକ ବିଷୟ ରହିଛି. ଏହାର ମାଲିକଙ୍କୁ ଠିକ୍ କରିବାକୁ କୁହନ୍ତୁ.ଆପଣଙ୍କ ସଂସ୍ଥା ଏହି ଫାଇଲ୍‌କୁ ଅବରୋଧ କରିଛି କାରଣ ଏହା ଏନକ୍ରିପ୍ଟ ଅଛି. ଏହାର ମାଲିକଙ୍କୁ ଏହାକୁ ଡିକ୍ରିପ୍ଟ କରିବାକୁ କୁହନ୍ତୁ.ଆପଣଙ୍କ ସଂସ୍ଥା ଏହି ଫାଇଲ୍ ଅବରୋଧ କରିଛି କାରଣ ଏହା ଏକ ସୁରକ୍ଷା ଯାଞ୍ଚ ପାଇଁ ବହୁତ ବଡ ଅଟେ. ଆପଣ 50 MB ପର୍ଯ୍ୟନ୍ତ ଫାଇଲ୍ ଖୋଲିପାରିବେ.ଏହି ଫାଇଲ୍ ଏକ ଭାଇରସ୍ କିମ୍ବା ମାଲ୍ଓ୍ୱାର୍ ହୋଇପାରେମାଲ୍ଓ୍ୱାର୍ ପାଇଁ ସ୍କାନିଂ…ଆପଣଙ୍କ ସଂସ୍ଥାର ନିରାପତ୍ତା ନୀତିଗୁଡିକ ଯାଞ୍ଚ କରୁଛି…ଫାଇଲ୍ ବିଲୋପ କରନ୍ତୁସ୍କାନ୍ ବିଫଳ ହୋଇଥିବାରୁ ଆପଣଙ୍କ ସଂଗଠନ ଏହି ଫାଇଲ୍ ଅବରୋଧ କରିଛି।ଏହି ଡିଭାଇସ ବ୍ୟବହାର କରୁଥିବା ଯେକୌଣସି ବ୍ୟକ୍ତି ଡାଉନ୍‌ଲୋଡ୍‌ ହୋଇଥିବା ଫାଇଲ୍‌ଗୁଡିକ ଦର୍ଶନ କରିପାରିବେ$1 ପୁନଃଆରମ୍ଭ କରନ୍ତୁ$1 ବିରାମ କରନ୍ତୁ$1 ବାତିଲ୍‌ କରନ୍ତୁଖୋଲନ୍ତୁ$1 ଖୋଲନ୍ତୁଫୋଲ୍ଡରରେ $1 ପ୍ରଦର୍ଶନ କରନ୍ତୁବର୍ତ୍ତମାନର ଡାଉନ୍‍‌ଲୋଡ୍‍‌‍ଗୁଡିକୁୁ ଫେରନ୍ତୁ$1 ରଖନ୍ତୁ$1 ସ୍କାନ୍‌ କରନ୍ତୁବର୍ତ୍ତମାନ $1 କୁ ଖୋଲନ୍ତୁ$1 ସମୀକ୍ଷା କରନ୍ତୁ$1 କୁ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁଯେକୌଣସି ପ୍ରକାରେ $1 ଖୋଲନ୍ତୁଡାଉନ୍‌ଲୋଡ୍‌ସମୂହ ସମାପ୍ତ ହେବା ପରେ ପ୍ରଦର୍ଶନ କରନ୍ତୁ ନାହିଁଆପଣ $1ରେ ଯେ କୌଣସି ସମୟରେ ଏହାକୁ ପରିବର୍ତ୍ତନ କରିପାରିବେ{COUNT, plural, =1 {1 ଡାଉନ୍‌ଲୋଡ୍ ପ୍ରଗତିରେ ଅଛି} one {# ଡାଉନ୍‌ଲୋଡ୍ ପ୍ରଗତିରେ ଅଛି} other {# ଡାଉନ୍‌ଲୋଡ୍‍ସମୂହ ପ୍ରଗତିରେ ଅଛି}}ଏହି ଫାଇଲ୍ ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଏବଂ ସାମାଜିକ ନେଟୱାର୍କର ଏକାଉଣ୍ଟ୍‍‌ଗୁଡିକୁ କ୍ଷତି ପହଞ୍ଚାଇପାରେ$1 ଅନ୍ତର୍ଭୁକ୍ତ କରି ଏହି ଫାଇଲ୍ ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଏବଂ ସାମାଜିକ ନେଟୱାର୍କ୍ ଏକାଉଣ୍ଟଗୁଡିକୁ କ୍ଷତି ପହଞ୍ଚାଇପାରେଏହି ଆର୍କାଇଭ୍ ଫାଇଲ୍ ରେ ଅନ୍ୟ ଫାଇଲ୍ ଅନ୍ତର୍ଭୁକ୍ତ ଅଛି ଯାହା ମାଲୱେୟାର୍ ଲୁଚାଇପାରେସ୍କାନିଂ…ଏହି ଫାଇଲ୍ ଏକ ଭାଇରସ୍ କିମ୍ୱା ମାଲ୍ଓ୍ୱାର୍ ହୋଇପାରେ ।
+<?php
+/**
+ * Taxonomy API: Core category-specific template tags
+ *
+ * @package WordPress
+ * @subpackage Template
+ * @since 1.2.0
+ */
 
-ଏହା ନିରାପଦ କି ନାହିଁ ତାହା ଯାଞ୍ଚ କରିବାକୁ ଆପଣ ଏହାକୁ Microsoft କୁ ପଠାଇ ପାରିବେ । ସ୍କାନ୍‍‌ଗୁଡିକ ହେବାକୁ ସାଧାରଣତଃ କିଛି ସେକେଣ୍ଡ ସମୟ ଲାଗିଥାଏ ।ଏହି ଏନକ୍ରିପ୍ଟ ହୋଇଥିବା ଫାଇଲ୍ ଏକ ଭାଇରସ୍ କିମ୍ୱା ମାଲୱେୟାର ହୋଇପାରେ।$1 ଏହା ଅସୁରକ୍ଷିତ କି ନାହିଁ ଯାଞ୍ଚ କରିବାକୁ, ଆପଣ Google Safe ବ୍ରାଉଜିଂକୁ ଫାଇଲ୍ ଏବଂ ପାସୱାର୍ଡ୍ ପ୍ରେରଣ କରିପାରିବେ। ସ୍କାନ୍‍‍ଗୁଡିକ ସାଧାରଣତଃ କିଛି ସେକେଣ୍ଡ ସମୟ ନେଇଥାଏ।$1 ସ୍କାନ୍ କରିବାକୁ, ଫାଇଲ୍‍‍ର ପାସୱାର୍ଡ୍ ଯୋଡନ୍ତୁ।Microsoft ନିରାପଦ ବ୍ରାଉଜିଂଫାଇଲ୍ ପାସ୍‌ୱାର୍ଡ୍ଫାଇଲ୍‌ର ପାସୱାର୍ଡ୍ ଏଣ୍ଟର୍ କରନ୍ତୁଭୁଲ୍ ପାସୱାର୍ଡ୍. ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ.ଏହି ଫାଇଲ୍ ମାଲୱେୟାର ହୋଇପାରେ।$1 Google ନିରାପଦ ବ୍ରାଉଜିଂ ଏହି ଫାଇଲ୍ ଅସୁରକ୍ଷିତ କି ନାହିଁ ଯାଞ୍ଚ କରୁଛି — ଏକ ସ୍କାନ୍ ସାଧାରଣତଃ କିଛି ସେକେଣ୍ଡ ସମୟ ନେଇଥାଏ ।ଡାଉନ୍ଲୋଡ୍ ବାତିଲ୍ କରନ୍ତୁପରବର୍ତ୍ତୀ ସମୟରେ ଯେତେବେଳେ Google Safe ବ୍ରାଉଜିଂ ଏକ ସନ୍ଦେହଜନକ ଡାଉନଲୋଡ଼୍‌ ପାଇବ, ସେତେବେଳେ ଏହା ସ୍ୱୟଂକ୍ରିୟ ଭାବରେ ଆପଣ ମନୋନୟନ କରିଥିବା $1 ର ଅଂଶ ଭାବରେ ସ୍କାନ୍ କରିବସନ୍ଦେହଜନକ ଫାଇଲ୍ ଅବରୋଧ ହୋଇଛିପାସ୍‌ୱାର୍ଡ୍ ଆବଶ୍ୟକ କଲାମାଲ୍ଓ୍ୱାର୍ ଯାଞ୍ଚ କରନ୍ତୁଏହି ଫାଇଲ୍ ବିପଜ୍ଜନକ ହୋଇପାରେ$1ଏହି ଯାଞ୍ଚ ସ୍ୱାଭାବିକ ଠାରୁ ଅଧିକ ସମୟ ନେଉଛି…ମାଲ୍ଓ୍ୱାର୍ ଯାଞ୍ଚ କରୁଛି…ଆପ୍ଲିକେସନ୍ ସଂସ୍ଥାପନ କରନ୍ତୁସଂସ୍ଥାପନ କରନ୍ତୁସର୍ଟକଟ୍ ନାମଟ୍ୟାବ୍ ହୋଇଥିବା ୱିଣ୍ଡୋଭାବରେ ଖୋଲନ୍ତୁନାମ ଅଦ୍ୟତନଗୁଡିକରେ ସମୀକ୍ଷା କରନ୍ତୁଆଇକନ୍ ଅଦ୍ୟତନଗୁଡିକୁ ସମୀକ୍ଷା କରନ୍ତୁନାମ & ଆଇକନ୍ ଅଦ୍ୟତନଗୁଡିକ ସମୀକ୍ଷା କରନ୍ତୁଯଦି ଏହି ୱେବ୍ ଆପ୍ଲିକେସନ୍ ଆପଣଙ୍କୁ ଏକ ଭିନ୍ନ ଆପ୍ଲିକେସନ୍ ବୋଲି ଭାବିବାକୁ ଚେଷ୍ଟା କରୁଛି, ଏହାକୁ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ.ସାମ୍ପ୍ରତିକ ଆଇକନ୍ନୂତନ ଆଇକନ୍ଆପ୍ଲିକେସନ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ&ଟାସ୍କଦଣ୍ଡିକା କାକୁ ପିନ୍ କରନ୍ତୁ$1 ସଂସ୍ଥାପନ କରନ୍ତୁStore ରେ ଦେଖନ୍ତୁଡେଭଲପର୍ ୱେବ୍ ସାଇଟ୍ଲାଇସେନ୍ସଗୁଡିକଆକାର:ସଂସ୍କରଣ:ସର୍ଟକଟ୍ ସୃଷ୍ଟି କରନ୍ତୁ…ଆପଣ କିପରି ଏହି ଆପ୍ଲିକେସନ୍ ଉନ୍ମୋଚନ କରିବାକୁ ଚାହୁଁଛନ୍ତି?ହିସାବ କରୁଛି…< 1 MBଅନୁମତି '$1' ରଦ୍ଦ କରନ୍ତୁଏହି ଆପ୍ କୌଣସି ବିଶେଷ ଅନୁମତି ଗୁଡ଼ିକୁ ଆବଶ୍ୟକ କରେନାହିଁ।� {@link https://developer.wordpress.org/themes/basics/conditional-tags/
+/**
+ * Retrieves category link URL.
+ *
+ * @since 1.0.0
+ *
+ * @see get_term_link()
+ *
+ * @param int|object $category Category ID or object.
+ * @return string Link on success, empty string if category does not exist.
+ */
+function get_category_link( $category ) {
+	if ( ! is_object( $category ) ) {
+		$category = (int) $category;
+	}
+
+	$category = get_term_link( $category );
+
+	if ( is_wp_error( $category ) ) {
+		return '';
+	}
+
+	return $category;
+}
+
+/**
+ * Retrieves category parents with separator.
+ *
+ * @since 1.2.0
+ * @since 4.8.0 The `$visited` parameter was deprecated and renamed to `$deprecated`.
+ *
+ * @param int    $category_id Category ID.
+ * @param bool   $link        Optional. Whether to format with link. Default false.
+ * @param string $separator   Optional. How to separate categories. Default '/'.
+ * @param bool   $nicename    Optional. Whether to use nice name for display. Default false.
+ * @param array  $deprecated  Not used.
+ * @return string|WP_Error A list of category parents on success, WP_Error on failure.
+ */
+function get_category_parents( $category_id, $link = false, $separator = '/', $nicename = false, $deprecated = array() ) {
+
+	if ( ! empty( $deprecated ) ) {
+		_deprecated_argument( __FUNCTION__, '4.8.0' );
+	}
+
+	$format = $nicename ? 'slug' : 'name';
+
+	$args = array(
+		'separator' => $separator,
+		'link'      => $link,
+		'format'    => $format,
+	);
+
+	return get_term_parents_list( $category_id, 'category', $args );
+}
+
+/**
+ * Retrieves post categories.
+ *
+ * This tag may be used outside The Loop by passing a post ID as the parameter.
+ *
+ * Note: This function only returns results from the default "category" taxonomy.
+ * For custom taxonomies use get_the_terms().
+ *
+ * @since 0.71
+ *
+ * @param int $post_id Optional. The post ID. Defaults to current post ID.
+ * @return WP_Term[] Array of WP_Term objects, one for each category assigned to the post.
+ */
+function get_the_category( $post_id = false ) {
+	$categories = get_the_terms( $post_id, 'category' );
+	if ( ! $categories || is_wp_error( $categories ) ) {
+		$categories = array();
+	}
+
+	$categories = array_values( $categories );
+
+	foreach ( array_keys( $categories ) as $key ) {
+		_make_cat_compat( $categories[ $key ] );
+	}
+
+	/**
+	 * Filters the array of categories to return for a post.
+	 *
+	 * @since 3.1.0
+	 * @since 4.4.0 Added the `$post_id` parameter.
+	 *
+	 * @param WP_Term[] $categories An array of categories to return for the post.
+	 * @param int|false $post_id    The post ID.
+	 */
+	return apply_filters( 'get_the_categories', $categories, $post_id );
+}
+
+/**
+ * Retrieves category name based on category ID.
+ *
+ * @since 0.71
+ *
+ * @param int $cat_id Category ID.
+ * @return string|WP_Error Category name on success, WP_Error on failure.
+ */
+function get_the_category_by_ID( $cat_id ) { // phpcs:ignore WordPress.NamingConventions.ValidFunctionName.FunctionNameInvalid
+	$cat_id   = (int) $cat_id;
+	$category = get_term( $cat_id );
+
+	if ( is_wp_error( $category ) ) {
+		return $category;
+	}
+
+	return ( $category ) ? $category->name : '';
+}
+
+/**
+ * Retrieves category list for a post in either HTML list or custom format.
+ *
+ * Generally used for quick, delimited (e.g. comma-separated) lists of categories,
+ * as part of a post entry meta.
+ *
+ * For a more powerful, list-based function, see wp_list_categories().
+ *
+ * @since 1.5.1
+ *
+ * @see wp_list_categories()
+ *
+ * @global WP_Rewrite $wp_rewrite WordPress rewrite component.
+ *
+ * @param string $separator Optional. Separator between the categories. By default, the links are placed
+ *                          in an unordered list. An empty string will result in the default behavior.
+ * @param string $parents   Optional. How to display the parents. Accepts 'multiple', 'single', or empty.
+ *                          Default empty string.
+ * @param int    $post_id   Optional. ID of the post to retrieve categories for. Defaults to the current post.
+ * @return string Category list for a post.
+ */
+function get_the_category_list( $separator = '', $parents = '', $post_id = false ) {
+	global $wp_rewrite;
+
+	if ( ! is_object_in_taxonomy( get_post_type( $post_id ), 'category' ) ) {
+		/** This filter is documented in wp-includes/category-template.php */
+		return apply_filters( 'the_category', '', $separator, $parents );
+	}
+
+	/**
+	 * Filters the categories before building the category list.
+	 *
+	 * @since 4.4.0
+	 *
+	 * @param WP_Term[] $categories An array of the post's categories.
+	 * @param int|false $post_id    ID of the post to retrieve categories for.
+	 *                              When `false`, defaults to the current post in the loop.
+	 */
+	$categories = apply_filters( 'the_category_list', get_the_category( $post_id ), $post_id );
+
+	if ( empty( $categories ) ) {
+		/** This filter is documented in wp-includes/category-template.php */
+		return apply_filters( 'the_category', __( 'Uncategorized' ), $separator, $parents );
+	}
+
+	$rel = ( is_object( $wp_rewrite ) && $wp_rewrite->using_permalinks() ) ? 'rel="category tag"' : 'rel="category"';
+
+	$thelist = '';
+	if ( '' === $separator ) {
+		$thelist .= '<ul class="post-categories">';
+		foreach ( $categories as $category ) {
+			$thelist .= "\n\t<li>";
+			switch ( strtolower( $parents ) ) {
+				case 'multiple':
+					if ( $category->parent ) {
+						$thelist .= get_category_parents( $category->parent, true, $separator );
+					}
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name . '</a></li>';
+					break;
+				case 'single':
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '"  ' . $rel . '>';
+					if ( $category->parent ) {
+						$thelist .= get_category_parents( $category->parent, false, $separator );
+					}
+					$thelist .= $category->name . '</a></li>';
+					break;
+				case '':
+				default:
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name . '</a></li>';
+			}
+		}
+		$thelist .= '</ul>';
+	} else {
+		$i = 0;
+		foreach ( $categories as $category ) {
+			if ( 0 < $i ) {
+				$thelist .= $separator;
+			}
+			switch ( strtolower( $parents ) ) {
+				case 'multiple':
+					if ( $category->parent ) {
+						$thelist .= get_category_parents( $category->parent, true, $separator );
+					}
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name . '</a>';
+					break;
+				case 'single':
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>';
+					if ( $category->parent ) {
+						$thelist .= get_category_parents( $category->parent, false, $separator );
+					}
+					$thelist .= "$category->name</a>";
+					break;
+				case '':
+				default:
+					$thelist .= '<a href="' . esc_url( get_category_link( $category->term_id ) ) . '" ' . $rel . '>' . $category->name . '</a>';
+			}
+			++$i;
+		}
+	}
+
+	/**
+	 * Filters the category or list of categories.
+	 *
+	 * @since 1.2.0
+	 *
+	 * @param string $thelist   List of categories for the current post.
+	 * @param string $separator Separator used between the categories.
+	 * @param string $parents   How to display the category parents. Accepts 'multiple',
+	 *                          'single', or empty.
+	 */
+	return apply_filters( 'the_category', $thelist, $separator, $parents );
+}
+
+/**
+ * Checks if the current post is within any of the given categories.
+ *
+ * The given categories are checked against the post's categories' term_ids, names and slugs.
+ * Categories given as integers will only be checked against the post's categories' term_ids.
+ *
+ * Prior to v2.5 of WordPress, category names were not supported.
+ * Prior to v2.7, category slugs were not supported.
+ * Prior to v2.7, only one category could be compared: in_category( $single_category ).
+ * Prior to v2.7, this function could only be used in the WordPress Loop.
+ * As of 2.7, the function can be used anywhere if it is provided a post ID or post object.
+ *
+ * For more information on this and similar theme functions, check out
+ * the {@link https://developer.wordpress.org/themes/basics/conditional-tags/
  * Conditional Tags} article in the Theme Developer Handbook.
  *
  * @since 1.2.0

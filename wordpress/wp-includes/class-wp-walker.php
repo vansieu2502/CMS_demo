@@ -260,14 +260,197 @@ class Walker {
 			$empty_array = array();
 			foreach ( $children_elements as $orphans ) {
 				foreach ( $orphans as $op ) {
-					$this->display_element( $op, $empt ਤਾਂ ਡਾਉਨਲੋਡ ਫ਼ਾਈਲ ਦੀ ਚੋਣ ਕਰੋ।ਅਸੀਂ ਤੁਹਾਡੀ ਫਾਈਲ ਤੁਰੰਤ ਅਤੇ ਆਸਾਨੀ ਨਾਲ ਦੇਖਣ ਲਈ ਖੋਲ੍ਹੀ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਇਸਦੀ ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਡਾਉਨਲੋਡ ਫ਼ਾਈਲ ਦੀ ਚੋਣ ਕਰੋ।ਦੇਖਣ ਲਈ ਫ਼ਾਈਲ ਨੂੰ ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਮਰੱਥ, ਇਸਦੀ ਬਜਾਏ ਫ਼ਾਈਲ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰ ਰਹੇ ਹਾਂ।ਪ੍ਰਮਾਣੀਕਰਣ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ ਜਦੋਂ ਤੱਕ Microsoft Edge ਤੁਹਾਡੇ ਲਈ ਪੁਸ਼ਟੀ ਕਰਦਾ ਹੈਪਛਾਣ…ਪ੍ਰਮਾਣੀਕਰਣ ਸਮਾਪਤ ਹੋ ਗਿਆ।Microsoft Edge ਪਾਸਵਰਡਸ ਨੂੰ ਭਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣ ਲਈ ਤੁਹਾਡਾ Windows ਪਾਸਵਰਡ ਟਾਈਪ ਕਰੋ।ਆਪਣੀਆਂ ਆਟੋਫਿਲ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਤਸਦੀਕ ਲਈ ਆਪਣੇ ਡਿਵਾਈਸ ਦਾ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ।Edge ਪ੍ਰਕਿਰਿਆ ਮੌਨੀਟਰMicrosoft Edge ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਲਈ QR ਕੋਡMicrosoft Edge ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੇ ਨਾਲ ਇਸ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋਤੁਹਾਡੀਆਂ ਡਿਵਾਇਸ ਵਿਚਕਾਰ ਟੈਬਸ ਭੇਜਣ ਲਈ, ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ 'ਤੇ Microsoft Edge ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ ਅਤੇ ਸਾਈਨ ਇਨ ਕਰੋ।Microsoft ਗੋਪਨੀਯਤਾ ਨੀਤੀ{num_people, plural, offset:2
-      =1 {{person1} ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ 'ਤੇ ਹੈ}
-      =2 {{person1} ਅਤੇ {person2} ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ 'ਤੇ ਹਨ}
-      =3 {{person1}, {person2} ਅਤੇ {person3} ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ 'ਤੇ ਹਨ}
-      one {{person1}, {person2} ਅਤੇ # ਹੋਰ ਲੋਕ ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ 'ਤੇ ਹਨ}
-      other {{person1}, {person2} ਅਤੇ # ਹੋਰ ਲੋਕ ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ 'ਤੇ ਹਨ}}{NUM_PEOPLE, plural, offset:2
-      =1 {{person1} ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ ਸਮੂਹ 'ਤੇ ਹੈ}
-      =2 {{person1} ਅਤੇ {person2} ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ ਸਮੂਹ 'ਤੇ ਹਨ}
-      =3 {{person1}, {person2} ਅਤੇ {person3} ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ ਸਮੂਹ 'ਤੇ ਹਨ}
-      one {{person1}, {person2} ਅਤੇ # ਹੋਰ ਵਿਅਕਤੀ ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ ਸਮੂਹ 'ਤੇ ਹਨ}
-      other {{person1}, {person2} ਅਤੇ # ਹੋਰ ਲੋਕ ਇਸ ਸਮੇਂ ਇਸ ਟੈਬ ਸਮੂਹ 'ਤੇ ਹਨ}}+$1ਹੋਰ ਸਹਿਯੋਗੀ$1 ਹੋਰ ਸਹਿਯੋਗੀ$1 ਦੁਆਰਾ ਖੋਲ੍ਹਿਆ ਗਿਆ, $2$1 ਦੁਆਰਾ ਖੋਲ੍ਹਿਆ ਗਿਆ$1 ਦੁਆਰਾ ਬਦਲਿਆ ਗਿਆ, $2$1 ਦੁਆਰਾ ਬਦਲਿਆ ਗਿਆ$1 ਦੁਆਰਾ ਲੌਕ ਕੀਤਾ ਗਿਆਤੁਹਾਡੇ ਦੁਆਰਾ ਬਦਲਿਆ ਗਿਆ, $1ਤੁਹਾਡੇ ਦੁਆਰਾ ਖੋਲ੍ਹਿਆ ਗਿਆਤੁਹਾਡੇ ਦੁਆਰਾ ਬਦਲਿਆ ਗਿਆਤੁਹਾਡੇ ਦੁਆਰਾ ਲੌਕ ਕੀਤਾ ਗਿਆਉਹਨਾਂ ਦੀ ਟੈਬ 'ਤੇ ਜਾਓਸੰਪਰਕ ਕਾਰਡ ਖੋਲ੍ਹੋਸੁਨੇਹਾ ਭੇਜੋਇਸ ਸਮੇਂ ਇਸ ਟੈਬ 'ਤੇ$1 ਟੈਬ 'ਤੇ$1 ਚੋਣਾਂਕੰਮਪ੍ਰਦਰਸ਼ਨ ਦੇ ਨਿਸ਼ਾਨਹੀਪ ਸਨੈਪਸ਼ਾਟਹੀਪ ਸੀਮਾਵਾਂਨਮੂਨੇ ਵਾਲੇ ਹੀਪ ਪ੍ਰੋਫਾਈਲਾਂEdge ਵਿੱਚ ਵਿਸ਼ੇਸ਼ ਪੇਸ਼ਕਸ਼ਸਟ੍ਰੀਕ ਨੂੰ ਬ੍ਰਾਉਜ਼ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋਕੁਸ਼ਲਤਾ ਮੋਡ ਨੂੰ ਐਕਸਪਲੋਰ ਕਰੋRobux ਰੀਡੀਮ ਕਰੋOverwatch ਸਿੱਕਿਆਂ ਨੂੰ ਰੀਡੀਮ ਕਰੋRP ਨੂੰ ਰੀਡੀਮ ਕਰੋਗੇਮਿੰਗ ਨੂੰ ਐਕਸਪਲੋਰ ਕਰੋAI ਨੂੰ ਐਕਸਪਲੋਰ ਕਰੋਕੰਮਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਵਾਧਾਦੋਹਰੀ ਖੋਜ ਨਾਲ ਦੋਹਰੇ ਨਤੀਜੇਓਰਕਾ ਵ੍ਹੇਲਸ਼ਨੀ ਗ੍ਰਹਿਅਰੋਰਾ ਬੋਰੇਲਿਸ ਦਾ ਕਾਰਨ ਕੀ ਹੈਤੂਤਨਖਮੁਨ ਕੌਣ ਸੀ?ਬੁਗਾਟੀ ਚਿਰੋਨਵੇਰਨਾਜ਼ਾ ਇਟਲੀਵਿਨਸੈਂਟ ਵੈਨ ਗੋਗਦੁਨੀਆ ਦਾ ਸਭ ਤੋਂ ਉੱਚਾ ਝਰਨਾਫਿਕਸ ਪੌਦਾਨੌਰਥੰਬ�
+					$this->display_element( $op, $empty_array, 1, 0, $args, $output );
+				}
+			}
+		}
+
+		return $output;
+	}
+
+	/**
+	 * Produces a page of nested elements.
+	 *
+	 * Given an array of hierarchical elements, the maximum depth, a specific page number,
+	 * and number of elements per page, this function first determines all top level root elements
+	 * belonging to that page, then lists them and all of their children in hierarchical order.
+	 *
+	 * $max_depth = 0 means display all levels.
+	 * $max_depth > 0 specifies the number of display levels.
+	 *
+	 * @since 2.7.0
+	 * @since 5.3.0 Formalized the existing `...$args` parameter by adding it
+	 *              to the function signature.
+	 *
+	 * @param array $elements  An array of elements.
+	 * @param int   $max_depth The maximum hierarchical depth.
+	 * @param int   $page_num  The specific page number, beginning with 1.
+	 * @param int   $per_page  Number of elements per page.
+	 * @param mixed ...$args   Optional additional arguments.
+	 * @return string XHTML of the specified page of elements.
+	 */
+	public function paged_walk( $elements, $max_depth, $page_num, $per_page, ...$args ) {
+		$output = '';
+
+		$max_depth = (int) $max_depth;
+
+		if ( empty( $elements ) || $max_depth < -1 ) {
+			return $output;
+		}
+
+		$parent_field = $this->db_fields['parent'];
+
+		$count = -1;
+		if ( -1 === $max_depth ) {
+			$total_top = count( $elements );
+		}
+		if ( $page_num < 1 || $per_page < 0 ) {
+			// No paging.
+			$paging = false;
+			$start  = 0;
+			if ( -1 === $max_depth ) {
+				$end = $total_top;
+			}
+			$this->max_pages = 1;
+		} else {
+			$paging = true;
+			$start  = ( (int) $page_num - 1 ) * (int) $per_page;
+			$end    = $start + $per_page;
+			if ( -1 === $max_depth ) {
+				$this->max_pages = (int) ceil( $total_top / $per_page );
+			}
+		}
+
+		// Flat display.
+		if ( -1 === $max_depth ) {
+			if ( ! empty( $args[0]['reverse_top_level'] ) ) {
+				$elements = array_reverse( $elements );
+				$oldstart = $start;
+				$start    = $total_top - $end;
+				$end      = $total_top - $oldstart;
+			}
+
+			$empty_array = array();
+			foreach ( $elements as $e ) {
+				++$count;
+				if ( $count < $start ) {
+					continue;
+				}
+				if ( $count >= $end ) {
+					break;
+				}
+				$this->display_element( $e, $empty_array, 1, 0, $args, $output );
+			}
+			return $output;
+		}
+
+		/*
+		 * Separate elements into two buckets: top level and children elements.
+		 * Children_elements is two dimensional array, e.g.
+		 * $children_elements[10][] contains all sub-elements whose parent is 10.
+		 */
+		$top_level_elements = array();
+		$children_elements  = array();
+		foreach ( $elements as $e ) {
+			if ( empty( $e->$parent_field ) ) {
+				$top_level_elements[] = $e;
+			} else {
+				$children_elements[ $e->$parent_field ][] = $e;
+			}
+		}
+
+		$total_top = count( $top_level_elements );
+		if ( $paging ) {
+			$this->max_pages = (int) ceil( $total_top / $per_page );
+		} else {
+			$end = $total_top;
+		}
+
+		if ( ! empty( $args[0]['reverse_top_level'] ) ) {
+			$top_level_elements = array_reverse( $top_level_elements );
+			$oldstart           = $start;
+			$start              = $total_top - $end;
+			$end                = $total_top - $oldstart;
+		}
+		if ( ! empty( $args[0]['reverse_children'] ) ) {
+			foreach ( $children_elements as $parent => $children ) {
+				$children_elements[ $parent ] = array_reverse( $children );
+			}
+		}
+
+		foreach ( $top_level_elements as $e ) {
+			++$count;
+
+			// For the last page, need to unset earlier children in order to keep track of orphans.
+			if ( $end >= $total_top && $count < $start ) {
+					$this->unset_children( $e, $children_elements );
+			}
+
+			if ( $count < $start ) {
+				continue;
+			}
+
+			if ( $count >= $end ) {
+				break;
+			}
+
+			$this->display_element( $e, $children_elements, $max_depth, 0, $args, $output );
+		}
+
+		if ( $end >= $total_top && count( $children_elements ) > 0 ) {
+			$empty_array = array();
+			foreach ( $children_elements as $orphans ) {
+				foreach ( $orphans as $op ) {
+					$this->display_element( $op, $empty_array, 1, 0, $args, $output );
+				}
+			}
+		}
+
+		return $output;
+	}
+
+	/**
+	 * Calculates the total number of root elements.
+	 *
+	 * @since 2.7.0
+	 *
+	 * @param array $elements Elements to list.
+	 * @return int Number of root elements.
+	 */
+	public function get_number_of_root_elements( $elements ) {
+		$num          = 0;
+		$parent_field = $this->db_fields['parent'];
+
+		foreach ( $elements as $e ) {
+			if ( empty( $e->$parent_field ) ) {
+				++$num;
+			}
+		}
+		return $num;
+	}
+
+	/**
+	 * Unsets all the children for a given top level element.
+	 *
+	 * @since 2.7.0
+	 *
+	 * @param object $element           The top level element.
+	 * @param array  $children_elements The children elements.
+	 */
+	public function unset_children( $element, &$children_elements ) {
+		if ( ! $element || ! $children_elements ) {
+			return;
+		}
+
+		$id_field = $this->db_fields['id'];
+		$id       = $element->$id_field;
+
+		if ( ! empty( $children_elements[ $id ] ) && is_array( $children_elements[ $id ] ) ) {
+			foreach ( (array) $children_elements[ $id ] as $child ) {
+				$this->unset_children( $child, $children_elements );
+			}
+		}
+
+		unset( $children_elements[ $id ] );
+	}
+}

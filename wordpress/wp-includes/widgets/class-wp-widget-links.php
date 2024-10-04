@@ -1,20 +1,138 @@
-strator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit SupportedApiList x86-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit SupportedApiList x86-x86_en-us.msi' succeeded. Hash: 7F56D7AE0501D1CD252D7BB2C7A88D98337A900328FBB8D7A45DA48E5612FCB7
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x64 (OnecoreUAP)-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x64 (OnecoreUAP)-x86_en-us.msi' succeeded. Hash: 04F1B1E1344386D4261B26D55ADD689FBF67DC70E94C50C4C983E5D4F3CE2FC7
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x64-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x64-x86_en-us.msi' succeeded. Hash: A9DE095A6B216293806592EC8AD5FF967153568F9529C87AE3DA684C2C4EB4DD
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x86 (OnecoreUAP)-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x86 (OnecoreUAP)-x86_en-us.msi' succeeded. Hash: 455506811ECB09CA5DDF7DA5B422CF13A9F090CF073686657B6E0DFFA8DB58F0
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x86-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows App Certification Kit x86-x86_en-us.msi' succeeded. Hash: 2E0D654E722CA2C43DC621D30D17FB41A99AE245EAAE1FF547C2931D94D0E9F7
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows Desktop Extension SDK Contracts-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows Desktop Extension SDK Contracts-x86_en-us.msi' succeeded. Hash: A899AC101BF825C43FE3307D4E76FB502F0572644FA9FA91E93B2C3E24BF46EF
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows Desktop Extension SDK-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows Desktop Extension SDK-x86_en-us.msi' succeeded. Hash: C80EB2F0D0A53EDE7FCD6E428793ABE939E8BC3CAA8EAF7DA95343D0934D39AF
-[17e4:0019][2024-08-13T08:50:38] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows IoT Extension SDK Contracts-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:38] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Windows IoT Extension SDK Contracts-x86_en-us.msi' succeeded. Hash: 1C39908FA67AD8F8A89681C01243BA9AA74823600E5DA51A8FCEFC7BB84FC907
-[17e4:0019][2024-08-13T08:50:38] Checking SHegory'    => false,
+<?php
+/**
+ * Widget API: WP_Widget_Links class
+ *
+ * @package WordPress
+ * @subpackage Widgets
+ * @since 4.4.0
+ */
+
+/**
+ * Core class used to implement a Links widget.
+ *
+ * @since 2.8.0
+ *
+ * @see WP_Widget
+ */
+class WP_Widget_Links extends WP_Widget {
+
+	/**
+	 * Sets up a new Links widget instance.
+	 *
+	 * @since 2.8.0
+	 */
+	public function __construct() {
+		$widget_ops = array(
+			'description'                 => __( 'Your blogroll' ),
+			'customize_selective_refresh' => true,
+		);
+		parent::__construct( 'links', __( 'Links' ), $widget_ops );
+	}
+
+	/**
+	 * Outputs the content for the current Links widget instance.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @param array $args     Display arguments including 'before_title', 'after_title',
+	 *                        'before_widget', and 'after_widget'.
+	 * @param array $instance Settings for the current Links widget instance.
+	 */
+	public function widget( $args, $instance ) {
+		$show_description = isset( $instance['description'] ) ? $instance['description'] : false;
+		$show_name        = isset( $instance['name'] ) ? $instance['name'] : false;
+		$show_rating      = isset( $instance['rating'] ) ? $instance['rating'] : false;
+		$show_images      = isset( $instance['images'] ) ? $instance['images'] : true;
+		$category         = isset( $instance['category'] ) ? $instance['category'] : false;
+		$orderby          = isset( $instance['orderby'] ) ? $instance['orderby'] : 'name';
+		$order            = 'rating' === $orderby ? 'DESC' : 'ASC';
+		$limit            = isset( $instance['limit'] ) ? $instance['limit'] : -1;
+
+		$before_widget = preg_replace( '/ id="[^"]*"/', ' id="%id"', $args['before_widget'] );
+
+		$widget_links_args = array(
+			'title_before'     => $args['before_title'],
+			'title_after'      => $args['after_title'],
+			'category_before'  => $before_widget,
+			'category_after'   => $args['after_widget'],
+			'show_images'      => $show_images,
+			'show_description' => $show_description,
+			'show_name'        => $show_name,
+			'show_rating'      => $show_rating,
+			'category'         => $category,
+			'class'            => 'linkcat widget',
+			'orderby'          => $orderby,
+			'order'            => $order,
+			'limit'            => $limit,
+		);
+
+		/**
+		 * Filters the arguments for the Links widget.
+		 *
+		 * @since 2.6.0
+		 * @since 4.4.0 Added the `$instance` parameter.
+		 *
+		 * @see wp_list_bookmarks()
+		 *
+		 * @param array $widget_links_args An array of arguments to retrieve the links list.
+		 * @param array $instance          The settings for the particular instance of the widget.
+		 */
+		wp_list_bookmarks( apply_filters( 'widget_links_args', $widget_links_args, $instance ) );
+	}
+
+	/**
+	 * Handles updating settings for the current Links widget instance.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @param array $new_instance New settings for this instance as input by the user via
+	 *                            WP_Widget::form().
+	 * @param array $old_instance Old settings for this instance.
+	 * @return array Updated settings to save.
+	 */
+	public function update( $new_instance, $old_instance ) {
+		$new_instance = (array) $new_instance;
+		$instance     = array(
+			'images'      => 0,
+			'name'        => 0,
+			'description' => 0,
+			'rating'      => 0,
+		);
+		foreach ( $instance as $field => $val ) {
+			if ( isset( $new_instance[ $field ] ) ) {
+				$instance[ $field ] = 1;
+			}
+		}
+
+		$instance['orderby'] = 'name';
+		if ( in_array( $new_instance['orderby'], array( 'name', 'rating', 'id', 'rand' ), true ) ) {
+			$instance['orderby'] = $new_instance['orderby'];
+		}
+
+		$instance['category'] = (int) $new_instance['category'];
+		$instance['limit']    = ! empty( $new_instance['limit'] ) ? (int) $new_instance['limit'] : -1;
+
+		return $instance;
+	}
+
+	/**
+	 * Outputs the settings form for the Links widget.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @param array $instance Current settings.
+	 */
+	public function form( $instance ) {
+
+		// Defaults.
+		$instance  = wp_parse_args(
+			(array) $instance,
+			array(
+				'images'      => true,
+				'name'        => true,
+				'description' => false,
+				'rating'      => false,
+				'category'    => false,
 				'orderby'     => 'name',
 				'limit'       => -1,
 			)

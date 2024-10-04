@@ -1,1 +1,197 @@
-�ଲ୍‍ କୋଡ୍‌ ଜାଣି ନାହାନ୍ତି କି? $2ଏଠାରେ$3ଖୋଜନ୍ତୁ।ଏହି ପୋଷ୍ଟାଲ୍ କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ କରାଯାଇପାରିଲା ନାହିଁ। ଏକ ବୈଧ ପୋଷ୍ଟାଲ୍ କୋଡ୍‍ର ଉଦାହରଣ। $1।ଏହି ପୋଷ୍ଟାଲ୍ କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ କରାଯାଇପାରିଲା ନାହିଁ।ଏହି ପିନ୍‌ କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ ହୋ‍ଇନାହିଁ। ଏକ ବୈଧ ପିନ୍‌ କୋଡ୍‍ର ଉଦାହରଣ: $1। ଆପଣଙ୍କର ପିନ୍‌ କୋଡ୍‍ ଜାଣିନାହାଁନ୍ତି? $2ଏଠାରେ$3 ଏହା ଖୋଜନ୍ତୁ।ଏହି ZIP କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ ହୋଇନାହିଁ। ଏକ ବୈଧ ZIP କୋଡ୍‍ର ଉଦାହରଣ: $1।ଏହି ZIP କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ ହୋଇନାହିଁ।ଏହିପରି ଜଣାପଡୁଛି ଯେ ଏହି ପୋଷ୍ଟାଲ୍ କୋଡ୍ ଏହି ଠିକଣାର ବାକି ଅଂଶ ସହିତ ମେଳ ଖାଉନାହିଁ। ଆପଣଙ୍କ ପୋଷ୍ଟାଲ୍ କୋଡ୍ ଜାଣିନାହାନ୍ତି କି? $1ଏଠାରେ$2ଖୋଜନ୍ତୁ।ଏହିପରି ଲାଗୁଛି ପୋଷ୍ଟାଲ୍‌ କୋଡ୍‍ ଅବଶିଷ୍ଟ ଠିକଣା ସହିତ ମେଳ ହେଉନାହିଁ।ଏପରି ଜଣାପଡୁଛି ଯେ ଏହି ପିନ୍‌ କୋଡ୍‌ ଅବଶିଷ୍ଟ ଠିକଣାଗୁଡ଼ିକ ସହ ମେଳ ହେଉନାହିଁ ଆପଣଙ୍କ ପିନ୍‌ କୋଡ୍ ଜାଣିନାହାନ୍ତି କି? $1ଏଠାରେ$2 ଏହାକୁ ଖୋଜନ୍ତୁ।ଏହିପରି ଲାଗୁଛି ଯେ ଏହି ପିନ୍‌ କୋଡ୍‌ ଅବଶିଷ୍ଟ ଠିକଣା ସହିତ ମେଳ ହେଉନାହିଁ।ଏହା ଜଣାପଡୁଛି ଯେ ଠିକଣାଥିବା ଲାଇନ୍‌ରେ ଗୋଟିଏ ପୋଷ୍ଟ ଅଫିସ୍‌ ବକ୍ସ ଅଛି। ଦୟାକରି ଗୋଟିଏ ରାସ୍ତା କିମ୍ୱା ବିଲ୍ଡିଂର ଠିକଣା ବ୍ୟବହାର କରନ୍ତୁ।କ୍ରିୟାଶୀଳ କରନ୍ତୁଚୟନଆନେସେଷ୍ଟର୍‌ରେ କ୍ଲିକ୍‌ କରନ୍ତୁgo toଦବାନ୍ତୁclearଆଲର୍ଟଆଲର୍ଟ ଡାଏଲଗଆର୍ଟିକଲ୍‍ଅଡିଓବ୍ୟାନର୍ବ୍ଲକ୍‌କୋଟ୍ବଟନ୍‌କୋଡ୍କଲର୍ ପିକର୍ସ୍ତମ୍ଭର ଶୀର୍ଷକକମ୍ପ୍ଲିମେଣ୍ଟାରୀଡିଲିଟ୍ କରିବା ପ୍ରକ୍ରିୟାଭର୍ତ୍ତି କରିବାଚେକ୍‌ବକ୍ସବିଷୟବସ୍ତୁର ସୂଚନାତାରିଖ ଚୟନକାରୀତାରିଖ ଓ ସମୟ ପିକର୍ସ୍ଥାନୀୟ ଡାଟା ଏବଂ ସମୟ ପିକର୍ସଂଜ୍ଞାପରିଭାଷା ତାଲିକାଶଦ୍ଦଡାୟଲଗ୍ପ୍ରକାଶ ତ୍ରିଭୁଜସାରାଂଶସ୍ୱୀକୃତିଗୁଡ଼ିକଉପସଂହାରପରିଶିଷ୍ଟବ୍ୟାକ୍‌ ଲିଙ୍କ୍ଗ୍ରନ୍ଥସୂଚୀ ଏଣ୍ଟ୍ରିଗ୍ରନ୍ଥସୂଚୀଗ୍ରନ୍ଥସୂଚୀର ସନ୍ଦର୍ଭଅଧ୍ୟାୟcolophonସମାପ୍ତିକଭର୍କ୍ରେଡିଟ୍ସମର୍ପଣଶେଷ ଟିପ୍ପଣୀଶେଷନୋଟ୍ଖୋଦିତ ଲେଖାerrataଫୁଟ୍‌ନୋଟ୍ଭୂମିକାଶଦ୍ଦକୋଷଶବ୍ଦାବଳୀର ସନ୍ଦର୍ଭପରିଚୟନୋଟ୍ ସନ୍ଦର୍ଭପେଜ୍ ବ୍ରେକ୍ପୃଷ୍ଠାର ଫୁଟର୍ପୃଷ୍ଠାର ହେଡର୍ପୃଷ୍ଠା ତାଲିକାଭାଗପୁଲ୍‌କୋଟ୍ପ୍ରଶ୍ନ&ଉତ୍ତରଉପଶୀର୍ଷକବିଷୟବସ୍ତୁର ଟେବଲ୍text boxଅବ୍‌ଜେକ୍ଟଏମ୍ଫାସିସ୍ଫିଡ୍ଫର୍ମଫୁଟର୍ଗ୍ରାଫିକ୍ସଗ୍ରାଫିକ�
+<?php
+/**
+ * HTTP API: WP_HTTP_Requests_Response class
+ *
+ * @package WordPress
+ * @subpackage HTTP
+ * @since 4.6.0
+ */
+
+/**
+ * Core wrapper object for a WpOrg\Requests\Response for standardization.
+ *
+ * @since 4.6.0
+ *
+ * @see WP_HTTP_Response
+ */
+class WP_HTTP_Requests_Response extends WP_HTTP_Response {
+	/**
+	 * Requests Response object.
+	 *
+	 * @since 4.6.0
+	 * @var \WpOrg\Requests\Response
+	 */
+	protected $response;
+
+	/**
+	 * Filename the response was saved to.
+	 *
+	 * @since 4.6.0
+	 * @var string|null
+	 */
+	protected $filename;
+
+	/**
+	 * Constructor.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param \WpOrg\Requests\Response $response HTTP response.
+	 * @param string                   $filename Optional. File name. Default empty.
+	 */
+	public function __construct( WpOrg\Requests\Response $response, $filename = '' ) {
+		$this->response = $response;
+		$this->filename = $filename;
+	}
+
+	/**
+	 * Retrieves the response object for the request.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return WpOrg\Requests\Response HTTP response.
+	 */
+	public function get_response_object() {
+		return $this->response;
+	}
+
+	/**
+	 * Retrieves headers associated with the response.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return \WpOrg\Requests\Utility\CaseInsensitiveDictionary Map of header name to header value.
+	 */
+	public function get_headers() {
+		// Ensure headers remain case-insensitive.
+		$converted = new WpOrg\Requests\Utility\CaseInsensitiveDictionary();
+
+		foreach ( $this->response->headers->getAll() as $key => $value ) {
+			if ( count( $value ) === 1 ) {
+				$converted[ $key ] = $value[0];
+			} else {
+				$converted[ $key ] = $value;
+			}
+		}
+
+		return $converted;
+	}
+
+	/**
+	 * Sets all header values.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param array $headers Map of header name to header value.
+	 */
+	public function set_headers( $headers ) {
+		$this->response->headers = new WpOrg\Requests\Response\Headers( $headers );
+	}
+
+	/**
+	 * Sets a single HTTP header.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param string $key     Header name.
+	 * @param string $value   Header value.
+	 * @param bool   $replace Optional. Whether to replace an existing header of the same name.
+	 *                        Default true.
+	 */
+	public function header( $key, $value, $replace = true ) {
+		if ( $replace ) {
+			unset( $this->response->headers[ $key ] );
+		}
+
+		$this->response->headers[ $key ] = $value;
+	}
+
+	/**
+	 * Retrieves the HTTP return code for the response.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return int The 3-digit HTTP status code.
+	 */
+	public function get_status() {
+		return $this->response->status_code;
+	}
+
+	/**
+	 * Sets the 3-digit HTTP status code.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param int $code HTTP status.
+	 */
+	public function set_status( $code ) {
+		$this->response->status_code = absint( $code );
+	}
+
+	/**
+	 * Retrieves the response data.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return string Response data.
+	 */
+	public function get_data() {
+		return $this->response->body;
+	}
+
+	/**
+	 * Sets the response data.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @param string $data Response data.
+	 */
+	public function set_data( $data ) {
+		$this->response->body = $data;
+	}
+
+	/**
+	 * Retrieves cookies from the response.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return WP_HTTP_Cookie[] List of cookie objects.
+	 */
+	public function get_cookies() {
+		$cookies = array();
+		foreach ( $this->response->cookies as $cookie ) {
+			$cookies[] = new WP_Http_Cookie(
+				array(
+					'name'      => $cookie->name,
+					'value'     => urldecode( $cookie->value ),
+					'expires'   => isset( $cookie->attributes['expires'] ) ? $cookie->attributes['expires'] : null,
+					'path'      => isset( $cookie->attributes['path'] ) ? $cookie->attributes['path'] : null,
+					'domain'    => isset( $cookie->attributes['domain'] ) ? $cookie->attributes['domain'] : null,
+					'host_only' => isset( $cookie->flags['host-only'] ) ? $cookie->flags['host-only'] : null,
+				)
+			);
+		}
+
+		return $cookies;
+	}
+
+	/**
+	 * Converts the object to a WP_Http response array.
+	 *
+	 * @since 4.6.0
+	 *
+	 * @return array WP_Http response array, per WP_Http::request().
+	 */
+	public function to_array() {
+		return array(
+			'headers'  => $this->get_headers(),
+			'body'     => $this->get_data(),
+			'response' => array(
+				'code'    => $this->get_status(),
+				'message' => get_status_header_desc( $this->get_status() ),
+			),
+			'cookies'  => $this->get_cookies(),
+			'filename' => $this->filename,
+		);
+	}
+}

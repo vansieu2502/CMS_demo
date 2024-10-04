@@ -1,1 +1,26 @@
-�� ਸਿਰਫ਼ ਇਸ ਡਿਵਾਈਸ ‘ਤੇ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਿਸ ਉੱਤੇ ਵਰਤਣ ਲਈ,<a href='chrome://password-manager/'>ਉਨ੍ਹਾਂ ਨੂੰ ਆਪਣੇ Google ਖਾਤੇ ਵਿੱਚ ਸੁਰੱਖਿਅਤ ਕਰੋ।</a>}}$1, ਵੇਰਵੇ ਦੇਖੋਪਾਸਵਰਡ ਜਾਂਚ ਨੂੰ ਚਲਾਉਣਾ ਹੈ?ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਪਾਸਵਰਡ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੇ। <a href="#" > Import passwords</a> to $1।ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਪਾਸਵਰਡ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੇ। $2 ਲਈ $1 ' ਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਆਯਾਤ ਕਰਨ ਲਈ, <a href="#" > ਕਿਸੇ CSV ਫ਼ਾਈਲ ਦੀ ਚੋਣ ਕਰੋ। </a>ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਪਾਸਵਰਡ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੇ। ਇਸ ਡਿਵਾਈਸ 'ਤੇ $1 ਵਿੱਚ ਪਾਸਵਰਡ ਆਯਾਤ ਕਰਨ ਲਈ, <a href="#" > select a CSV file.</a>ਤੁਹਾਡੇ Microsoft ਖ਼ਾਤੇ
+<?php
+/**
+ * Query: Small image and title.
+ *
+ * @package WordPress
+ */
+
+return array(
+	'title'      => _x( 'Small image and title', 'Block pattern title' ),
+	'blockTypes' => array( 'core/query' ),
+	'categories' => array( 'query' ),
+	'content'    => '<!-- wp:query {"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+					<div class="wp-block-query">
+					<!-- wp:post-template -->
+					<!-- wp:columns {"verticalAlignment":"center"} -->
+					<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+					<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:post-featured-image {"isLink":true} /--></div>
+					<!-- /wp:column -->
+					<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+					<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:post-title {"isLink":true} /--></div>
+					<!-- /wp:column --></div>
+					<!-- /wp:columns -->
+					<!-- /wp:post-template -->
+					</div>
+					<!-- /wp:query -->',
+);

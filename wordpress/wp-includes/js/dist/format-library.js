@@ -1,4 +1,114 @@
-��हुँचा नहीं जा सका.पूरा हो जाने पर खोलेंडाउनलोड हो रहा है…$1 में खुल रहा है…पूरा होने पर खोला जाएगा$1 खुल रही है…हटाया गयाडाउनलोड नहीं किया जा सका - $1पुष्टि नहीं किया गया$1 अवरोधित किया गया था क्योंकि इस प्रकार की फ़ाइल आपके डिवाइस को नुकसान पहुँचा सकती है.एक्सटेंशन, ऐप्स और थीम आपके कंप्यूटर को नुकसान पहुँचा सकते ऐं. क्या आप वाकई आगे बढ़ना चाहते हैं?$1 को सामान्यतया डाउनलोड नहीं किया जाता है और ऐसा करना खतरनाक हो सकता है.$1 को उन्नत सुरक्षा द्वारा अवरुद्ध किया गया था.$1 की आपके संगठन की सुरक्षा नीतियों के साथ जाँच की जा रही है…$1 स्कैन किया जा रहा है.$1 को सुरक्षित रूप से डाउनलोड नहीं किया जा सकता.$1 सुरक्षा जाँच के लिए बहुत बड़ी है. आप 50 MB तक की फ़ाइलें खोल सकते हैं.$1 एन्क्रिप्ट है. इसके स्वामी से इसे डिक्रिप्ट करने के लिए कहें.सुरक्षा जाँचें पूर्ण कर ली गई हैंआपके संगठन की नीतियाँ पूरी नहीं हुई हैंस्कैन विफल रहा. यह फ़ाइल आपके व्यवस्थापक द्वारा अवरोधित की गई हैयह फ़ाइल ख़तरनाक है$1 खतरनाक हो सकती है. क्या Google को स्कैनिंग के लिए भेजें?यह फ़ाइल सामान्य रूप से डाउनलोड नहीं की जाती है और यह खतरनाक हो सकती है.इस प्रकार की फ़ाइल आपके कंप्यूटर को नुक्सान पहुंचा सकती है.इस फ़ाइल को सुरक्षित रूप से डाउनलोड नहीं किया जा सकताक्या फ़ाइल को बनाए रखें?असुरक्षित फ़ाइल रखें?यह फ़ाइल आपके कंप्यूटर को नुकसान पहुँचा सकती है.यह फ़ाइल Microsoft Defender SmartScreen द्वारा असुरक्षित के रूप में अवरोधित की गई थी.किसी भी तरह बनाए रखेंरखेंहानिकारक फाइल रखेंअभी खोलेंभेजेंसमीक्षा करेंजब आप वेब से फ़ाइलें डाउनलोड करते हैं, तो वे यहाँ पर दिखाई देंगी.विकल्प मेनूसूची से हटाएं$1 को सूची से हटाएंफ़ोल्डर में दिखाएँ$1 - $2, $3$2 में से $1रोका गया<a href="$1">$2</a> द्वारा डाउनलोड किया गयापूर्ववत करने के लिए, $1 दबाएं$1, $2 डाउनलोड कर रहा है$1डाउनलोड कect.SVG, {
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+/******/ 	// The require scope
+/******/ 	var __webpack_require__ = {};
+/******/ 	
+/************************************************************************/
+/******/ 	/* webpack/runtime/make namespace object */
+/******/ 	(() => {
+/******/ 		// define __esModule on exports
+/******/ 		__webpack_require__.r = (exports) => {
+/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 			}
+/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/************************************************************************/
+var __webpack_exports__ = {};
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+;// CONCATENATED MODULE: external ["wp","richText"]
+const external_wp_richText_namespaceObject = window["wp"]["richText"];
+;// CONCATENATED MODULE: external ["wp","i18n"]
+const external_wp_i18n_namespaceObject = window["wp"]["i18n"];
+;// CONCATENATED MODULE: external ["wp","blockEditor"]
+const external_wp_blockEditor_namespaceObject = window["wp"]["blockEditor"];
+;// CONCATENATED MODULE: external ["wp","primitives"]
+const external_wp_primitives_namespaceObject = window["wp"]["primitives"];
+;// CONCATENATED MODULE: external "ReactJSXRuntime"
+const external_ReactJSXRuntime_namespaceObject = window["ReactJSXRuntime"];
+;// CONCATENATED MODULE: ./node_modules/@wordpress/icons/build-module/library/format-bold.js
+/**
+ * WordPress dependencies
+ */
+
+
+const formatBold = /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_primitives_namespaceObject.SVG, {
+  xmlns: "http://www.w3.org/2000/svg",
+  viewBox: "0 0 24 24",
+  children: /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_primitives_namespaceObject.Path, {
+    d: "M14.7 11.3c1-.6 1.5-1.6 1.5-3 0-2.3-1.3-3.4-4-3.4H7v14h5.8c1.4 0 2.5-.3 3.3-1 .8-.7 1.2-1.7 1.2-2.9.1-1.9-.8-3.1-2.6-3.7zm-5.1-4h2.3c.6 0 1.1.1 1.4.4.3.3.5.7.5 1.2s-.2 1-.5 1.2c-.3.3-.8.4-1.4.4H9.6V7.3zm4.6 9c-.4.3-1 .4-1.7.4H9.6v-3.9h2.9c.7 0 1.3.2 1.7.5.4.3.6.8.6 1.5s-.2 1.2-.6 1.5z"
+  })
+});
+/* harmony default export */ const format_bold = (formatBold);
+
+;// CONCATENATED MODULE: ./node_modules/@wordpress/format-library/build-module/bold/index.js
+/**
+ * WordPress dependencies
+ */
+
+
+
+
+
+
+
+const bold_name = 'core/bold';
+const title = (0,external_wp_i18n_namespaceObject.__)('Bold');
+const bold = {
+  name: bold_name,
+  title,
+  tagName: 'strong',
+  className: null,
+  edit({
+    isActive,
+    value,
+    onChange,
+    onFocus
+  }) {
+    function onToggle() {
+      onChange((0,external_wp_richText_namespaceObject.toggleFormat)(value, {
+        type: bold_name,
+        title
+      }));
+    }
+    function onClick() {
+      onChange((0,external_wp_richText_namespaceObject.toggleFormat)(value, {
+        type: bold_name
+      }));
+      onFocus();
+    }
+    return /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsxs)(external_ReactJSXRuntime_namespaceObject.Fragment, {
+      children: [/*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_blockEditor_namespaceObject.RichTextShortcut, {
+        type: "primary",
+        character: "b",
+        onUse: onToggle
+      }), /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_blockEditor_namespaceObject.RichTextToolbarButton, {
+        name: "bold",
+        icon: format_bold,
+        title: title,
+        onClick: onClick,
+        isActive: isActive,
+        shortcutType: "primary",
+        shortcutCharacter: "b"
+      }), /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_blockEditor_namespaceObject.__unstableRichTextInputEvent, {
+        inputType: "formatBold",
+        onInput: onToggle
+      })]
+    });
+  }
+};
+
+;// CONCATENATED MODULE: ./node_modules/@wordpress/icons/build-module/library/code.js
+/**
+ * WordPress dependencies
+ */
+
+
+const code = /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_primitives_namespaceObject.SVG, {
   viewBox: "0 0 24 24",
   xmlns: "http://www.w3.org/2000/svg",
   children: /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsx)(external_wp_primitives_namespaceObject.Path, {

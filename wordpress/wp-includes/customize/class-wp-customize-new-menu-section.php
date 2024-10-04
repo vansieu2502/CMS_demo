@@ -1,9 +1,65 @@
-A00423BE3DD9B7C210FF37227E96508B4B0D8CB181
-[17e4:0019][2024-08-13T08:50:31] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\9bcb3fab78e80d68be28892ea7ad46c3.cab
-[17e4:0019][2024-08-13T08:50:31] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\9bcb3fab78e80d68be28892ea7ad46c3.cab' succeeded. Hash: BF3C1EE464DC095C84659B1725298F054211F9550BB7E0A02CE2322AEDBB9589
-[17e4:0019][2024-08-13T08:50:31] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\9bfca1e044c38e04afe2363d3db899c8.cab
-[17e4:0019][2024-08-13T08:50:31] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\9bfca1e044c38e04afe2363d3db899c8.cab' succeeded. Hash: 62BF70FC932651AF9FF6368B5DA8561E6AD92A77AFA8239540F3E703D0C1C061
-[17e4:0019][2024-08-13T08:50:31] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\a17683486ace64c3f9a1cacb81ee0260.cab
-[17e4:0019][2024-08-13T08:50:31] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\a17683486ace64c3f9a1cacb81ee0260.cab' succeeded. Hash: 3D4E877AB451AE8A5CAADFE655328F0BDA205E37BA4C024FD52C17D28B94018B
-[17e4:0019][2024-08-13T08:50:31] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\a1e2a83aa8a71c48c742eeaff6e71928.cab
-[17
+<?php
+/**
+ * Customize API: WP_Customize_New_Menu_Section class
+ *
+ * @package WordPress
+ * @subpackage Customize
+ * @since 4.4.0
+ * @deprecated 4.9.0 This file is no longer used as of the menu creation UX introduced in #40104.
+ */
+
+_deprecated_file( basename( __FILE__ ), '4.9.0' );
+
+/**
+ * Customize Menu Section Class
+ *
+ * @since 4.3.0
+ * @deprecated 4.9.0 This class is no longer used as of the menu creation UX introduced in #40104.
+ *
+ * @see WP_Customize_Section
+ */
+class WP_Customize_New_Menu_Section extends WP_Customize_Section {
+
+	/**
+	 * Control type.
+	 *
+	 * @since 4.3.0
+	 * @var string
+	 */
+	public $type = 'new_menu';
+
+	/**
+	 * Constructor.
+	 *
+	 * Any supplied $args override class property defaults.
+	 *
+	 * @since 4.9.0
+	 * @deprecated 4.9.0
+	 *
+	 * @param WP_Customize_Manager $manager Customizer bootstrap instance.
+	 * @param string               $id      A specific ID of the section.
+	 * @param array                $args    Section arguments.
+	 */
+	public function __construct( WP_Customize_Manager $manager, $id, array $args = array() ) {
+		_deprecated_function( __METHOD__, '4.9.0' );
+		parent::__construct( $manager, $id, $args );
+	}
+
+	/**
+	 * Render the section, and the controls that have been added to it.
+	 *
+	 * @since 4.3.0
+	 * @deprecated 4.9.0
+	 */
+	protected function render() {
+		_deprecated_function( __METHOD__, '4.9.0' );
+		?>
+		<li id="accordion-section-<?php echo esc_attr( $this->id ); ?>" class="accordion-section-new-menu">
+			<button type="button" class="button add-new-menu-item add-menu-toggle" aria-expanded="false">
+				<?php echo esc_html( $this->title ); ?>
+			</button>
+			<ul class="new-menu-section-content"></ul>
+		</li>
+		<?php
+	}
+}

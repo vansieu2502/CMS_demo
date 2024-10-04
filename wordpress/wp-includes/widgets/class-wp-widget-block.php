@@ -1,26 +1,232 @@
-A256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm External Package (OnecoreUAP)-arm_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm External Package (OnecoreUAP)-arm_en-us.msi' succeeded. Hash: 5079FC722F7A6FBE757E475C8654B34A81D8F441843D28CC53E29B0B06921DCB
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm64 External Package (DesktopEditions)-arm64_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm64 External Package (DesktopEditions)-arm64_en-us.msi' succeeded. Hash: 10DBE3817CBA73B13333139BBA373EE6A63E9E0F719E0AEB6D814A2C671083BD
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm64 External Package (OnecoreUAP)-arm64_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier arm64 External Package (OnecoreUAP)-arm64_en-us.msi' succeeded. Hash: 4D6296A08C6D8DC53093550C032EEF874D82850901BE4295C563297FB84B3CC1
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x64 External Package (DesktopEditions)-x64_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x64 External Package (DesktopEditions)-x64_en-us.msi' succeeded. Hash: AF61029492AD7511F655B912FD9CB2EEB9AF0311ED4D5E22FEED14E6A3A2EB55
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x64 External Package (OnecoreUAP)-x64_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x64 External Package (OnecoreUAP)-x64_en-us.msi' succeeded. Hash: 9D5CB95D5FC584D191250B5A3C8C70082AE5632CCA1FC1B0F587F15D17F97744
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x86 External Package (DesktopEditions)-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x86 External Package (DesktopEditions)-x86_en-us.msi' succeeded. Hash: 06843CF37E307C88D49738088E0E0CFEBA7309D62A942CBF7A667B02AB48DC56
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x86 External Package (OnecoreUAP)-x86_en-us.msi
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\Application Verifier x86 External Package (OnecoreUAP)-x86_en-us.msi' succeeded. Hash: 4B50E457A4C388C9397AD34E17F6608365E0D958290FE4FC82B46AFB1393F3FB
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b1a824e2952532fe8fd0145f5d148d25.cab
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b1a824e2952532fe8fd0145f5d148d25.cab' succeeded. Hash: ECFDC25900B33270BAF2507B62FBB5121D05D7BA36B94769A8514655FBC93B06
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b1a8ecf890b4ffddd05e8c9422f55db7.cab
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b1a8ecf890b4ffddd05e8c9422f55db7.cab' succeeded. Hash: 4046276E189BDE0FDA6A698864A36A47DC6B879654CF5F6D7DF1558ED2E60E31
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b2f03f34ff83ec013b9e45c7cd8e8a73.cab
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b2f03f34ff83ec013b9e45c7cd8e8a73.cab' succeeded. Hash: 027D32E0E23674FA38F1A1544E5E4C491341B33CDBD5542719BA901060886FF3
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b4eea6c909a31ab051e6f9b6218beec8.cab
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b4eea6c909a31ab051e6f9b6218beec8.cab' succeeded. Hash: 7C64526EA0136C7FD8DB5E25C2CCE665ED87409C0F44DB225031B983D32B795A
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b5f177b84c0ec473cbd69557634b27cd.cab
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b5f177b84c0ec473cbd69557634b27cd.cab' succeeded. Hash: F414842D19AB32DD4B69E6A0C1825AAEA0305E2031811180296070BC896F3949
-[17e4:0019][2024-08-13T08:50:37] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\b80b7321357f7c9f281536f9440dfe68.cab
-[17e4:0019][2024-08-13T08:50:37] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.
+<?php
+/**
+ * Widget API: WP_Widget_Block class
+ *
+ * @package WordPress
+ * @subpackage Widgets
+ * @since 5.8.0
+ */
+
+/**
+ * Core class used to implement a Block widget.
+ *
+ * @since 5.8.0
+ *
+ * @see WP_Widget
+ */
+class WP_Widget_Block extends WP_Widget {
+
+	/**
+	 * Default instance.
+	 *
+	 * @since 5.8.0
+	 * @var array
+	 */
+	protected $default_instance = array(
+		'content' => '',
+	);
+
+	/**
+	 * Sets up a new Block widget instance.
+	 *
+	 * @since 5.8.0
+	 */
+	public function __construct() {
+		$widget_ops  = array(
+			'classname'                   => 'widget_block',
+			'description'                 => __( 'A widget containing a block.' ),
+			'customize_selective_refresh' => true,
+			'show_instance_in_rest'       => true,
+		);
+		$control_ops = array(
+			'width'  => 400,
+			'height' => 350,
+		);
+		parent::__construct( 'block', __( 'Block' ), $widget_ops, $control_ops );
+
+		add_filter( 'is_wide_widget_in_customizer', array( $this, 'set_is_wide_widget_in_customizer' ), 10, 2 );
+	}
+
+	/**
+	 * Outputs the content for the current Block widget instance.
+	 *
+	 * @since 5.8.0
+	 *
+	 * @param array $args     Display arguments including 'before_title', 'after_title',
+	 *                        'before_widget', and 'after_widget'.
+	 * @param array $instance Settings for the current Block widget instance.
+	 */
+	public function widget( $args, $instance ) {
+		$instance = wp_parse_args( $instance, $this->default_instance );
+
+		echo str_replace(
+			'widget_block',
+			$this->get_dynamic_classname( $instance['content'] ),
+			$args['before_widget']
+		);
+
+		/**
+		 * Filters the content of the Block widget before output.
+		 *
+		 * @since 5.8.0
+		 *
+		 * @param string          $content  The widget content.
+		 * @param array           $instance Array of settings for the current widget.
+		 * @param WP_Widget_Block $widget   Current Block widget instance.
+		 */
+		echo apply_filters(
+			'widget_block_content',
+			$instance['content'],
+			$instance,
+			$this
+		);
+
+		echo $args['after_widget'];
+	}
+
+	/**
+	 * Calculates the classname to use in the block widget's container HTML.
+	 *
+	 * Usually this is set to `$this->widget_options['classname']` by
+	 * dynamic_sidebar(). In this case, however, we want to set the classname
+	 * dynamically depending on the block contained by this block widget.
+	 *
+	 * If a block widget contains a block that has an equivalent legacy widget,
+	 * we display that legacy widget's class name. This helps with theme
+	 * backwards compatibility.
+	 *
+	 * @since 5.8.0
+	 *
+	 * @param string $content The HTML content of the current block widget.
+	 * @return string The classname to use in the block widget's container HTML.
+	 */
+	private function get_dynamic_classname( $content ) {
+		$blocks = parse_blocks( $content );
+
+		$block_name = isset( $blocks[0] ) ? $blocks[0]['blockName'] : null;
+
+		switch ( $block_name ) {
+			case 'core/paragraph':
+				$classname = 'widget_block widget_text';
+				break;
+			case 'core/calendar':
+				$classname = 'widget_block widget_calendar';
+				break;
+			case 'core/search':
+				$classname = 'widget_block widget_search';
+				break;
+			case 'core/html':
+				$classname = 'widget_block widget_custom_html';
+				break;
+			case 'core/archives':
+				$classname = 'widget_block widget_archive';
+				break;
+			case 'core/latest-posts':
+				$classname = 'widget_block widget_recent_entries';
+				break;
+			case 'core/latest-comments':
+				$classname = 'widget_block widget_recent_comments';
+				break;
+			case 'core/tag-cloud':
+				$classname = 'widget_block widget_tag_cloud';
+				break;
+			case 'core/categories':
+				$classname = 'widget_block widget_categories';
+				break;
+			case 'core/audio':
+				$classname = 'widget_block widget_media_audio';
+				break;
+			case 'core/video':
+				$classname = 'widget_block widget_media_video';
+				break;
+			case 'core/image':
+				$classname = 'widget_block widget_media_image';
+				break;
+			case 'core/gallery':
+				$classname = 'widget_block widget_media_gallery';
+				break;
+			case 'core/rss':
+				$classname = 'widget_block widget_rss';
+				break;
+			default:
+				$classname = 'widget_block';
+		}
+
+		/**
+		 * The classname used in the block widget's container HTML.
+		 *
+		 * This can be set according to the name of the block contained by the block widget.
+		 *
+		 * @since 5.8.0
+		 *
+		 * @param string $classname  The classname to be used in the block widget's container HTML,
+		 *                           e.g. 'widget_block widget_text'.
+		 * @param string $block_name The name of the block contained by the block widget,
+		 *                           e.g. 'core/paragraph'.
+		 */
+		return apply_filters( 'widget_block_dynamic_classname', $classname, $block_name );
+	}
+
+	/**
+	 * Handles updating settings for the current Block widget instance.
+	 *
+	 * @since 5.8.0
+
+	 * @param array $new_instance New settings for this instance as input by the user via
+	 *                            WP_Widget::form().
+	 * @param array $old_instance Old settings for this instance.
+	 * @return array Settings to save or bool false to cancel saving.
+	 */
+	public function update( $new_instance, $old_instance ) {
+		$instance = array_merge( $this->default_instance, $old_instance );
+
+		if ( current_user_can( 'unfiltered_html' ) ) {
+			$instance['content'] = $new_instance['content'];
+		} else {
+			$instance['content'] = wp_kses_post( $new_instance['content'] );
+		}
+
+		return $instance;
+	}
+
+	/**
+	 * Outputs the Block widget settings form.
+	 *
+	 * @since 5.8.0
+	 *
+	 * @see WP_Widget_Custom_HTML::render_control_template_scripts()
+	 *
+	 * @param array $instance Current instance.
+	 */
+	public function form( $instance ) {
+		$instance = wp_parse_args( (array) $instance, $this->default_instance );
+		?>
+		<p>
+			<label for="<?php echo $this->get_field_id( 'content' ); ?>">
+				<?php
+				/* translators: HTML code of the block, not an option that blocks HTML. */
+				_e( 'Block HTML:' );
+				?>
+			</label>
+			<textarea id="<?php echo $this->get_field_id( 'content' ); ?>" name="<?php echo $this->get_field_name( 'content' ); ?>" rows="6" cols="50" class="widefat code"><?php echo esc_textarea( $instance['content'] ); ?></textarea>
+		</p>
+		<?php
+	}
+
+	/**
+	 * Makes sure no block widget is considered to be wide.
+	 *
+	 * @since 5.8.0
+	 *
+	 * @param bool   $is_wide   Whether the widget is considered wide.
+	 * @param string $widget_id Widget ID.
+	 * @return bool Updated `is_wide` value.
+	 */
+	public function set_is_wide_widget_in_customizer( $is_wide, $widget_id ) {
+		if ( str_starts_with( $widget_id, 'block-' ) ) {
+			return false;
+		}
+
+		return $is_wide;
+	}
+}

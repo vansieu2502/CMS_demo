@@ -1808,4 +1808,214 @@ class WP_Rewrite {
 	 *     @type bool $forcomments Whether the feed rules should be a query for a comments feed. Default false.
 	 *     @type bool $walk_dirs   Whether the 'directories' making up the structure should be walked over
 	 *                             and rewrite rules built for each in-turn. Default true.
-	 *     @type bool $endpoints   Whether endpoints should be applied to the generateਗ ਡੇਟਾ ਹੋ ਸਕਦਾ ਹੈਮੇਰੇ ਡੇਟਾ ਨੂੰ ਅਲੱਗ ਰੱਖੋ ਅਤੇ $1 ਲਈ ਕੋਈ ਨਵੀਂ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓਮੇਰੇ ਡੇਟਾ ਨੂੰ ਵਿਲੀਨ ਕਰੋ ਅਤੇ ਸਾਈਨ ਇਨ ਨਾਲ ਜਾਰੀ ਰੱਖੋ$1 ਲਈ ਸਾਈਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾਇਹ ਈਮੇਲ ਪਤਾ ਪਹਿਲਾਂ ਹੀ ਕਿਸੇ ਹੋਰ ਪ੍ਰੋਫਾਇਲ ਨਾਲ ਜੋੜਿਆ ਗਿਆ ਹੈ।Microsoft Edge ਦੇ ਪ੍ਰਬੰਧਕ ਵਜੋਂ ਚੱਲਣ ਦੌਰਾਨ ਸਾਈਨ ਇਨ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ Microsoft Edge ਨੂੰ ਗ਼ੈਰ-ਪ੍ਰਬੰਧਕ ਦੇ ਰੂਪ ਵਿੱਚ ਦੁਬਾਰਾ ਲਾਂਚ ਕਰੋ ਅਤੇ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।Microsoft Edge ਸਾਈਨ ਇਨ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਤੇ Internet Explorer ਦਾ ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਸਥਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ https://go.microsoft.com/fwlink/?linkid=2118167 ਤੋਂ Internet Explorer 11 ਨੂੰ ਸਥਾਪਤ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।Microsoft Edge ਸਾਈਨ ਇਨ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਤੇ WebView2 ਦਾ ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਸਥਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ।Microsoft Edge WebView2 ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ।ਤੁਸੀਂ ਜਿਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਉਹ ਕਿਸੇ ਪ੍ਰਭੂਸਤ ਕਲਾਉਡ ਨਾਲ ਸੰਬੰਧਿਤ ਹੈ ਅਤੇ Microsoft Edge ਹਾਲੇ ਇਸਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਹੋਰ ਖਾਤੇ ਨਾਲ਼ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।ਤੁਹਾਡਾ ਖਾਤਾ ਕਿਸੇ ਪ੍ਰਭੂਸਤ ਕਲਾਉਡ ਨਾਲ ਸੰਬੰਧਿਤ ਹੈ ਜਾਂ ਨਹੀਂ, ਇਸ ਬਾਰੇ ਸਾਨੂੰ ਕੁਝ ਵੀ ਪਤਾ ਨਾ ਚੱਲਣ ਕਰਕੇ, ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਾਈਨ ਇਨ ਨਹੀਂ ਕਰਾ ਸਕੇਂ। ਕਿਰਪਾ ਕਰਕੇ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।ਇਹ ਕੋਈ ਨਿੱਜੀ ਖਾਤਾ ਨਹੀਂ ਹੈ।ਤੁਸੀਂ ਕਿਸੇ ਸੰਸਥਾ ਨਾਲ ਜੁੜੇ ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਨਿੱਜੀ ਖਾਤੇ ਨਾਲ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।ਇਹ ਕੋਈ ਕਾਰਜ ਖਾਤਾ ਨਹੀਂ ਹੈ।ਤੁਸੀਂ ਇੱਕ ਨਿੱਜੀ ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਸੰਸਥਾ ਨਾਲ ਜੁੜੇ ਖਾਤੇ ਨਾਲ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।ਪ੍ਰਬੰਧਿਤ ਖਾਤਾਲਿੰਕ ਕੀਤਾ ਗਿਆ ਖਾਤਾਖਾਤੇ ਨੂੰ ਜੋੜੋ$1 ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ$1 'ਤੇ ਸਵਿੱਚ ਕਰੋ$1 ਤੁਹਾਡੇ ਪ੍ਰਸ਼ਾਸਕ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਵਰਤਮਾਨ ਪ੍ਰੋਫਾਈਲ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਇੱਕ ਵੱਖਰੇ ਖਾਤੇ 'ਤੇ ਸਵਿੱਚ ਕਰੋ।ਨਿਮਨ ਖਾਤਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋਆਪਣੇ ਕੰਮ ਜਾਂ ਸਕੂਲ ਦੇ ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋਇਸ ਪੰਨੇ ਨੂੰ ਐਕਸੈਸ ਕਰਨ ਲਈ, ਆਪਣੇ ਕਾਰਜ ਜਾਂ ਸਕੂਲ ਦੇ ਖਾਤੇ ਦੇ ਨਾਲ ਇੱਕ ਪ੍ਰੋਫਾਈਲ ਬਣਾਓ। ਤੁਸੀਂ ਆਪਣੇ ਬ੍ਰਾਊਜ਼ਿੰਗ ਡੇਟਾ ਦਾ ਵੀ ਬੈਕ ਅਪ ਲੈ ਸਕਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਿਸ 'ਤੇ ਆਪਣੇ ਮਨਪਸੰਦ, ਪਾਸਵਰਡ, ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਵੀ ਦੇਖ ਸਕਦੇ ਹੋ।ਕਾਰਜ-ਸਥਾਨ ਜਾਂ ਸਕੂਲ ਦਾ ਖਾਤਾਡੇਟਾ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।https://privacy.microsoft.com/en-us/privacystatementਹੇਠਾਂ ਦਿੱਤੇ ਪ੍ਰੌਫਾਈਲਾਂ ਵਿੱਚੋਂ ਚੁਣੋਪ੍ਰੋਫਾਈਲਾਂ ਸਵਿਚ ਕਰੋ?ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨੂੰ ਐਕਸੈਸ ਕਰਨ ਲਈ ਆਪਣੇ ਕੰਮ ਜਾਂ ਸਕੂਲ ਪ੍ਰੋਫਾਈਲ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨੂੰ ਐਕਸੈਸ ਕਰਨ ਲਈ ਕਿਸੇ ਨਿੱਜੀ ਪ੍ਰੋਫਾਈਲ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ।ਮੈਨੂੰ ਦੁਬਾਰਾ ਨਾ ਪੁੱਛੋਪ੍ਰੋਫਾਈਲਾਂ ਸਵਿਚ ਕਰੋਪ੍ਰੋਫਾਈਲ ਵਿਕਲਪਚੁਣਿੰਦਾਇਸ ਵੈਬ ਸਾਈਟ ਲਈ ਮੇਰੀ ਚੋਣ ਯਾਦ ਰੱਖੋਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਦੀ ਲੋੜ ਹੈWindows ਜਾਣਕਾਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਦੇ ਮੁਤਾਬਕ ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਕਾਰਜ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਵਰਤਿਆ ਜਾਣਾ ਹੈ।Microsoft Edge ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋMicrosoft �
+	 *     @type bool $endpoints   Whether endpoints should be applied to the generated rules. Default true.
+	 * }
+	 */
+	public function add_permastruct( $name, $struct, $args = array() ) {
+		// Back-compat for the old parameters: $with_front and $ep_mask.
+		if ( ! is_array( $args ) ) {
+			$args = array( 'with_front' => $args );
+		}
+
+		if ( func_num_args() === 4 ) {
+			$args['ep_mask'] = func_get_arg( 3 );
+		}
+
+		$defaults = array(
+			'with_front'  => true,
+			'ep_mask'     => EP_NONE,
+			'paged'       => true,
+			'feed'        => true,
+			'forcomments' => false,
+			'walk_dirs'   => true,
+			'endpoints'   => true,
+		);
+
+		$args = array_intersect_key( $args, $defaults );
+		$args = wp_parse_args( $args, $defaults );
+
+		if ( $args['with_front'] ) {
+			$struct = $this->front . $struct;
+		} else {
+			$struct = $this->root . $struct;
+		}
+
+		$args['struct'] = $struct;
+
+		$this->extra_permastructs[ $name ] = $args;
+	}
+
+	/**
+	 * Removes a permalink structure.
+	 *
+	 * @since 4.5.0
+	 *
+	 * @param string $name Name for permalink structure.
+	 */
+	public function remove_permastruct( $name ) {
+		unset( $this->extra_permastructs[ $name ] );
+	}
+
+	/**
+	 * Removes rewrite rules and then recreate rewrite rules.
+	 *
+	 * Calls WP_Rewrite::wp_rewrite_rules() after removing the 'rewrite_rules' option.
+	 * If the function named 'save_mod_rewrite_rules' exists, it will be called.
+	 *
+	 * @since 2.0.1
+	 *
+	 * @param bool $hard Whether to update .htaccess (hard flush) or just update rewrite_rules option (soft flush). Default is true (hard).
+	 */
+	public function flush_rules( $hard = true ) {
+		static $do_hard_later = null;
+
+		// Prevent this action from running before everyone has registered their rewrites.
+		if ( ! did_action( 'wp_loaded' ) ) {
+			add_action( 'wp_loaded', array( $this, 'flush_rules' ) );
+			$do_hard_later = ( isset( $do_hard_later ) ) ? $do_hard_later || $hard : $hard;
+			return;
+		}
+
+		if ( isset( $do_hard_later ) ) {
+			$hard = $do_hard_later;
+			unset( $do_hard_later );
+		}
+
+		$this->refresh_rewrite_rules();
+
+		/**
+		 * Filters whether a "hard" rewrite rule flush should be performed when requested.
+		 *
+		 * A "hard" flush updates .htaccess (Apache) or web.config (IIS).
+		 *
+		 * @since 3.7.0
+		 *
+		 * @param bool $hard Whether to flush rewrite rules "hard". Default true.
+		 */
+		if ( ! $hard || ! apply_filters( 'flush_rewrite_rules_hard', true ) ) {
+			return;
+		}
+		if ( function_exists( 'save_mod_rewrite_rules' ) ) {
+			save_mod_rewrite_rules();
+		}
+		if ( function_exists( 'iis7_save_url_rewrite_rules' ) ) {
+			iis7_save_url_rewrite_rules();
+		}
+	}
+
+	/**
+	 * Sets up the object's properties.
+	 *
+	 * The 'use_verbose_page_rules' object property will be set to true if the
+	 * permalink structure begins with one of the following: '%postname%', '%category%',
+	 * '%tag%', or '%author%'.
+	 *
+	 * @since 1.5.0
+	 */
+	public function init() {
+		$this->extra_rules         = array();
+		$this->non_wp_rules        = array();
+		$this->endpoints           = array();
+		$this->permalink_structure = get_option( 'permalink_structure' );
+		$this->front               = substr( $this->permalink_structure, 0, strpos( $this->permalink_structure, '%' ) );
+		$this->root                = '';
+
+		if ( $this->using_index_permalinks() ) {
+			$this->root = $this->index . '/';
+		}
+
+		unset( $this->author_structure );
+		unset( $this->date_structure );
+		unset( $this->page_structure );
+		unset( $this->search_structure );
+		unset( $this->feed_structure );
+		unset( $this->comment_feed_structure );
+
+		$this->use_trailing_slashes = str_ends_with( $this->permalink_structure, '/' );
+
+		// Enable generic rules for pages if permalink structure doesn't begin with a wildcard.
+		if ( preg_match( '/^[^%]*%(?:postname|category|tag|author)%/', $this->permalink_structure ) ) {
+			$this->use_verbose_page_rules = true;
+		} else {
+			$this->use_verbose_page_rules = false;
+		}
+	}
+
+	/**
+	 * Sets the main permalink structure for the site.
+	 *
+	 * Will update the 'permalink_structure' option, if there is a difference
+	 * between the current permalink structure and the parameter value. Calls
+	 * WP_Rewrite::init() after the option is updated.
+	 *
+	 * Fires the {@see 'permalink_structure_changed'} action once the init call has
+	 * processed passing the old and new values
+	 *
+	 * @since 1.5.0
+	 *
+	 * @param string $permalink_structure Permalink structure.
+	 */
+	public function set_permalink_structure( $permalink_structure ) {
+		if ( $this->permalink_structure !== $permalink_structure ) {
+			$old_permalink_structure = $this->permalink_structure;
+			update_option( 'permalink_structure', $permalink_structure );
+
+			$this->init();
+
+			/**
+			 * Fires after the permalink structure is updated.
+			 *
+			 * @since 2.8.0
+			 *
+			 * @param string $old_permalink_structure The previous permalink structure.
+			 * @param string $permalink_structure     The new permalink structure.
+			 */
+			do_action( 'permalink_structure_changed', $old_permalink_structure, $permalink_structure );
+		}
+	}
+
+	/**
+	 * Sets the category base for the category permalink.
+	 *
+	 * Will update the 'category_base' option, if there is a difference between
+	 * the current category base and the parameter value. Calls WP_Rewrite::init()
+	 * after the option is updated.
+	 *
+	 * @since 1.5.0
+	 *
+	 * @param string $category_base Category permalink structure base.
+	 */
+	public function set_category_base( $category_base ) {
+		if ( get_option( 'category_base' ) !== $category_base ) {
+			update_option( 'category_base', $category_base );
+			$this->init();
+		}
+	}
+
+	/**
+	 * Sets the tag base for the tag permalink.
+	 *
+	 * Will update the 'tag_base' option, if there is a difference between the
+	 * current tag base and the parameter value. Calls WP_Rewrite::init() after
+	 * the option is updated.
+	 *
+	 * @since 2.3.0
+	 *
+	 * @param string $tag_base Tag permalink structure base.
+	 */
+	public function set_tag_base( $tag_base ) {
+		if ( get_option( 'tag_base' ) !== $tag_base ) {
+			update_option( 'tag_base', $tag_base );
+			$this->init();
+		}
+	}
+
+	/**
+	 * Constructor - Calls init(), which runs setup.
+	 *
+	 * @since 1.5.0
+	 */
+	public function __construct() {
+		$this->init();
+	}
+}

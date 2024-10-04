@@ -1,30 +1,218 @@
-621.00C0B50536C9040EC40F\Installers\563138901adf40a699df4654138ac397.cab
-[17e4:0019][2024-08-13T08:50:34] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\563138901adf40a699df4654138ac397.cab' succeeded. Hash: 76ED05DD036590C43CFB12729CD2E4935EB63385C5079F0443063182CDE30194
-[17e4:0019][2024-08-13T08:50:34] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\56a114848fda9a7e47bad4b3fc4be9a6.cab
-[17e4:0019][2024-08-13T08:50:34] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\56a114848fda9a7e47bad4b3fc4be9a6.cab' succeeded. Hash: FD4141F91A4B8D5445A49670FEDC0A234AB7637E28ED17F46888C3D218C6F053
-[17e4:0019][2024-08-13T08:50:34] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\576cff9c50e8085ab8d9c28ee12bac3e.cab
-[17e4:0019][2024-08-13T08:50:34] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\576cff9c50e8085ab8d9c28ee12bac3e.cab' succeeded. Hash: F62213F02BE89882B5F147A4D40468FF09B2BF7FEB29EA4DAFDCAE6E3B75130F
-[17e4:0019][2024-08-13T08:50:34] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\58314d0646d7e1a25e97c902166c3155.cab
-[17e4:0019][2024-08-13T08:50:34] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\58314d0646d7e1a25e97c902166c3155.cab' succeeded. Hash: 9A38AFEAFDAFD4B6DDCA71A1E2F1DC865C7CE00D3AD0B47BD8BC323C364F2172
-[17e4:0019][2024-08-13T08:50:34] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\590d28783ff280b8b0016c3492433241.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\590d28783ff280b8b0016c3492433241.cab' succeeded. Hash: B7300BD1C59CA9D2E0981C07A941BF7A8824E6BA4CBB6B0BDCA33D0E2AE0621A
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\598442d9f84639d200d4f3af477da95c.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\598442d9f84639d200d4f3af477da95c.cab' succeeded. Hash: A6C1923B11ED934C38F29D658E9B3346538B475B2412181E88936043AFCCDDFD
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5a22e5cde814b041749fb271547f4dd5.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5a22e5cde814b041749fb271547f4dd5.cab' succeeded. Hash: 41465D5368A642B594DC149A5E6B3B9B9BA85B286C7071E060CD868B4902AD4D
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5c2fcb46e03eada0ed0cad44a3f5c71f.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5c2fcb46e03eada0ed0cad44a3f5c71f.cab' succeeded. Hash: C0E2FF072B0140560E946C3EC09BF3B9B3D47C3D2992D122D66C01CD2EFB2A98
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5c9ecffb06ed5f4fe5fb7db86bf7328b.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5c9ecffb06ed5f4fe5fb7db86bf7328b.cab' succeeded. Hash: 4DCB783AD81AA60136946293EC0D824E32DED5FED818B9068847685A55582E30
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5cf1d61a223a02ff2f52fe05f058d52e.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5cf1d61a223a02ff2f52fe05f058d52e.cab' succeeded. Hash: 8230B8304AB5E94D6F55DD2E35AA089F12CB71B7D3BA67565861A213DC7C0084
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5f6cfec263cd265cf3b0d97fd78ddf05.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\5f6cfec263cd265cf3b0d97fd78ddf05.cab' succeeded. Hash: 8E7EAA7F3992B04F4FB63717063F61A284D37507CAC4434D30D6897EF1135E2E
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\61d57a7a82309cd161a854a6f4619e52.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\61d57a7a82309cd161a854a6f4619e52.cab' succeeded. Hash: F61C7EB576216C764D66EF49685A9E919C6C40FFF37C0B8228D5DFC041EBB2C2
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\66c7c64126fbf84f47ccec556d149b12.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\66c7c64126fbf84f47ccec556d149b12.cab' succeeded. Hash: 48E216D4345AA32C6BB888512B12AF73EB6A69A302166FF14779D3DF807D56D5
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\67c9fd1fab36154e6e7e429610cd67c8.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\67c9fd1fab36154e6e7e429610cd67c8.cab' succeeded. Hash: 3DA0F6D3904F7584EE292C403ED4C5E62A6A3B992D79E3580FE7BD24DDC4F67F
-[17e4:0019][2024-08-13T08:50:35] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\67fb2af3d2219b403e419535a547c019.cab
-[17e4:0019][2024-08-13T08:50:35] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\67fb2af3d2219b403e419535a547c019.cab' succeeded. Hash: C0A3064890A0D102E67733
+<?php
+/**
+ * Widget API: WP_Widget_Recent_Comments class
+ *
+ * @package WordPress
+ * @subpackage Widgets
+ * @since 4.4.0
+ */
+
+/**
+ * Core class used to implement a Recent Comments widget.
+ *
+ * @since 2.8.0
+ *
+ * @see WP_Widget
+ */
+class WP_Widget_Recent_Comments extends WP_Widget {
+
+	/**
+	 * Sets up a new Recent Comments widget instance.
+	 *
+	 * @since 2.8.0
+	 */
+	public function __construct() {
+		$widget_ops = array(
+			'classname'                   => 'widget_recent_comments',
+			'description'                 => __( 'Your site&#8217;s most recent comments.' ),
+			'customize_selective_refresh' => true,
+			'show_instance_in_rest'       => true,
+		);
+		parent::__construct( 'recent-comments', __( 'Recent Comments' ), $widget_ops );
+		$this->alt_option_name = 'widget_recent_comments';
+
+		if ( is_active_widget( false, false, $this->id_base ) || is_customize_preview() ) {
+			add_action( 'wp_head', array( $this, 'recent_comments_style' ) );
+		}
+	}
+
+	/**
+	 * Outputs the default styles for the Recent Comments widget.
+	 *
+	 * @since 2.8.0
+	 */
+	public function recent_comments_style() {
+		/**
+		 * Filters the Recent Comments default widget styles.
+		 *
+		 * @since 3.1.0
+		 *
+		 * @param bool   $active  Whether the widget is active. Default true.
+		 * @param string $id_base The widget ID.
+		 */
+		if ( ! current_theme_supports( 'widgets' ) // Temp hack #14876.
+			|| ! apply_filters( 'show_recent_comments_widget_style', true, $this->id_base ) ) {
+			return;
+		}
+
+		$type_attr = current_theme_supports( 'html5', 'style' ) ? '' : ' type="text/css"';
+
+		printf(
+			'<style%s>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>',
+			$type_attr
+		);
+	}
+
+	/**
+	 * Outputs the content for the current Recent Comments widget instance.
+	 *
+	 * @since 2.8.0
+	 * @since 5.4.0 Creates a unique HTML ID for the `<ul>` element
+	 *              if more than one instance is displayed on the page.
+	 *
+	 * @param array $args     Display arguments including 'before_title', 'after_title',
+	 *                        'before_widget', and 'after_widget'.
+	 * @param array $instance Settings for the current Recent Comments widget instance.
+	 */
+	public function widget( $args, $instance ) {
+		static $first_instance = true;
+
+		if ( ! isset( $args['widget_id'] ) ) {
+			$args['widget_id'] = $this->id;
+		}
+
+		$output = '';
+
+		$default_title = __( 'Recent Comments' );
+		$title         = ( ! empty( $instance['title'] ) ) ? $instance['title'] : $default_title;
+
+		/** This filter is documented in wp-includes/widgets/class-wp-widget-pages.php */
+		$title = apply_filters( 'widget_title', $title, $instance, $this->id_base );
+
+		$number = ( ! empty( $instance['number'] ) ) ? absint( $instance['number'] ) : 5;
+		if ( ! $number ) {
+			$number = 5;
+		}
+
+		$comments = get_comments(
+			/**
+			 * Filters the arguments for the Recent Comments widget.
+			 *
+			 * @since 3.4.0
+			 * @since 4.9.0 Added the `$instance` parameter.
+			 *
+			 * @see WP_Comment_Query::query() for information on accepted arguments.
+			 *
+			 * @param array $comment_args An array of arguments used to retrieve the recent comments.
+			 * @param array $instance     Array of settings for the current widget.
+			 */
+			apply_filters(
+				'widget_comments_args',
+				array(
+					'number'      => $number,
+					'status'      => 'approve',
+					'post_status' => 'publish',
+				),
+				$instance
+			)
+		);
+
+		$output .= $args['before_widget'];
+		if ( $title ) {
+			$output .= $args['before_title'] . $title . $args['after_title'];
+		}
+
+		$recent_comments_id = ( $first_instance ) ? 'recentcomments' : "recentcomments-{$this->number}";
+		$first_instance     = false;
+
+		$format = current_theme_supports( 'html5', 'navigation-widgets' ) ? 'html5' : 'xhtml';
+
+		/** This filter is documented in wp-includes/widgets/class-wp-nav-menu-widget.php */
+		$format = apply_filters( 'navigation_widgets_format', $format );
+
+		if ( 'html5' === $format ) {
+			// The title may be filtered: Strip out HTML and make sure the aria-label is never empty.
+			$title      = trim( strip_tags( $title ) );
+			$aria_label = $title ? $title : $default_title;
+			$output    .= '<nav aria-label="' . esc_attr( $aria_label ) . '">';
+		}
+
+		$output .= '<ul id="' . esc_attr( $recent_comments_id ) . '">';
+		if ( is_array( $comments ) && $comments ) {
+			// Prime cache for associated posts. (Prime post term cache if we need it for permalinks.)
+			$post_ids = array_unique( wp_list_pluck( $comments, 'comment_post_ID' ) );
+			_prime_post_caches( $post_ids, strpos( get_option( 'permalink_structure' ), '%category%' ), false );
+
+			foreach ( (array) $comments as $comment ) {
+				$output .= '<li class="recentcomments">';
+				$output .= sprintf(
+					/* translators: Comments widget. 1: Comment author, 2: Post link. */
+					_x( '%1$s on %2$s', 'widgets' ),
+					'<span class="comment-author-link">' . get_comment_author_link( $comment ) . '</span>',
+					'<a href="' . esc_url( get_comment_link( $comment ) ) . '">' . get_the_title( $comment->comment_post_ID ) . '</a>'
+				);
+				$output .= '</li>';
+			}
+		}
+		$output .= '</ul>';
+
+		if ( 'html5' === $format ) {
+			$output .= '</nav>';
+		}
+
+		$output .= $args['after_widget'];
+
+		echo $output;
+	}
+
+	/**
+	 * Handles updating settings for the current Recent Comments widget instance.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @param array $new_instance New settings for this instance as input by the user via
+	 *                            WP_Widget::form().
+	 * @param array $old_instance Old settings for this instance.
+	 * @return array Updated settings to save.
+	 */
+	public function update( $new_instance, $old_instance ) {
+		$instance           = $old_instance;
+		$instance['title']  = sanitize_text_field( $new_instance['title'] );
+		$instance['number'] = absint( $new_instance['number'] );
+		return $instance;
+	}
+
+	/**
+	 * Outputs the settings form for the Recent Comments widget.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @param array $instance Current settings.
+	 */
+	public function form( $instance ) {
+		$title  = isset( $instance['title'] ) ? $instance['title'] : '';
+		$number = isset( $instance['number'] ) ? absint( $instance['number'] ) : 5;
+		?>
+		<p>
+			<label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:' ); ?></label>
+			<input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>" />
+		</p>
+
+		<p>
+			<label for="<?php echo $this->get_field_id( 'number' ); ?>"><?php _e( 'Number of comments to show:' ); ?></label>
+			<input class="tiny-text" id="<?php echo $this->get_field_id( 'number' ); ?>" name="<?php echo $this->get_field_name( 'number' ); ?>" type="number" step="1" min="1" value="<?php echo $number; ?>" size="3" />
+		</p>
+		<?php
+	}
+
+	/**
+	 * Flushes the Recent Comments widget cache.
+	 *
+	 * @since 2.8.0
+	 *
+	 * @deprecated 4.4.0 Fragment caching was removed in favor of split queries.
+	 */
+	public function flush_widget_cache() {
+		_deprecated_function( __METHOD__, '4.4.0' );
+	}
+}

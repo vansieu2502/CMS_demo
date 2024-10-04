@@ -1,2 +1,243 @@
-�ण आसाखंयचेय सायटीचेर दर उणी जाल्यार, तुमकां ईमेल आलेट प्राप्त जातली.कितेंतरी चुकीचें घडले. तुमचे बदल सांबाळ्ळे ना.$1 मेरेन वैध आसा.$1. $2विक्रेत्याच्यो अटी आनी नेम$1 वरवीं दिल्ले नेम आनी अटीविक्रेत्याचे अटी आनी नेम पळोवचेसूट मेळ्ळ्यासगळे पर्याय सादारण $1 - $2सगळे पर्याय सादारण $1सादारण $1 - $2सादारण $1वॅबचेर किंमतीचो इतिहासखरेदी सुचीSomething will show here once you select something from the dropdown under thisMissing some infoAnalyze pages?Analyze $1?Open TabsRecently ViewedDismiss suggestionAdd a tabFirst, read this then add tabs.Add to analysis?म्हाका बरोवपाक मदत करची. उगडूंक टॅब आनी एंटर दामचोम्हाका बरोवंक मदत करची परत सुरू करचें. उगडूंक टॅब आनी एंटर दामचोम्हाका बरोवंक आदार करचो वापरूंक ही मांडावळ चालू करचीम्हाका बरोवंक आदार दिवचो वापरूंक सोद करचे आनी उत्तम ब्रावजींग चालू करचेंआतां खातीर लायव्ह कॅप्शन्स बंद करचेअदीक वळी दाखोवच्योकमी वळी दाखोवच्योलायव्ह कॅप्शन्स (पूर्वदेखाव) आतां सध्याक उपलब्ध नातसुरक्षीत मजकूर IDsहे मिडिया खातीर लायव्ह कॅप्शन्स (पूर्वदेखाव) उपलब्ध नात. कॅप्शनां मेळोवंक, हे सायटी खातीर $1 ब्लॉक करच्यो.ह्या सायटी खातीर हो संदेश परतून दाखयनाकातकॅप्शनिंग $1$1 to $2 अणकारीत जाता$1 (स्वयं-वगळावणी)$1 भास पॅक डावनलोडींग करता...$2%$1डावनलोड करूंक अपेशी थारलाआधुनीक मांडावळी दाखोवच्योChromiumउक्तो स्त्रोत सॉफ्टवॅरक्रॅश जाताक्रॅश ($1)डॅवलॉपर तपशील दाखोवचेनाश रिपोर्टिंग असमर्थ.$1 सावंन क्रॅशअपलोड जाले नातअजून अपलोड करूंक ना, दुर्लक्ष करूंक नाउपेगकर्त्या वरवीं अपलोडाची विनंती केल्याअपलोड जालेअपलोड केल्लो क्रॅश अहवाल ID:अपलोड वेळ:थळाव्या नाश संदर्भ:क्रेश आपलोप करपाक सुरू करफोर्म परतून सुवादीन करचो आसा?तुमी जें पान पलयतात ताणे तुमी घातिल्ली म्हायती वापरल्या. परत त्या पानार गेल्यार तमी थंय केल्ली कंयचीय क्रिया पुनरावृत्ती जावपाची शक्यताय आसा. तुमकां मुखार वचपाक जाय?लेख सोदूंक शकले नाविनंती केल्ले लेख सोदूंक शकले नाडेटा मेळूंक नादुर्लक्ष केल्ले एकतर “सक्रीय केल्लें” वा “निश्क्रीय केल्लें” सुची शेणल्या.दुर्लक्ष केलां कारण निश्क्रीय सुचीयेंत '*' चो समान एक नमुनो आसपावीत आसा, जो धोरण निश्क्रीय करूंक समतुल्य आसा.तुमच्या प्रशासनान ह्या डेटाची नक्कल जावपापसून आडायला.हांगा ह्या मजकूराची दसोवणी करपाक तुमच्या प्रशासकान आडायलां.वेवस्थापकान डायनासॉर खेळ बंद केला.हें पान लोड करूंक जाय त्या डेटाक परतून सुवादीन करचे खातीर परत ताजें करचें.तुमच्या खासगी नॅटवर्काचेर डिव्हायसांक वा सर्व्हरांक कनॅक्शनाक अनुमती दिवपाखातीर रिलोड बटन दामचें.तुमची इंटरनॅट कनॅक्शन तपासचेंतुमच्या नेटवर्क केबल, मोडेम, आनी रूटर्स तपासचें.तुमच्यो सुरक्षीत DNS मांडावळी तपासच्योतुमच्यो सुरक्षीत DNS मांडावळी तपासच्यो. तुमी सुरक्षीत DNS सर्वर कॉन्फिगर केला आसतलो जाका लागून कनॅक्शनाक अपेस येता.तुमच्या DNS मांडावळी तपासच्यो. आमी पान लोड करूंक शकले ना.हें कितें तें तूं नकळो जाल्यार, तुज्या संस्थेकडेन संपर्क कर.जर तें पयलीं पसून वळेरींत प्रोग्राम नेटवर्काक लाब घेवपाक, यत्न करात
-      वेळेरींतल्यान ताका काडचें आनी परतून जोडचेंजर तूं प्रोक्सी सर्वर वापरतातुमच्यो प्रॉक्सी मांडावळी तपासच्यो. प्रॉक्सी सर्वर काम करता जाल्यार तुमच्या संघटणेक विचारपाची गरज आसतली. तुमी प्रोक्सी सर्वर वापरूंक जाय अशें तुमकां दिसना जाल्यार, $1 त वचचें<a href="javascript:portalSignin()">Signing in</a> WiFi नॅटवर्काचेरतुमच्या संघटेणेच्या तपासचेंआडायिल्ले URLs आनी तुमच्या संघटणेन लागू केल्ल्या हेर धोरणांची सुची पळोवंक <strong>edge://policy</strong> क भेट दिवची.तेंको नाशिल्लो प्रोटोकॉलगिरायक वा सरवर समान्य SSL प्रोटोकॉल वा सायफर सूटा�
+<?php
+/**
+ * Error Protection API: WP_Fatal_Error_Handler class
+ *
+ * @package WordPress
+ * @since 5.2.0
+ */
+
+/**
+ * Core class used as the default shutdown handler for fatal errors.
+ *
+ * A drop-in 'fatal-error-handler.php' can be used to override the instance of this class and use a custom
+ * implementation for the fatal error handler that WordPress registers. The custom class should extend this class and
+ * can override its methods individually as necessary. The file must return the instance of the class that should be
+ * registered.
+ *
+ * @since 5.2.0
+ */
+#[AllowDynamicProperties]
+class WP_Fatal_Error_Handler {
+
+	/**
+	 * Runs the shutdown handler.
+	 *
+	 * This method is registered via `register_shutdown_function()`.
+	 *
+	 * @since 5.2.0
+	 *
+	 * @global WP_Locale $wp_locale WordPress date and time locale object.
+	 */
+	public function handle() {
+		if ( defined( 'WP_SANDBOX_SCRAPING' ) && WP_SANDBOX_SCRAPING ) {
+			return;
+		}
+
+		// Do not trigger the fatal error handler while updates are being installed.
+		if ( wp_is_maintenance_mode() ) {
+			return;
+		}
+
+		try {
+			// Bail if no error found.
+			$error = $this->detect_error();
+			if ( ! $error ) {
+				return;
+			}
+
+			if ( ! isset( $GLOBALS['wp_locale'] ) && function_exists( 'load_default_textdomain' ) ) {
+				load_default_textdomain();
+			}
+
+			$handled = false;
+
+			if ( ! is_multisite() && wp_recovery_mode()->is_initialized() ) {
+				$handled = wp_recovery_mode()->handle_error( $error );
+			}
+
+			// Display the PHP error template if headers not sent.
+			if ( is_admin() || ! headers_sent() ) {
+				$this->display_error_template( $error, $handled );
+			}
+		} catch ( Exception $e ) {
+			// Catch exceptions and remain silent.
+		}
+	}
+
+	/**
+	 * Detects the error causing the crash if it should be handled.
+	 *
+	 * @since 5.2.0
+	 *
+	 * @return array|null Error information returned by `error_get_last()`, or null
+	 *                    if none was recorded or the error should not be handled.
+	 */
+	protected function detect_error() {
+		$error = error_get_last();
+
+		// No error, just skip the error handling code.
+		if ( null === $error ) {
+			return null;
+		}
+
+		// Bail if this error should not be handled.
+		if ( ! $this->should_handle_error( $error ) ) {
+			return null;
+		}
+
+		return $error;
+	}
+
+	/**
+	 * Determines whether we are dealing with an error that WordPress should handle
+	 * in order to protect the admin backend against WSODs.
+	 *
+	 * @since 5.2.0
+	 *
+	 * @param array $error Error information retrieved from `error_get_last()`.
+	 * @return bool Whether WordPress should handle this error.
+	 */
+	protected function should_handle_error( $error ) {
+		$error_types_to_handle = array(
+			E_ERROR,
+			E_PARSE,
+			E_USER_ERROR,
+			E_COMPILE_ERROR,
+			E_RECOVERABLE_ERROR,
+		);
+
+		if ( isset( $error['type'] ) && in_array( $error['type'], $error_types_to_handle, true ) ) {
+			return true;
+		}
+
+		/**
+		 * Filters whether a given thrown error should be handled by the fatal error handler.
+		 *
+		 * This filter is only fired if the error is not already configured to be handled by WordPress core. As such,
+		 * it exclusively allows adding further rules for which errors should be handled, but not removing existing
+		 * ones.
+		 *
+		 * @since 5.2.0
+		 *
+		 * @param bool  $should_handle_error Whether the error should be handled by the fatal error handler.
+		 * @param array $error               Error information retrieved from `error_get_last()`.
+		 */
+		return (bool) apply_filters( 'wp_should_handle_php_error', false, $error );
+	}
+
+	/**
+	 * Displays the PHP error template and sends the HTTP status code, typically 500.
+	 *
+	 * A drop-in 'php-error.php' can be used as a custom template. This drop-in should control the HTTP status code and
+	 * print the HTML markup indicating that a PHP error occurred. Note that this drop-in may potentially be executed
+	 * very early in the WordPress bootstrap process, so any core functions used that are not part of
+	 * `wp-includes/load.php` should be checked for before being called.
+	 *
+	 * If no such drop-in is available, this will call {@see WP_Fatal_Error_Handler::display_default_error_template()}.
+	 *
+	 * @since 5.2.0
+	 * @since 5.3.0 The `$handled` parameter was added.
+	 *
+	 * @param array         $error   Error information retrieved from `error_get_last()`.
+	 * @param true|WP_Error $handled Whether Recovery Mode handled the fatal error.
+	 */
+	protected function display_error_template( $error, $handled ) {
+		if ( defined( 'WP_CONTENT_DIR' ) ) {
+			// Load custom PHP error template, if present.
+			$php_error_pluggable = WP_CONTENT_DIR . '/php-error.php';
+			if ( is_readable( $php_error_pluggable ) ) {
+				require_once $php_error_pluggable;
+
+				return;
+			}
+		}
+
+		// Otherwise, display the default error template.
+		$this->display_default_error_template( $error, $handled );
+	}
+
+	/**
+	 * Displays the default PHP error template.
+	 *
+	 * This method is called conditionally if no 'php-error.php' drop-in is available.
+	 *
+	 * It calls {@see wp_die()} with a message indicating that the site is experiencing technical difficulties and a
+	 * login link to the admin backend. The {@see 'wp_php_error_message'} and {@see 'wp_php_error_args'} filters can
+	 * be used to modify these parameters.
+	 *
+	 * @since 5.2.0
+	 * @since 5.3.0 The `$handled` parameter was added.
+	 *
+	 * @param array         $error   Error information retrieved from `error_get_last()`.
+	 * @param true|WP_Error $handled Whether Recovery Mode handled the fatal error.
+	 */
+	protected function display_default_error_template( $error, $handled ) {
+		if ( ! function_exists( '__' ) ) {
+			wp_load_translations_early();
+		}
+
+		if ( ! function_exists( 'wp_die' ) ) {
+			require_once ABSPATH . WPINC . '/functions.php';
+		}
+
+		if ( ! class_exists( 'WP_Error' ) ) {
+			require_once ABSPATH . WPINC . '/class-wp-error.php';
+		}
+
+		if ( true === $handled && wp_is_recovery_mode() ) {
+			$message = __( 'There has been a critical error on this website, putting it in recovery mode. Please check the Themes and Plugins screens for more details. If you just installed or updated a theme or plugin, check the relevant page for that first.' );
+		} elseif ( is_protected_endpoint() && wp_recovery_mode()->is_initialized() ) {
+			if ( is_multisite() ) {
+				$message = __( 'There has been a critical error on this website. Please reach out to your site administrator, and inform them of this error for further assistance.' );
+			} else {
+				$message = __( 'There has been a critical error on this website. Please check your site admin email inbox for instructions.' );
+			}
+		} else {
+			$message = __( 'There has been a critical error on this website.' );
+		}
+
+		$message = sprintf(
+			'<p>%s</p><p><a href="%s">%s</a></p>',
+			$message,
+			/* translators: Documentation about troubleshooting. */
+			__( 'https://wordpress.org/documentation/article/faq-troubleshooting/' ),
+			__( 'Learn more about troubleshooting WordPress.' )
+		);
+
+		$args = array(
+			'response' => 500,
+			'exit'     => false,
+		);
+
+		/**
+		 * Filters the message that the default PHP error template displays.
+		 *
+		 * @since 5.2.0
+		 *
+		 * @param string $message HTML error message to display.
+		 * @param array  $error   Error information retrieved from `error_get_last()`.
+		 */
+		$message = apply_filters( 'wp_php_error_message', $message, $error );
+
+		/**
+		 * Filters the arguments passed to {@see wp_die()} for the default PHP error template.
+		 *
+		 * @since 5.2.0
+		 *
+		 * @param array $args Associative array of arguments passed to `wp_die()`. By default these contain a
+		 *                    'response' key, and optionally 'link_url' and 'link_text' keys.
+		 * @param array $error Error information retrieved from `error_get_last()`.
+		 */
+		$args = apply_filters( 'wp_php_error_args', $args, $error );
+
+		$wp_error = new WP_Error(
+			'internal_server_error',
+			$message,
+			array(
+				'error' => $error,
+			)
+		);
+
+		wp_die( $wp_error, '', $args );
+	}
+}

@@ -1,7 +1,53 @@
-024-08-13T08:50:08] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\de111c3d435b0785b31b28c386ee691f.cab
-[17e4:0019][2024-08-13T08:50:08] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\de111c3d435b0785b31b28c386ee691f.cab' succeeded. Hash: 65473D6DDDB13CD57BE833FB493B1FB3E750A7759AB9E20BD9DD500443ED494B
-[17e4:0019][2024-08-13T08:50:08] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\e072b3b3d3164e26b63338dce51862a7.cab
-[17e4:0019][2024-08-13T08:50:08] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\e072b3b3d3164e26b63338dce51862a7.cab' succeeded. Hash: 1C6AD36107AC3C78C5478C02603F63A4D4518E844B062B03D838F7059EA9F417
-[17e4:0019][2024-08-13T08:50:08] Checking SHA256 for path: C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\e10768bb6e9d0ea730280336b697da66.cab
-[17e4:0019][2024-08-13T08:50:09] SHA256 verification for 'C:\Users\Administrator\AppData\Local\Temp\l3sy1453\Win11SDK_10.0.22621.00C0B50536C9040EC40F\Installers\e10768bb6e9d0ea730280336b697da66.cab' succeeded. Hash: F9D2D1C8417B3169FBA2192212018C667A1079A86A661E5452BCB04A1CC30A8B
-[17e4:0019][2024-08-13T08:50:09] Checking SHA256 for path: C:\Users\Administrator\AppData\L
+<?php
+/**
+ * Server-side rendering of the `core/post-author-biography` block.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Renders the `core/post-author-biography` block on the server.
+ *
+ * @since 6.0.0
+ *
+ * @param  array    $attributes Block attributes.
+ * @param  string   $content    Block default content.
+ * @param  WP_Block $block      Block instance.
+ * @return string Returns the rendered post author biography block.
+ */
+function render_block_core_post_author_biography( $attributes, $content, $block ) {
+	if ( isset( $block->context['postId'] ) ) {
+		$author_id = get_post_field( 'post_author', $block->context['postId'] );
+	} else {
+		$author_id = get_query_var( 'author' );
+	}
+
+	if ( empty( $author_id ) ) {
+		return '';
+	}
+
+	$author_biography = get_the_author_meta( 'description', $author_id );
+	if ( empty( $author_biography ) ) {
+		return '';
+	}
+
+	$align_class_name   = empty( $attributes['textAlign'] ) ? '' : "has-text-align-{$attributes['textAlign']}";
+	$wrapper_attributes = get_block_wrapper_attributes( array( 'class' => $align_class_name ) );
+
+	return sprintf( '<div %1$s>', $wrapper_attributes ) . $author_biography . '</div>';
+}
+
+/**
+ * Registers the `core/post-author-biography` block on the server.
+ *
+ * @since 6.0.0
+ */
+function register_block_core_post_author_biography() {
+	register_block_type_from_metadata(
+		__DIR__ . '/post-author-biography',
+		array(
+			'render_callback' => 'render_block_core_post_author_biography',
+		)
+	);
+}
+add_action( 'init', 'register_block_core_post_author_biography' );

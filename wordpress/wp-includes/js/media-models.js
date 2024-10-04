@@ -1,25 +1,299 @@
-��ਿੰਕ ਖੋਲ੍ਹੋ। ਮੋਬਾਈਲ ਐਪ ਨੂੰ ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ।QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋਆਪਣਾ ਮੋਬਾਈਲ ਨੰਬਰ/ਈਮੇਲ ਦਾਖ਼ਲ ਕਰੋਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ 'ਤੇ Microsoft Edge ਨੂੰ ਮੁਫਤ ਵਿੱਚ ਡਾਉਨਲੋਡ ਕਰੋ।ਆਪਣੇ ਫੋਨ 'ਤੇ Microsoft Edge ਨੂੰ ਮੁਫਤ ਵਿੱਚ ਪ੍ਰਾਪਤ ਕਰੋਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ 'ਤੇ Microsoft Edge ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਇਸ ਲਿੰਕ ਦੀ ਵਰਤੋਂ ਕਰੋ।Microsoft ਤੁਹਾਡੇ ਈਮੇਲ ਨੂੰ ਸਿਰਫ਼ ਇਸ ਇੱਕ-ਵਾਰ ਹੋਣ ਵਾਲੇ ਵਿਹਾਰ-ਸਬੰਧੀ ਉਦੇਸ਼ ਲਈ ਵਰਤੇਗਾ, ਜਾਣਕਾਰੀ ਸਟੋਰ ਨਹੀਂ ਕੀਤੀ ਜਾਵੇਗੀ।ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ 'ਤੇ Microsoft Edge ਦੇ ਨਾਲ ਬ੍ਰਾਉਜ਼ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋ। ਮੋਬਾਈਲ ਐਪ ਨੂੰ ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ।Microsoft ਤੁਹਾਡੇ ਫ਼ੋਨ ਨੰਬਰ ਜਾਂ ਈਮੇਲ ਨੂੰ ਸਿਰਫ਼ ਇਸ ਇੱਕ-ਵਾਰ ਹੋਣ ਵਾਲੇ ਵਿਹਾਰ-ਸਬੰਧੀ ਉਦੇਸ਼ ਲਈ ਵਰਤੇਗਾ, ਜਾਣਕਾਰੀ ਸਟੋਰ ਨਹੀਂ ਕੀਤੀ ਜਾਵੇਗੀ। ਮਿਆਰੀ SMS ਦਰਾਂ ਲਾਗੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਫ਼ੋਨ ਨੰਬਰ ਦਾਖ਼ਲ ਕਰੋ।ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਈਮੇਲ ਪਤਾ ਦਾਖ਼ਲ ਕਰੋ।ਲਿੰਕ ਭੇਜੋਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ…ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ। ਇਸ ਸੁਨੇਹੇ ਨੂੰ ਭੇਜਣ ਵਿੱਚ ਕੁਝ ਸਕਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।ਸੁਨੇਹਾ ਭੇਜਿਆ ਗਿਆ।ਕਿਰਪਾ ਕਰਕੇ Microsoft Edge ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਦੇ ਲਿੰਕ ਲਈ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਈਮੇਲ ਦੀ ਜਾਂਚ ਕਰੋ।ਸੁਨੇਹਾ ਭੇਜਣ ਵਿੱਚ ਅਸੀਂ ਸਮੱਸਿਆ ਦਾ ਸਾਹਮਣਾ ਕੀਤਾ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਸੰਬੰਧਿਤ ਆਟੋਫਿਲ ਫ਼ੋਨ ਨੰਬਰ ਅਤੇ ਈਮੇਲ।ਇੱਥੇ ਕਲਿਕ ਕਰੋMicrosoft ਦੀ ਸਿਫਾਰਿਸ਼ ਕੀਤੀਆਂ ਬ੍ਰਾਊਜ਼ਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋੋਜਦੋਂ ਤੁਸੀਂ ਬ੍ਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਲਈ Microsoft ਦੀ ਸਿਫ਼ਾਰਿਸ਼ ਕੀਤੀਆਂ ਬ੍ਰਾਊਜ਼ਰ ਸੈਟਿੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।ਟ੍ਰੈਕਿੰਗ ਰੋਕਥਾਮ ਅਤੇ ਗੋਪਨੀਯਤਾ ਨਿਯੰਤਰਣ ਵਰਗੀਆਂ ਅੰਤਰ-ਨਿਰਮਿਤ ਸੁਵਿਧਾਵਾਂ ਦੇ ਨਾਲ Microsoft Edge ਨੂੰ ਔਨਲਾਈਨ ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਦੀ ਰੱਖਿਆ ਕਰਨ ਅਤੇ ਤੁਹਾਨੂੰ ਆਪਣੇ ਡੇਟਾ ਉੱਤੇ ਵੱਧ ਨਿਯੰਤਰਣ ਦੇਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।ਬਾਅਦ ਵਿੱਚ ਸੈੱਟ ਕਰੋ$1
-    $2
-    $3<p class="nurturing-paragraph">
-     Microsoft Edge ਤੁਹਾਨੂੰ ਫਿਸ਼ਿੰਗ ਅਤੇ ਮਾਲਵੇਅਰ ਹਮਲਿਆਂ ਨੂੰ ਬਲੌਕ ਕਰਕੇ ਬ੍ਰਾਊਜ਼ ਕਰਨ ਵੇਲੇ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।
-     </p><p class="nurturing-paragraph">
-     Microsoft Edge ਇਕਲੌਤਾ ਬ੍ਰਾਉਜ਼ਰ ਹੈ ਜਿਸ ਵਿਚ ਨਵਾਂ Bing ਅੰਤਰ-ਨਿਰਮਤ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬ੍ਰਾਉਜ਼ ਕਰਦੇ ਹੋ, ਬਿਹਤਰ ਖੋਜ ਅਨੁਭਵ ਲਈ, Microsoft ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀਆਂ ਬ੍ਰਾਉਜ਼ਰ ਸੈਟਿੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।
-       </p><p class="nurturing-paragraph">
-     Microsoft Edge ਤੁਹਾਨੂੰ ਬ੍ਰਾਊਜ਼ ਕਰਨ ਵੇਲੇ ਸੁਰੱਖਿਅਤ ਰਹਿਣ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।
-     </p><p>
-      <span class="nurturing-semi-bold">•</span> <b> Microsoft Edge ਨੂੰ ਆਪਣੇ ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ ਦੇ ਤੌਰ 'ਤੇ ਸੈੱਟ ਕਰੋ </b>
-     </p>
-     <p class="nurturing-paragraph">
-      <span class="nurturing-semi-bold">•</span> <b> Microsoft Bing ਨੂੰ ਆਪਣੇ ਡਿਫੌਲਟ ਖੋਜ ਇੰਜਣ ਦੇ ਤੌਰ ਤੇ ਸੈੱਟ ਕਰੋ </b>
-     </p><p class="nurturing-paragraph">
-      <span class="nurturing-semi-bold">•</span> <b> Microsoft Edge ਨੂੰ ਆਪਣੇ ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ ਦੇ ਤੌਰ 'ਤੇ ਸੈੱਟ ਕਰੋ </b>
-     </p><p class="nurturing-paragraph">
-      <span class="nurturing-semi-bold">•</span> <b> Microsoft Bing ਨੂੰ ਆਪਣੇ ਡਿਫੌਲਟ ਖੋਜ ਇੰਜਣ ਦੇ ਤੌਰ ਤੇ ਸੈੱਟ ਕਰੋ </b>
-     </p><p class="nurturing-paragraph">
-     ਤੁਹਾਡੇ ਵੱਲੋਂ "ਪੁਸ਼ਟੀ ਕਰੋ" ਦੀ ਚੋਣ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਵੈਬ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ Microsoft Edge ਵਿੱਚ ਬਦਲਣ ਦੀ ਲੋੜ ਪਵੇਗੀ ਤਾਂ ਜੋ ਇਸਨੂੰ ਆਪਣਾ ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ ਬਣਾਇਆ ਜਾ ਸਕੇ।
-     </p><p class="nurturing-paragraph">
-      ਤੁਹਾਡੇ ਵੱਲੋਂ "ਪੁਸ਼ਟੀ ਕਰੋ" ਦੀ ਚੋਣ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਨੂੰ <b>ਡਿਫੌਲਟ ਸੈੱਟ ਕਰੋ</b> Edge ਨੂੰ ਆਪਣਾ ਡਿਫੌਲਟ ਬ੍ਰਾਊਜ਼ਰ ਬਣਾਉਣ ਲਈ Windows ਸੈਟਿੰਗ ਐਪ ਵਿੱਚ।
-     </p>ਆਪਣੀਆਂ ਬ੍ਰਾਉਜ਼ਰ ਸੈਟਿੰਗਾਂ ਨੂੰ ਨਾ ਬਦਲੋਡਿਫੌਲਟ ਬ੍ਰਾਉਜ਼ਰ: Microsoft Edgeਡਿਫੌਲਟ ਖੋਜ ਇੰਜਣ: Microsoft Bingਆਪਣੇ ਮੁੱਖ ਪੰਨੇ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋਹਰ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਖੋਜ ਕਰਦੇ ਹੋ ਤਾਂ ਨਵੇਂ Bing ਨੂੰ ਐਕਸੈਸ ਕਰੋMicrosoft Edge ਇਸ ਵਿੱਚ ਬਣਾਏ ਗਏ ਨਵੇਂ ਬਿੰਗ ਦੇ ਨਾਲ ਇਕੱਲਾ ਬ੍ਰਾਉਜ਼ਰ ਹੈ । ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬ੍ਰਾਉਜ਼ ਕਰਦੇ ਹੋ, ਤਾਂ ਇੱਕ ਬਿਹਤਰ ਖੋਜ ਅਨੁਭਵ ਲਈ Microsoft ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀਆਂ ਬ੍ਰਾਊਜ਼ਰ ਸੈਟਿੰਗਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ।ਜਦੋਂ ਤੁਸੀਂ ਕੋਈ ਗੇਮ ਖੇਡਦੇ ਹੋ ਤਾਂ Microsoft Edge ਤੁਹਾਡੇ PC ਦੀ ਘੱਟ ਮੰਗ ਕਰਦਾ ਹੈ<a id="nurturing-link-1" class="nurturing-link" href="#">ਹੋਰ ਜਾਣੋ</a> ਸੁਯੋਗਤਾ ਮੋਡ ਬਾਰੇMicrosoft Edge ਨੇ ਘੱਟ ਲਿਆ ਸੀ, ਇਸ ਲਈ ਤੁਹਾਡੀ PC ਗੇਮ ਹੋਰ ਵੱਧ ਗਈMicrosoft Edge ਨੇ ਕਾਰਜ-ਕੁਸ਼ਲਤਾ ਮੋਡ ਦੇ ਨਾਲ ਘੱਟ ਸੰਸਾਧਨ (CPU) ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਤਾਂ ਜੋ ਤੁਹਾਡੀ PC ਗੇਮ ਤੁਹਾਡੇ ਗੇਮਿੰਗ ਤਜਰਬੇ ਨੂੰ ਵਧਾਉਣ ਲਈ ਇਸ ਨੂੰ ਹੋਰ ਪ੍ਰਾਪਤ ਕਰ ਸਕੇ। <a id="nurturing-link-1" class="nurturing-link" href="#">ਹੋਰ ਜਾਣੋ</a>Microsoft Edge ਸੁਯੋਗਤਾ ਮੋਡ ਦੇ ਨਾਲ ਆਪਣੀ PC ਗੇਮ ਦਾ ਹ�p );
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ 3343:
+/***/ ((module) => {
+
+var $ = Backbone.$,
+	Attachment;
+
+/**
+ * wp.media.model.Attachment
+ *
+ * @memberOf wp.media.model
+ *
+ * @class
+ * @augments Backbone.Model
+ */
+Attachment = Backbone.Model.extend(/** @lends wp.media.model.Attachment.prototype */{
+	/**
+	 * Triggered when attachment details change
+	 * Overrides Backbone.Model.sync
+	 *
+	 * @param {string} method
+	 * @param {wp.media.model.Attachment} model
+	 * @param {Object} [options={}]
+	 *
+	 * @return {Promise}
+	 */
+	sync: function( method, model, options ) {
+		// If the attachment does not yet have an `id`, return an instantly
+		// rejected promise. Otherwise, all of our requests will fail.
+		if ( _.isUndefined( this.id ) ) {
+			return $.Deferred().rejectWith( this ).promise();
+		}
+
+		// Overload the `read` request so Attachment.fetch() functions correctly.
+		if ( 'read' === method ) {
+			options = options || {};
+			options.context = this;
+			options.data = _.extend( options.data || {}, {
+				action: 'get-attachment',
+				id: this.id
+			});
+			return wp.media.ajax( options );
+
+		// Overload the `update` request so properties can be saved.
+		} else if ( 'update' === method ) {
+			// If we do not have the necessary nonce, fail immediately.
+			if ( ! this.get('nonces') || ! this.get('nonces').update ) {
+				return $.Deferred().rejectWith( this ).promise();
+			}
+
+			options = options || {};
+			options.context = this;
+
+			// Set the action and ID.
+			options.data = _.extend( options.data || {}, {
+				action:  'save-attachment',
+				id:      this.id,
+				nonce:   this.get('nonces').update,
+				post_id: wp.media.model.settings.post.id
+			});
+
+			// Record the values of the changed attributes.
+			if ( model.hasChanged() ) {
+				options.data.changes = {};
+
+				_.each( model.changed, function( value, key ) {
+					options.data.changes[ key ] = this.get( key );
+				}, this );
+			}
+
+			return wp.media.ajax( options );
+
+		// Overload the `delete` request so attachments can be removed.
+		// This will permanently delete an attachment.
+		} else if ( 'delete' === method ) {
+			options = options || {};
+
+			if ( ! options.wait ) {
+				this.destroyed = true;
+			}
+
+			options.context = this;
+			options.data = _.extend( options.data || {}, {
+				action:   'delete-post',
+				id:       this.id,
+				_wpnonce: this.get('nonces')['delete']
+			});
+
+			return wp.media.ajax( options ).done( function() {
+				this.destroyed = true;
+			}).fail( function() {
+				this.destroyed = false;
+			});
+
+		// Otherwise, fall back to `Backbone.sync()`.
+		} else {
+			/**
+			 * Call `sync` directly on Backbone.Model
+			 */
+			return Backbone.Model.prototype.sync.apply( this, arguments );
+		}
+	},
+	/**
+	 * Convert date strings into Date objects.
+	 *
+	 * @param {Object} resp The raw response object, typically returned by fetch()
+	 * @return {Object} The modified response object, which is the attributes hash
+	 *                  to be set on the model.
+	 */
+	parse: function( resp ) {
+		if ( ! resp ) {
+			return resp;
+		}
+
+		resp.date = new Date( resp.date );
+		resp.modified = new Date( resp.modified );
+		return resp;
+	},
+	/**
+	 * @param {Object} data The properties to be saved.
+	 * @param {Object} options Sync options. e.g. patch, wait, success, error.
+	 *
+	 * @this Backbone.Model
+	 *
+	 * @return {Promise}
+	 */
+	saveCompat: function( data, options ) {
+		var model = this;
+
+		// If we do not have the necessary nonce, fail immediately.
+		if ( ! this.get('nonces') || ! this.get('nonces').update ) {
+			return $.Deferred().rejectWith( this ).promise();
+		}
+
+		return wp.media.post( 'save-attachment-compat', _.defaults({
+			id:      this.id,
+			nonce:   this.get('nonces').update,
+			post_id: wp.media.model.settings.post.id
+		}, data ) ).done( function( resp, status, xhr ) {
+			model.set( model.parse( resp, xhr ), options );
+		});
+	}
+},/** @lends wp.media.model.Attachment */{
+	/**
+	 * Create a new model on the static 'all' attachments collection and return it.
+	 *
+	 * @static
+	 *
+	 * @param {Object} attrs
+	 * @return {wp.media.model.Attachment}
+	 */
+	create: function( attrs ) {
+		var Attachments = wp.media.model.Attachments;
+		return Attachments.all.push( attrs );
+	},
+	/**
+	 * Create a new model on the static 'all' attachments collection and return it.
+	 *
+	 * If this function has already been called for the id,
+	 * it returns the specified attachment.
+	 *
+	 * @static
+	 * @param {string} id A string used to identify a model.
+	 * @param {Backbone.Model|undefined} attachment
+	 * @return {wp.media.model.Attachment}
+	 */
+	get: _.memoize( function( id, attachment ) {
+		var Attachments = wp.media.model.Attachments;
+		return Attachments.all.push( attachment || { id: id } );
+	})
+});
+
+module.exports = Attachment;
+
+
+/***/ }),
+
+/***/ 8266:
+/***/ ((module) => {
+
+/**
+ * wp.media.model.Attachments
+ *
+ * A collection of attachments.
+ *
+ * This collection has no persistence with the server without supplying
+ * 'options.props.query = true', which will mirror the collection
+ * to an Attachments Query collection - @see wp.media.model.Attachments.mirror().
+ *
+ * @memberOf wp.media.model
+ *
+ * @class
+ * @augments Backbone.Collection
+ *
+ * @param {array}  [models]                Models to initialize with the collection.
+ * @param {object} [options]               Options hash for the collection.
+ * @param {string} [options.props]         Options hash for the initial query properties.
+ * @param {string} [options.props.order]   Initial order (ASC or DESC) for the collection.
+ * @param {string} [options.props.orderby] Initial attribute key to order the collection by.
+ * @param {string} [options.props.query]   Whether the collection is linked to an attachments query.
+ * @param {string} [options.observe]
+ * @param {string} [options.filters]
+ *
+ */
+var Attachments = Backbone.Collection.extend(/** @lends wp.media.model.Attachments.prototype */{
+	/**
+	 * @type {wp.media.model.Attachment}
+	 */
+	model: wp.media.model.Attachment,
+	/**
+	 * @param {Array} [models=[]] Array of models used to populate the collection.
+	 * @param {Object} [options={}]
+	 */
+	initialize: function( models, options ) {
+		options = options || {};
+
+		this.props   = new Backbone.Model();
+		this.filters = options.filters || {};
+
+		// Bind default `change` events to the `props` model.
+		this.props.on( 'change', this._changeFilteredProps, this );
+
+		this.props.on( 'change:order',   this._changeOrder,   this );
+		this.props.on( 'change:orderby', this._changeOrderby, this );
+		this.props.on( 'change:query',   this._changeQuery,   this );
+
+		this.props.set( _.defaults( options.props || {} ) );
+
+		if ( options.observe ) {
+			this.observe( options.observe );
+		}
+	},
+	/**
+	 * Sort the collection when the order attribute changes.
+	 *
+	 * @access private
+	 */
+	_changeOrder: function() {
+		if ( this.comparator ) {
+			this.sort();
+		}
+	},
+	/**
+	 * Set the default comparator only when the `orderby` property is set.
+	 *
+	 * @access private
+	 *
+	 * @param {Backbone.Model} model
+	 * @param {string} orderby
+	 */
+	_changeOrderby: function( model, orderby ) {
+		// If a different comparator is defined, bail.
+		if ( this.comparator && this.comparator !== Attachments.comparator ) {
+			return;
+		}
+
+		if ( orderby && 'post__in' !== orderby ) {
+			this.comparator = Attachments.comparator;
+		} else {
+			delete this.comparator;
+		}
+	},
+	/**
+	 * If the `query` property is set to true, query the server using
+	 * the `props` values, and sync the results to this collection.
+	 *
+	 * @access private
+	 *
+	 * @param {Backbone.Model} model
+	 * @param {boolean} query
+	 */
+	_changeQuery: function( model, query ) {
+		if ( query ) {
+			this.props.on( 'change', this._requery, this );
+			this._requery();
+		} else {
+			this.props.off( 'change', this._requery, this );
+		}
+	},
+	/**
+	 * @access private
+	 *
+	 * @param {Backbone.Model} model
+	 */
+	_changeFilteredProps: function( model ) {
+		// If this is a query, updating the collection will be handled by
+		// `this._requery()`.
+		if ( this.props.get('query') ) {
+			return;
+		}
+
+		var changed = _.chain( model.changed ).map( function( t, prop ) {
+			var filter = Attachments.filters[ prop ],
+				term = model.get( prop );
 
 			if ( ! filter ) {
 				return;
